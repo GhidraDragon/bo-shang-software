@@ -1,0 +1,139 @@
+Mar 15, 2024  2:50:58 PM (Read by you after 5 hours, 33 minutes, 52 seconds)
+28777
+Welcome to My USPS Text Tracking. Reply YES to confirm your subscription.
+
+Mar 15, 2024  8:25:03 PM
+Me
+YES
+
+Mar 15, 2024  8:25:18 PM
+28777
+You have successfully subscribed to USPS Text Tracking
+Std Msg & Data Rates May Apply
+Reply HELP 4 help
+Reply STOP to cancel.
+
+Mar 18, 2024  5:42:09 AM (Read by you after 6 hours, 6 minutes, 6 seconds)
+28777
+USPS 9400136206248575480163, Arrived at Post Office 03/18/2024 5:16am WOBURN MA 01801 Reply STOP to cancel
+
+Mar 18, 2024  5:42:09 AM (Read by you after 6 hours, 6 minutes, 6 seconds)
+28777
+USPS 9400136206248575480163, Expected Delivery on Monday, March 18, 2024 by 5:30pm Reply STOP to cancel
+
+Mar 18, 2024  9:52:43 AM (Read by you after 1 hour, 55 minutes, 32 seconds)
+28777
+USPS 9400136206248575480163, Expected Delivery on Monday, March 18, 2024 between 9:15am and 10:15am Reply STOP to cancel
+
+Mar 18, 2024 12:04:53 PM
+28777
+USPS 9400136206248575480163, Delivered, In/At Mailbox 03/18/2024 9:56am BURLINGTON MA 01803 Reply STOP to cancel
+
+May 01, 2024  2:11:22 AM (Read by you after 2 days, 3 hours, 2 minutes, 40 seconds)
+28777
+USPS 9470136110322921333198, Shipping Label Created, USPS Awaiting Item 04/30/2024 1:04am CORONA NY 11368 Reply STOP to cancel
+
+May 01, 2024  5:52:21 PM (Read by you after 1 day, 11 hours, 21 minutes, 41 seconds)
+28777
+USPS 9470136110322921333198, Arrived at USPS Origin Facility 05/01/2024 5:43pm QUEENS NY DISTRIBUTION CENTER Reply STOP to cancel
+
+May 01, 2024  7:25:32 PM (Read by you after 1 day, 9 hours, 48 minutes, 30 seconds)
+28777
+USPS 9470136110322921333198, Scheduled Delivery by Thursday, May 2, 2024 by 6:00pm Reply STOP to cancel
+
+May 01, 2024 10:43:01 PM (Read by you after 1 day, 6 hours, 31 minutes, 1 second)
+28777
+USPS 9470136110322921333198, Departed USPS Facility 05/01/2024 10:01pm QUEENS NY DISTRIBUTION CENTER Reply STOP to cancel
+
+May 01, 2024 11:14:33 PM (Read by you after 1 day, 5 hours, 59 minutes, 29 seconds)
+28777
+USPS 9470136110322921333198, Departed USPS Facility 05/01/2024 10:29pm QUEENS NY DISTRIBUTION CENTER Reply STOP to cancel
+
+May 02, 2024  2:06:53 AM (Read by you after 1 day, 3 hours, 7 minutes, 9 seconds)
+28777
+USPS 9470136110322921333198, Arrived USPS Facility 05/02/2024 1:19am SPRINGFIELD MA NETWORK DISTRIBUTION CENTER Reply STOP to cancel
+
+May 02, 2024  4:38:32 AM (Read by you after 1 day, 35 minutes, 30 seconds)
+28777
+USPS 9470136110322921333198, Arrived at USPS Destination Facility 05/02/2024 4:24am MIDDLESEX-ESSEX MA DISTRIBUTION CENTER Reply STOP to cancel
+
+May 02, 2024  5:01:51 AM (Read by you after 1 day, 12 minutes, 11 seconds)
+28777
+USPS 9470136110322921333198, Arrived USPS Facility 05/02/2024 4:06am MIDDLESEX-ESSEX MA DISTRIBUTION CENTER Reply STOP to cancel
+
+May 02, 2024  7:16:39 AM (Read by you after 21 hours, 57 minutes, 23 seconds)
+28777
+USPS 9470136110322921333198. Latest status Out for Delivery 05/02/2024 7:10am BURLINGTON MA 01803 Reply STOP to cancel
+
+May 02, 2024  8:53:35 AM (Read by you after 20 hours, 20 minutes, 27 seconds)
+28777
+USPS Expected Delivery Between 6:15am and 10:15am for item 9205590302606800118319. Latest status Out for Delivery 05/02/2024 8:26am BURLINGTON MA 01803 Reply STOP to cancel
+
+May 02, 2024  9:58:27 AM (Read by you after 19 hours, 15 minutes, 35 seconds)
+28777
+USPS 9205590302606800118319, Expected Delivery on Thursday, May 2, 2024 between 9:30am and 10:30am Reply STOP to cancel
+
+May 02, 2024 10:05:19 AM (Read by you after 19 hours, 8 minutes, 43 seconds)
+28777
+USPS 9470136110322921333198, Delivered, In/At Mailbox 05/02/2024 10:05am BURLINGTON MA 01803 Reply STOP to cancel
+
+May 02, 2024 10:22:15 AM (Read by you after 18 hours, 51 minutes, 47 seconds)
+28777
+USPS 9205590302606800118319, Delivered, In/At Mailbox 05/02/2024 10:05am BURLINGTON MA 01803 Reply STOP to cancel
+
+May 03, 2024  5:13:51 AM (Read by you after 11 seconds)
+28777
+USPS 9205590302606800114663, Arrived at Post Office 05/03/2024 4:53am WOBURN MA 01801 Reply STOP to cancel
+
+May 03, 2024  5:13:53 AM (Read by you after 9 seconds)
+28777
+USPS 9205590302606800114663, Expected Delivery on Friday, May 3, 2024 by 5:35pm Reply STOP to cancel
+
+May 03, 2024  7:13:13 AM
+28777
+USPS expected arrival by 5:35pm for item 9205590302606800114663. Latest status Out for Delivery 05/03/2024 6:10am BURLINGTON MA 01803 Reply STOP to cancel
+
+May 03, 2024  9:54:10 AM
+28777
+USPS 9205590302606800114663, Delivered, In/At Mailbox 05/03/2024 9:54am BURLINGTON MA 01803 Reply STOP to cancel
+
+May 06, 2024 11:38:36 AM
+28777
+USPS 92612903466048000014589032, Arrived Shipping Partner Facility, USPS Awaiting Item 05/06/2024 8:12am MONROE TOWNSHIP NJ 08831 Reply STOP to cancel
+
+May 07, 2024 11:37:29 AM
+28777
+USPS 92612903466048000014589032, Departed Shipping Partner Facility, USPS Awaiting Item 05/07/2024 10:35am MONROE TOWNSHIP NJ 08831 Reply STOP to cancel
+
+May 07, 2024  4:42:40 PM
+28777
+USPS 92612903466048000014589032, Arrived Shipping Partner Facility, USPS Awaiting Item 05/07/2024 3:41pm NORTON MA 02766 Reply STOP to cancel
+
+May 08, 2024  2:30:28 PM
+28777
+USPS 92612903466048000014589032, Expected Delivery by Thursday, May 9, 2024 by 9:00pm Reply STOP to cancel
+
+May 08, 2024  2:30:28 PM
+28777
+USPS 92612903466048000014589032, USPS in possession of item 05/08/2024 1:55pm WOBURN MA 01801 Reply STOP to cancel
+
+May 09, 2024  4:27:39 AM
+28777
+USPS 92612903466048000014589032, Arrived at Post Office 05/09/2024 4:09am WOBURN MA 01801 Reply STOP to cancel
+
+May 09, 2024  6:33:11 AM
+28777
+USPS expected arrival by 5:35pm for item 92612903466048000014589032. Latest status Out for Delivery 05/09/2024 6:10am BURLINGTON MA 01803 Reply STOP to cancel
+
+May 09, 2024 10:52:07 AM
+28777
+USPS 92612903466048000014589032, Delivered, Front Door/Porch 05/09/2024 10:16am BURLINGTON MA 01803 Reply STOP to cancel
+
+Jul 15, 2024  2:47:39 PM
+28777
+USPS 9400109109563526493804, Shipping Label Created, USPS Awaiting Item 07/15/2024 10:04am AUSTIN TX 78723 Reply STOP to cancel
+
+Jul 15, 2024  9:06:24 PM
+28777
+USPS 9400109109563526493804, Arrived USPS Facility 07/15/2024 7:57pm AUSTIN TX PACKAGE SORTING CENTER Reply STOP to cancel
+

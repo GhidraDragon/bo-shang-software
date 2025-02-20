@@ -1,0 +1,17 @@
+Aug 20, 2024  8:41:07 AM (Read by you after 1 hour, 54 minutes, 18 seconds)
+35922
+FLYAA: American will send
+you important flight updates.
+Msg/data rates may apply.
+Freq depends on flights.
+Reply HELP for help or
+STOP to cancel.
+
+Aug 21, 2024  4:09:06 AM (Read by you after 7 seconds)
+35922
+Reminder for trip RVSRKG: American flight 2798 from SFO to CLT will depart at 5:08AM from gate B24 in terminal 1. Reply STOP to unsubscribe.
+
+Aug 21, 2024 12:51:03 PM (Read by you after 59 minutes, 55 seconds)
+35922
+Your next flight to BOS leaves in 1 hr, 28 min. American Airlines 922 departs CLT at 2:20PM from gate B12. Reply STOP to unsubscribe.
+

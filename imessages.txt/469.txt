@@ -1,0 +1,4 @@
+Feb 29, 2024 11:26:50 AM
+469
+T-Mobile: A SIM change has been requested for this line. Reply with 1 to Approve this change or 2 to Decline. If we do not hear a response from you within 10 minutes, the change will proceed as requested.
+

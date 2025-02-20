@@ -1,0 +1,80 @@
+Mar 17, 2024  1:18:44 PM (Read by you after 12 seconds)
+48773
+FedEx: Welcome! Reply YES to opt-in and receive future notifications on packages you want to track. Msg&data rates may apply. Reply HELP for help.
+
+Mar 17, 2024  1:19:00 PM
+Me
+YES
+
+Mar 17, 2024  1:19:02 PM
+48773
+FedEx: Operational Delay in NORTH BILLERICA, MA US on 03/17 12:41p. Visit FedEx.com for current shipment status. fedex.com/t/272217796685/en_US STOP to cancel.
+
+Mar 17, 2024  1:19:02 PM
+48773
+FedEx: Thank you. Msg&data rates may apply. Message frequency will depend on shipment activity. Reply HELP for help. Reply STOP to cancel.
+
+Mar 17, 2024  1:19:45 PM (Read by you after 1 hour, 7 minutes, 21 seconds)
+48773
+FedEx: A package is on the way! Your scheduled delivery is tomorrow 03/18, estimated between 10:40A - 2:40P. Signature at address req'd. fedex.com/t/272217796685/en_US Reply ENROLL for more delivery options. Reply HELP for help. STOP to cancel.
+
+Mar 17, 2024  1:29:57 PM (Read by you after 57 minutes, 9 seconds)
+48773
+FedEx: Your package is delayed due to operational reasons. Scheduled delivery is 03/18. Estimated between 10:40A - 2:40P. fedex.com/t/272217796685/en_US Reply HELP for help. STOP to cancel.
+
+Mar 17, 2024  1:30:03 PM (Read by you after 57 minutes, 3 seconds)
+48773
+FedEx: A package is on its way! Your scheduled delivery is 03/18, estimated between 10:40A - 2:40P. Signature at address req'd. fedex.com/t/272217796685/en_US Reply ENROLL for more delivery options. Reply HELP for help. STOP to cancel.
+
+Mar 17, 2024  1:30:05 PM (Read by you after 57 minutes, 1 second)
+48773
+FedEx: You're getting a package from ASUSTEK! Once we get it, we'll send you an update with the delivery date. fedex.com/t/272217796685/en_US Reply HELP for help. STOP to cancel.
+
+Mar 18, 2024  8:48:56 AM (Read by you after 12 hours, 48 minutes, 10 seconds)
+48773
+FedEx: Your package is out for delivery today! It's estimated between 10:40A-2:40P. fedex.com/t/272217796685/en_US  Signature at address req'd. Reply HELP for help. STOP to cancel.
+
+Mar 18, 2024  4:24:22 PM (Read by you after 5 hours, 12 minutes, 44 seconds)
+48773
+FedEx: We weren't able to deliver today 03/18 at. We'll reattempt delivery on the next business day. Signature at address req'd. fedex.com/t/272217796685/en_US Reply HELP for help. STOP to cancel.
+
+Mar 18, 2024  6:46:01 PM (Read by you after 2 hours, 51 minutes, 5 seconds)
+48773
+FedEx: A package is on the way! Your scheduled delivery is tomorrow 03/19. Signature at address req'd. fedex.com/t/272217796685/en_US Reply ENROLL for more delivery options. Reply HELP for help. STOP to cancel.
+
+Mar 18, 2024  6:53:48 PM (Read by you after 2 hours, 43 minutes, 18 seconds)
+48773
+FedEx: Your package is delayed. It's scheduled to arrive on 03/19. fedex.com/t/272217796685/en_US Reply HELP for help. STOP to cancel.
+
+Mar 19, 2024  8:52:41 AM (Read by you after 2 hours, 35 minutes, 44 seconds)
+48773
+FedEx: Your package is out for delivery today 03/19. Signature at address req'd. fedex.com/t/272217796685/en_US Reply HELP for help. STOP to cancel.
+
+Mar 19, 2024 12:13:36 PM (Read by you after 10 hours, 45 minutes, 15 seconds)
+48773
+FedEx: A package is on the way! Your scheduled delivery is tomorrow 03/20. Signature at address req'd. fedex.com/t/272217796685/en_US Reply ENROLL for more delivery options. Reply HELP for help. STOP to cancel.
+
+Mar 19, 2024 12:21:02 PM (Read by you after 10 hours, 37 minutes, 49 seconds)
+48773
+FedEx: Your package is delayed. It's scheduled to arrive on 03/20. fedex.com/t/272217796685/en_US Reply HELP for help. STOP to cancel.
+
+Mar 19, 2024  3:14:22 PM (Read by you after 7 hours, 44 minutes, 29 seconds)
+48773
+FedEx: We weren't able to deliver today 03/20 at. We'll make a final delivery attempt on the next business day. Signature at address req'd.. fedex.com/t/272217796685/en_US Reply HELP for help. STOP to cancel.
+
+Mar 20, 2024  8:21:15 AM (Read by you after 24 minutes, 15 seconds)
+48773
+FedEx: Your package is out for delivery today 03/20. Signature at address req'd. fedex.com/t/272217796685/en_US Reply HELP for help. STOP to cancel.
+
+Mar 20, 2024 12:35:34 PM (Read by you after 4 hours, 53 minutes, 3 seconds)
+48773
+FedEx: A package is on the way! Your scheduled delivery is tomorrow 03/21. Signature at address req'd. fedex.com/t/272217796685/en_US Reply ENROLL for more delivery options. Reply HELP for help. STOP to cancel.
+
+Mar 21, 2024  8:02:44 AM (Read by you after 47 minutes, 14 seconds)
+48773
+FedEx: Your package is out for delivery today 03/21. Signature at address req'd. fedex.com/t/272217796685/en_US Reply HELP for help. STOP to cancel.
+
+Mar 21, 2024 10:33:17 AM
+48773
+FedEx: A package was delivered 03/21 at 10:26A. Signed for by BSHANG. Rate your delivery: fedex.com/t/272217796685/en_US Reply HELP for help. STOP to cancel
+

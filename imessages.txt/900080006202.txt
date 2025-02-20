@@ -1,0 +1,4 @@
+Jun 20, 2023  1:23:17 PM (Read by you after 3 seconds)
+900080006202
+//VZWVVM:SYNC:ev=NM;id=3;c=2;t=v;s=18563438874;dt=19/06/2023 11:40 -0400;l=1;dev_t=5
+

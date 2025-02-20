@@ -1,0 +1,20 @@
+Jan 28, 2023  5:44:53 PM (Read by you after 7 seconds)
+realkeston@gmail.com
+Apple Cash transaction: Requested $20.
+
+Jan 28, 2023  5:45:35 PM (Read by them after 1 second)
+Me
+Apple Cash transaction: Sent $20.
+
+Jan 28, 2023  5:56:04 PM (Read by you after 13 seconds)
+realkeston@gmail.com
+Apple Cash transaction: Requested $20.
+
+Jan 28, 2023  5:56:39 PM (Read by them after 1 second)
+Me
+Apple Cash transaction: Sent $20.
+
+Aug 24, 2023  8:32:50 PM (Read by you after 13 seconds)
+realkeston@gmail.com
+Please let me know when you want to buy BTC or ETH 
+

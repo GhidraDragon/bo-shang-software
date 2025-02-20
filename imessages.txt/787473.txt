@@ -1,0 +1,4 @@
+Feb 27, 2024  9:00:01 PM
+787473
+You may have exceeded the tax threshold in Lithuania. Use our tool to see where you need to collect tax. Review tax thresholds: https://dashboard.stripe.com/b/acct_1N8LZ6KIck2RTeYN?destination=%2Ftax%2Fthresholds
+

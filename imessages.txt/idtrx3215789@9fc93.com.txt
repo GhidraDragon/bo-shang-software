@@ -1,0 +1,15 @@
+Jun 23, 2023  8:25:06 AM (Read by you after 13 seconds)
+idtrx3215789@9fc93.com
+FROM: USPS
+Subject: Due to an invalid address
+You have a package thats need to be delivered, 
+but it has been suspended due to an incorrect delivery address.
+If you do not update your address before 24 hours, your package will be returned to sender.
+To delivery your package, please update your address by click the link below.
+
+eb4.us/5d516af6
+
+Kind regards,
+USPS Team
+Notification ID : 5870399621
+

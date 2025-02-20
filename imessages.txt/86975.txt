@@ -1,0 +1,24 @@
+Jul 17, 2024 12:42:44 PM (Read by you after 24 seconds)
+86975
+FreeMsg: TD Bank Fraud Dept. 18442913199 Did you attempt $130.00 at PP*APPLE.COM/BI with card x7123? Reply YES or NO. Case 6198319 To Opt Out reply STOP
+
+Jul 17, 2024 12:43:15 PM
+Me
+YES
+
+Jul 17, 2024 12:43:17 PM
+86975
+FreeMsg: TD Bank Fraud Dept: Thank you for confirming this activity. If the card declined, please allow 2 minutes before using it again. To Opt Out reply STOP.
+
+Aug 09, 2024  6:44:29 AM (Read by you after 11 seconds)
+86975
+FreeMsg: TD Bank Fraud Dept. 18444580412 Did you attempt $105.19 at APPLE.COM/US with card x2928? Reply YES or NO. Case 4897678 To Opt Out reply STOP
+
+Aug 09, 2024  6:44:43 AM
+Me
+YES
+
+Aug 09, 2024  6:44:46 AM
+86975
+FreeMsg: TD Bank Fraud Dept: Thank you for confirming this activity. If the card declined, please allow 2 minutes before using it again. To Opt Out reply STOP.
+

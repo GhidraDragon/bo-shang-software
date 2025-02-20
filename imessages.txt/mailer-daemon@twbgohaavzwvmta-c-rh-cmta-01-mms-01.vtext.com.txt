@@ -1,0 +1,19 @@
+Mar 22, 2024  5:48:23 PM
+mailer-daemon@twbgohaavzwvmta-c-rh-cmta-01-mms-01.vtext.com
+Undelivered Mail Returned to Sender
+Part1
+This is the mail system at host twbgohaavzwvmta-c-rh-cmta-01-mms-01.vtext.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<fu.shang@icloud.com>: host mx01.mail.icloud.com[17.56.9.31] said: 552 5.2.2
+    <fu.shang@icloud.com>: user is over quota (in reply to RCPT TO command)
+

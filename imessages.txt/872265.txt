@@ -1,0 +1,5207 @@
+May 13, 2023 11:57:11 PM (Read by you after 7 minutes, 31 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $327.24 at Bestbuycom 0994.
+To Opt-out txt STOP.
+
+May 13, 2023 11:57:11 PM (Read by you after 7 minutes, 31 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $327.24 at Bestbuycom 0994. 
+To Opt-out txt STOP.
+
+May 13, 2023 11:57:12 PM (Read by you after 7 minutes, 30 seconds)
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+May 13, 2023 11:59:06 PM (Read by you after 5 minutes, 36 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $2.00 at shopsmarter.com.
+To Opt-out txt STOP.
+
+May 13, 2023 11:59:06 PM (Read by you after 5 minutes, 36 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $2.00 at shopsmarter.com. 
+To Opt-out txt STOP.
+
+May 14, 2023 12:04:36 AM (Read by you after 6 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $145.18 at Google *google Store.
+To Opt-out txt STOP.
+
+May 14, 2023 12:04:36 AM (Read by you after 6 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $145.18 at Google *google Store.
+To Opt-out txt STOP.
+
+May 14, 2023 12:04:37 AM (Read by you after 5 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $145.18 at Google *google Store. 
+To Opt-out txt STOP.
+
+May 14, 2023 12:04:38 AM (Read by you after 4 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $145.18 at Google *google Store.
+To Opt-out txt STOP.
+
+May 14, 2023 12:04:38 AM (Read by you after 4 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $145.18 at Google *google Store.
+To Opt-out txt STOP.
+
+May 14, 2023 12:04:39 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $145.18 at Google *google Store. 
+To Opt-out txt STOP.
+
+May 14, 2023 12:05:13 AM (Read by you after 9 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $145.18 at Google *google Store.
+To Opt-out txt STOP.
+
+May 14, 2023 12:05:15 AM (Read by you after 7 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $145.18 at Google *google Store. 
+To Opt-out txt STOP.
+
+May 14, 2023 12:05:15 AM (Read by you after 7 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $145.18 at Google *google Store.
+To Opt-out txt STOP.
+
+May 14, 2023 12:08:11 AM (Read by you after 4 minutes, 41 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $145.18 at Google *google Store.
+To Opt-out txt STOP.
+
+May 14, 2023 12:08:11 AM (Read by you after 4 minutes, 41 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $145.18 at Google *google Store. 
+To Opt-out txt STOP.
+
+May 16, 2023  7:23:24 AM (Read by you after 26 minutes, 34 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $3.49 on 05/16/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+May 16, 2023  7:56:46 AM (Read by you after 9 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 05/15
+Debit Amount: $3.49
+To Opt-out txt STOP
+
+May 17, 2023  7:30:06 AM (Read by you after 42 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 05/16
+Payment Amount: $3.49
+To Opt-out txt STOP
+
+May 17, 2023  7:30:28 AM (Read by you after 20 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 05/16
+Debit Amount: $327.24
+To Opt-out txt STOP
+
+May 17, 2023  7:30:29 AM (Read by you after 19 seconds)
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 05/17
+Threshold: >$10.00
+To Opt-out txt STOP
+
+May 17, 2023  7:33:22 AM (Read by you after 30 minutes, 4 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 05/16
+Debit Amount: $43.48
+To Opt-out txt STOP
+
+May 17, 2023 11:02:18 AM (Read by you after 1 minute, 7 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $340.00 on 05/17/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+May 18, 2023  6:49:27 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 05/17
+Payment Amount: $340.00
+To Opt-out txt STOP
+
+May 18, 2023  6:51:59 AM (Read by you after 2 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 05/17
+Credit Amount: $25.00
+To Opt-out txt STOP
+
+May 18, 2023  8:28:18 AM (Read by you after 8 minutes, 3 seconds)
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+May 18, 2023  8:28:19 AM (Read by you after 8 minutes, 2 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $276.24 at bestbuy.com.
+To Opt-out txt STOP.
+
+May 18, 2023  8:28:20 AM (Read by you after 8 minutes, 1 second)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $276.24 at bestbuy.com. 
+To Opt-out txt STOP.
+
+May 20, 2023  7:37:46 AM (Read by you after 7 minutes, 15 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 05/19
+Debit Amount: $276.24
+To Opt-out txt STOP
+
+May 20, 2023  7:39:18 AM (Read by you after 5 minutes, 43 seconds)
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 05/20
+Threshold: >$10.00
+To Opt-out txt STOP
+
+May 20, 2023  8:36:18 AM (Read by you after 21 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $5.00 at Visible. 
+To Opt-out txt STOP.
+
+May 23, 2023  7:56:45 AM (Read by you after 1 hour, 14 minutes, 31 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 05/22
+Debit Amount: $5.00
+To Opt-out txt STOP
+
+May 26, 2023  4:07:04 PM (Read by you after 8 minutes, 56 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $29.79 at Total Wine And More 1705.
+To Opt-out txt STOP.
+
+May 31, 2023 10:58:46 AM (Read by you after 10 minutes, 4 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $250.00 on 05/31/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+May 31, 2023 12:50:42 PM (Read by you after 9 minutes, 4 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 05/30
+Debit Amount: $29.79
+To Opt-out txt STOP
+
+Jun 01, 2023  7:32:53 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 05/31
+Payment Amount: $250.00
+To Opt-out txt STOP
+
+Jun 01, 2023 11:34:46 AM (Read by you after 1 minute, 36 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $66.75 on 06/01/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Jun 02, 2023  7:15:44 AM (Read by you after 2 hours, 48 minutes, 27 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 06/01
+Payment Amount: $66.75
+To Opt-out txt STOP
+
+Jun 03, 2023  8:18:32 AM (Read by you after 4 seconds)
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 06/02. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Jun 05, 2023  9:25:22 AM (Read by you after 7 minutes, 5 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $86.00 at Tmobile*postpaid Pda.
+To Opt-out txt STOP.
+
+Jun 05, 2023  9:25:29 AM (Read by you after 6 minutes, 58 seconds)
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+Jun 05, 2023  9:25:29 AM (Read by you after 6 minutes, 58 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $86.00 at Tmobile*postpaid Pda. 
+To Opt-out txt STOP.
+
+Jun 07, 2023  7:36:48 AM (Read by you after 12 minutes, 56 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 06/06
+Debit Amount: $86.00
+To Opt-out txt STOP
+
+Jun 07, 2023  7:37:28 AM (Read by you after 12 minutes, 16 seconds)
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 06/07
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Jun 08, 2023  6:28:42 AM (Read by you after 12 minutes, 12 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 06/07
+Credit Amount: $29.94
+To Opt-out txt STOP
+
+Jun 14, 2023  4:37:14 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $350.00 at Google*ads6375521560. 
+To Opt-out txt STOP.
+
+Jun 14, 2023  4:37:15 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $350.00 at Google*ads6375521560.
+To Opt-out txt STOP.
+
+Jun 16, 2023  4:44:31 AM (Read by you after 3 days, 5 hours, 35 minutes, 41 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 06/15
+Debit Amount: $350.00
+To Opt-out txt STOP
+
+Jun 19, 2023 12:18:44 AM (Read by you after 10 hours, 1 minute, 28 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $25.00 at Visible.
+To Opt-out txt STOP.
+
+Jun 19, 2023 12:18:44 AM (Read by you after 10 hours, 1 minute, 28 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $25.00 at Visible. 
+To Opt-out txt STOP.
+
+Jun 19, 2023 11:54:10 AM (Read by you after 1 minute, 29 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $406.06 on 06/19/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Jul 01, 2023 10:47:29 AM (Read by you after 11 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $262.39 at Google Ads6375521560. 
+To Opt-out txt STOP.
+
+Jul 01, 2023 10:47:30 AM (Read by you after 10 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $262.39 at Google Ads6375521560.
+To Opt-out txt STOP.
+
+Jul 01, 2023 10:47:31 AM (Read by you after 9 seconds)
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+Jul 01, 2023 10:47:31 AM (Read by you after 9 seconds)
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+Jul 01, 2023  9:27:25 PM (Read by you after 11 hours, 46 minutes, 25 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $350.00 at Google*ads6375521560.
+To Opt-out txt STOP.
+
+Jul 01, 2023  9:27:25 PM (Read by you after 11 hours, 46 minutes, 25 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $350.00 at Google*ads6375521560. 
+To Opt-out txt STOP.
+
+Jul 04, 2023 10:02:33 AM (Read by you after 13 minutes, 40 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 07/03
+Debit Amount: $262.39
+To Opt-out txt STOP
+
+Jul 04, 2023 10:11:11 AM (Read by you after 5 minutes, 2 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 07/03
+Debit Amount: $350.00
+To Opt-out txt STOP
+
+Jul 06, 2023  7:30:59 AM (Read by you after 2 hours, 2 minutes, 41 seconds)
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 07/05. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Jul 06, 2023  7:31:01 AM (Read by you after 2 hours, 2 minutes, 39 seconds)
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 07/05. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Jul 06, 2023  6:34:16 PM (Read by you after 11 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $500.00 at Google*ads6375521560. 
+To Opt-out txt STOP.
+
+Jul 06, 2023  6:34:17 PM (Read by you after 10 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $500.00 at Google*ads6375521560.
+To Opt-out txt STOP.
+
+Jul 06, 2023  6:34:17 PM (Read by you after 10 seconds)
+872265
+U.S. Bank Alert: Your credit card ending in 7156 was declined at Google*ads6375521560 because 
+your credit limit has been exceeded. You'll need to make a payment before you can use it again.
+Make a payment at https://usbankflyer.onelink.me/Woj5/dclbillpaysms?act=7156&client=billpay.
+To Opt-out txt STOP.
+
+Jul 06, 2023  6:36:45 PM (Read by you after 9 minutes, 47 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $100.00 on 07/06/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Jul 07, 2023  6:28:09 AM (Read by you after 2 minutes, 22 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 07/06
+Payment Amount: $100.00
+To Opt-out txt STOP
+
+Jul 10, 2023  5:20:58 AM (Read by you after 1 hour, 3 minutes, 14 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $252.00 at paddle.net* elfsight.
+To Opt-out txt STOP.
+
+Jul 10, 2023  5:20:59 AM (Read by you after 1 hour, 3 minutes, 13 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $252.00 at paddle.net* elfsight. 
+To Opt-out txt STOP.
+
+Jul 10, 2023  5:21:00 AM (Read by you after 1 hour, 3 minutes, 12 seconds)
+872265
+U.S. Bank Alert: Your credit card ending in 7156 was declined at paddle.net* elfsight because 
+the card has expired. Please use your new card.
+If you don't have it, you can request a replacement at https://usbankflyer.onelink.me/Woj5/dclreplacecardsms?act=7156&client=creditCardReplacement.
+To Opt-out txt STOP.
+
+Jul 10, 2023  5:21:07 AM (Read by you after 1 hour, 3 minutes, 5 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $252.00 at paddle.net* elfsight.
+To Opt-out txt STOP.
+
+Jul 10, 2023  5:21:08 AM (Read by you after 1 hour, 3 minutes, 4 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $252.00 at paddle.net* elfsight. 
+To Opt-out txt STOP.
+
+Jul 11, 2023  9:24:49 PM (Read by you after 2 minutes, 9 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $537.39 on 07/12/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Jul 12, 2023  8:05:48 AM (Read by you after 20 minutes, 56 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 07/11
+Debit Amount: $252.00
+To Opt-out txt STOP
+
+Jul 13, 2023  6:45:18 AM (Read by you after 21 minutes, 52 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 07/12
+Payment Amount: $537.39
+To Opt-out txt STOP
+
+Jul 13, 2023  9:01:53 AM (Read by you after 5 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $468.18 at Google *google Store.
+To Opt-out txt STOP.
+
+Jul 13, 2023  9:01:57 AM (Read by you after 2 hours, 35 minutes, 32 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $468.18 at Google *google Store. 
+To Opt-out txt STOP.
+
+Jul 13, 2023  4:41:09 PM (Read by you after 6 hours, 59 minutes, 50 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $5.00 at Google *google Store. 
+To Opt-out txt STOP.
+
+Jul 14, 2023  8:45:51 AM (Read by you after 10 minutes, 53 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $252.00 on 07/14/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Jul 14, 2023  8:53:18 AM (Read by you after 3 minutes, 26 seconds)
+872265
+U.S. Bank Alerts: Credit card ending 4867 is LOCKED. Call 1-800-285-8585 if lost or stolen. Log in to UNLOCK. Msg&Data rates may apply. Txt STOP to Quit.
+
+Jul 14, 2023  8:53:32 AM (Read by you after 3 minutes, 12 seconds)
+872265
+U.S. Bank Alerts: Credit card ending 7156 is LOCKED. Call 1-800-285-8585 if lost or stolen. Log in to UNLOCK. Msg&Data rates may apply. Txt STOP to Quit.
+
+Jul 15, 2023  7:38:44 AM (Read by you after 2 hours, 32 minutes, 31 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 07/14
+Payment Amount: $252.00
+To Opt-out txt STOP
+
+Jul 15, 2023  7:39:57 AM (Read by you after 2 hours, 31 minutes, 18 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 07/14
+Debit Amount: $5.00
+To Opt-out txt STOP
+
+Jul 15, 2023  7:43:08 AM (Read by you after 2 hours, 28 minutes, 7 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 07/14
+Debit Amount: $468.18
+To Opt-out txt STOP
+
+Jul 22, 2023  9:00:52 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 07/21
+Credit Amount: $252.00
+To Opt-out txt STOP
+
+Jul 25, 2023 12:31:25 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $179.56 at Google *google Store.
+To Opt-out txt STOP.
+
+Jul 25, 2023 12:31:25 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $179.56 at Google *google Store. 
+To Opt-out txt STOP.
+
+Jul 25, 2023 12:31:26 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $179.56 at Google *google Store.
+To Opt-out txt STOP.
+
+Jul 25, 2023 11:24:59 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $6.40 at Google *domains. 
+To Opt-out txt STOP.
+
+Jul 26, 2023  5:12:25 PM (Read by you after 14 hours, 31 minutes, 18 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $9.60 at Google *domains. 
+To Opt-out txt STOP.
+
+Jul 27, 2023  7:43:40 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 07/26
+Debit Amount: $6.40
+To Opt-out txt STOP
+
+Jul 27, 2023  7:44:33 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 07/26
+Debit Amount: $179.56
+To Opt-out txt STOP
+
+Jul 28, 2023  6:57:01 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 07/27
+Debit Amount: $9.60
+To Opt-out txt STOP
+
+Jul 31, 2023  7:18:17 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $53.11 at Norton *np1477182507. 
+To Opt-out txt STOP.
+
+Jul 31, 2023  7:18:17 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $53.11 at Norton *np1477182507.
+To Opt-out txt STOP.
+
+Aug 01, 2023  8:57:49 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 07/31
+Payment Amount: $153.00
+To Opt-out txt STOP
+
+Aug 02, 2023  6:27:11 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/01
+Debit Amount: $53.11
+To Opt-out txt STOP
+
+Aug 04, 2023  7:53:21 AM
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 08/03. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Aug 09, 2023  4:06:01 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $469.85 on 08/09/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Aug 10, 2023  7:00:36 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 08/09
+Payment Amount: $500.00
+To Opt-out txt STOP
+
+Aug 10, 2023  7:03:32 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/09
+Payment Amount: $469.85
+To Opt-out txt STOP
+
+Aug 11, 2023  6:43:28 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 08/10
+Payment Amount: $2,465.70
+To Opt-out txt STOP
+
+Aug 13, 2023  4:41:13 PM (Read by you after 14 hours, 46 minutes, 12 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $5.00 at Google *google Store. 
+To Opt-out txt STOP.
+
+Aug 15, 2023  7:29:04 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 08/14
+Payment Amount: $295.09
+To Opt-out txt STOP
+
+Aug 15, 2023  7:37:18 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/14
+Debit Amount: $5.00
+To Opt-out txt STOP
+
+Aug 18, 2023  1:15:23 PM
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+Aug 18, 2023  1:15:23 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $212.21 at Cvs/pharmacy #11301.
+To Opt-out txt STOP.
+
+Aug 22, 2023  9:24:24 AM (Read by you after 1 hour, 16 minutes, 23 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/21
+Debit Amount: $212.21
+To Opt-out txt STOP
+
+Aug 22, 2023  9:25:52 AM (Read by you after 1 hour, 14 minutes, 55 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 08/21
+Payment Amount: $300.00
+To Opt-out txt STOP
+
+Aug 22, 2023  9:29:56 AM (Read by you after 1 hour, 10 minutes, 51 seconds)
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 08/22
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Aug 22, 2023 10:10:29 AM (Read by you after 30 minutes, 18 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $217.21 on 08/22/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Aug 23, 2023  6:38:03 AM (Read by you after 3 hours, 5 minutes, 22 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/22
+Payment Amount: $217.21
+To Opt-out txt STOP
+
+Aug 25, 2023  8:41:04 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $52.06 at Google *google Store. 
+To Opt-out txt STOP.
+
+Aug 25, 2023  8:41:04 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $52.06 at Google *google Store.
+To Opt-out txt STOP.
+
+Aug 25, 2023  8:41:05 AM
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+Aug 25, 2023  9:08:29 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $15.93 at Google *google Store. 
+To Opt-out txt STOP.
+
+Aug 25, 2023  9:08:30 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $15.93 at Google *google Store.
+To Opt-out txt STOP.
+
+Aug 25, 2023 12:04:21 PM (Read by you after 1 hour, 52 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $25.00 at Visible. 
+To Opt-out txt STOP.
+
+Aug 25, 2023 12:04:22 PM (Read by you after 1 hour, 51 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $25.00 at Visible.
+To Opt-out txt STOP.
+
+Aug 25, 2023  2:46:32 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $30.98 at The Liquor Cabinet.
+To Opt-out txt STOP.
+
+Aug 26, 2023  1:55:27 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $7.65 at Google *domains. 
+To Opt-out txt STOP.
+
+Aug 26, 2023 10:10:46 PM (Read by you after 10 hours, 37 minutes, 9 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $7.65 at Google *domains. 
+To Opt-out txt STOP.
+
+Aug 27, 2023  4:22:15 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $50.00 at Harvard University Gif.
+To Opt-out txt STOP.
+
+Aug 27, 2023  4:22:16 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $50.00 at Harvard University Gif. 
+To Opt-out txt STOP.
+
+Aug 29, 2023  9:29:35 AM (Read by you after 5 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/28
+Debit Amount: $52.06
+To Opt-out txt STOP
+
+Aug 29, 2023  9:30:10 AM (Read by you after 10 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/28
+Debit Amount: $25.00
+To Opt-out txt STOP
+
+Aug 29, 2023  9:30:56 AM (Read by you after 5 minutes, 46 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/28
+Debit Amount: $7.65
+To Opt-out txt STOP
+
+Aug 29, 2023  9:33:51 AM (Read by you after 2 minutes, 51 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 08/28
+Credit Amount: $350.00
+To Opt-out txt STOP
+
+Aug 29, 2023  9:33:52 AM (Read by you after 2 minutes, 50 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/28
+Debit Amount: $15.93
+To Opt-out txt STOP
+
+Aug 29, 2023  9:36:39 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/28
+Debit Amount: $7.65
+To Opt-out txt STOP
+
+Aug 29, 2023  9:36:57 AM (Read by you after 2 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 08/28
+Credit Amount: $262.39
+To Opt-out txt STOP
+
+Aug 29, 2023  9:39:14 AM (Read by you after 3 hours, 17 minutes, 44 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/28
+Debit Amount: $30.98
+To Opt-out txt STOP
+
+Aug 29, 2023  9:39:21 AM (Read by you after 3 hours, 17 minutes, 37 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 08/28
+Credit Amount: $350.00
+To Opt-out txt STOP
+
+Aug 30, 2023  6:24:04 AM (Read by you after 26 minutes, 20 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/29
+Debit Amount: $50.00
+To Opt-out txt STOP
+
+Aug 30, 2023  5:07:14 PM (Read by you after 3 hours, 18 minutes, 46 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $53.09 at Amzn Mktp Us.
+To Opt-out txt STOP.
+
+Aug 30, 2023  5:07:15 PM (Read by you after 3 hours, 18 minutes, 45 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $53.09 at Amzn Mktp Us. 
+To Opt-out txt STOP.
+
+Aug 30, 2023  5:33:43 PM (Read by you after 2 hours, 52 minutes, 17 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $423.94 at apple.com/us. 
+To Opt-out txt STOP.
+
+Aug 30, 2023  5:33:43 PM (Read by you after 2 hours, 52 minutes, 17 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $100.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Aug 30, 2023  5:33:44 PM (Read by you after 2 hours, 52 minutes, 16 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $100.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Aug 30, 2023  5:33:45 PM (Read by you after 2 hours, 52 minutes, 15 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $423.94 at apple.com/us.
+To Opt-out txt STOP.
+
+Aug 30, 2023  5:33:45 PM (Read by you after 2 hours, 52 minutes, 15 seconds)
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+Sep 01, 2023  3:48:37 AM (Read by you after 15 minutes, 49 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $1.00 at Google *temporary Hold. 
+To Opt-out txt STOP.
+
+Sep 01, 2023  3:48:38 AM (Read by you after 15 minutes, 48 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $1.00 at Google *temporary Hold.
+To Opt-out txt STOP.
+
+Sep 01, 2023  3:49:58 AM (Read by you after 14 minutes, 28 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $0.10 at Google *fi Lpgzrz. 
+To Opt-out txt STOP.
+
+Sep 01, 2023  4:29:24 AM (Read by you after 1 hour, 41 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $30.00 at gumrd.com* streamr.
+To Opt-out txt STOP.
+
+Sep 01, 2023  4:29:24 AM (Read by you after 1 hour, 41 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $30.00 at gumrd.com* streamr. 
+To Opt-out txt STOP.
+
+Sep 01, 2023  4:29:25 AM (Read by you after 1 hour, 40 seconds)
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+Sep 01, 2023  4:40:26 AM (Read by you after 49 minutes, 39 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $530.19 at Google *google Fi. 
+To Opt-out txt STOP.
+
+Sep 01, 2023  4:40:26 AM (Read by you after 49 minutes, 39 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $530.19 at Google *google Fi.
+To Opt-out txt STOP.
+
+Sep 01, 2023  6:08:40 AM (Read by you after 15 minutes)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $449.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 01, 2023  6:08:41 AM (Read by you after 14 minutes, 59 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $59.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 01, 2023  6:08:42 AM (Read by you after 14 minutes, 58 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $59.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Sep 01, 2023  6:08:42 AM (Read by you after 14 minutes, 58 seconds)
+872265
+U.S. Bank Alert: Your credit card ending in 7156 was declined at apple.com/us because 
+your credit limit has been exceeded. You'll need to make a payment before you can use it again.
+Make a payment at https://usbankflyer.onelink.me/Woj5/dclbillpaysms?act=7156&client=billpay.
+To Opt-out txt STOP.
+
+Sep 01, 2023  6:08:43 AM (Read by you after 14 minutes, 57 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $449.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Sep 01, 2023  6:37:52 AM (Read by you after 58 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 08/31
+Debit Amount: $53.09
+To Opt-out txt STOP
+
+Sep 01, 2023  8:09:14 AM (Read by you after 21 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $449.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Sep 01, 2023  8:09:14 AM (Read by you after 21 seconds)
+872265
+U.S. Bank Alert: Your credit card ending in 7156 was declined at apple.com/us because 
+your credit limit has been exceeded. You'll need to make a payment before you can use it again.
+Make a payment at https://usbankflyer.onelink.me/Woj5/dclbillpaysms?act=7156&client=billpay.
+To Opt-out txt STOP.
+
+Sep 01, 2023  8:09:15 AM (Read by you after 20 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $449.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 01, 2023  8:10:15 AM (Read by you after 12 minutes, 47 seconds)
+872265
+U.S. Bank Alert: Your credit card ending in 7156 was declined at apple.com/us because 
+your credit limit has been exceeded. You'll need to make a payment before you can use it again.
+Make a payment at https://usbankflyer.onelink.me/Woj5/dclbillpaysms?act=7156&client=billpay.
+To Opt-out txt STOP.
+
+Sep 01, 2023  8:10:15 AM (Read by you after 12 minutes, 47 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $449.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Sep 01, 2023  8:10:16 AM (Read by you after 12 minutes, 46 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $449.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 01, 2023  4:13:15 PM (Read by you after 1 hour, 59 minutes, 44 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $449.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 01, 2023  4:13:15 PM (Read by you after 1 hour, 59 minutes, 44 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $449.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 01, 2023  4:13:16 PM (Read by you after 1 hour, 59 minutes, 43 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $449.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Sep 02, 2023  7:21:17 AM (Read by you after 8 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 09/01
+Credit Amount: $46.81
+To Opt-out txt STOP
+
+Sep 02, 2023  7:22:04 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/01
+Debit Amount: $100.00
+To Opt-out txt STOP
+
+Sep 02, 2023  7:22:05 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/01
+Debit Amount: $423.94
+To Opt-out txt STOP
+
+Sep 02, 2023  7:40:26 AM (Read by you after 54 minutes, 59 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $449.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Sep 02, 2023  7:40:26 AM (Read by you after 54 minutes, 59 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $449.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 02, 2023  7:40:29 AM (Read by you after 54 minutes, 56 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $449.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 02, 2023  3:57:11 PM (Read by you after 4 hours, 25 minutes, 47 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $449.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 02, 2023  3:57:12 PM (Read by you after 4 hours, 25 minutes, 46 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $449.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 02, 2023  3:57:12 PM (Read by you after 4 hours, 25 minutes, 46 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $449.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Sep 03, 2023  4:19:21 AM (Read by you after 2 hours, 9 minutes, 42 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $1.00 at Google *services in CANADA.
+To Opt-out txt STOP
+
+Sep 03, 2023  4:19:21 AM (Read by you after 2 hours, 9 minutes, 42 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $1.00 at Google *services. 
+To Opt-out txt STOP.
+
+Sep 03, 2023  8:25:33 AM (Read by you after 9 minutes, 22 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $449.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Sep 03, 2023  8:25:34 AM (Read by you after 9 minutes, 21 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $449.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 03, 2023  8:33:12 AM (Read by you after 1 minute, 43 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $41.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 03, 2023  8:33:13 AM (Read by you after 1 minute, 42 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $41.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Sep 06, 2023  9:14:24 AM (Read by you after 2 hours, 3 minutes, 21 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $317.29 on 09/06/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Sep 06, 2023 11:17:30 AM (Read by you after 15 seconds)
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 09/06
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Sep 06, 2023 11:35:28 AM (Read by you after 8 minutes, 34 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/05
+Debit Amount: $530.19
+To Opt-out txt STOP
+
+Sep 06, 2023 11:43:59 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/05
+Debit Amount: $30.00
+To Opt-out txt STOP
+
+Sep 06, 2023 11:46:29 AM (Read by you after 4 hours, 29 minutes, 13 seconds)
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 09/05. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Sep 07, 2023  7:02:17 AM (Read by you after 7 minutes, 39 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/06
+Debit Amount: $408.00
+To Opt-out txt STOP
+
+Sep 07, 2023  7:09:02 AM (Read by you after 54 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/06
+Payment Amount: $317.29
+To Opt-out txt STOP
+
+Sep 07, 2023  7:09:10 AM (Read by you after 46 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/06
+Debit Amount: $59.00
+To Opt-out txt STOP
+
+Sep 07, 2023  7:09:52 AM (Read by you after 4 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/06
+Debit Amount: $41.00
+To Opt-out txt STOP
+
+Sep 07, 2023  8:27:02 AM (Read by you after 2 hours, 33 minutes, 53 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $508.00 on 09/07/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Sep 08, 2023  6:32:11 AM (Read by you after 2 hours, 36 minutes, 15 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/07
+Payment Amount: $508.00
+To Opt-out txt STOP
+
+Sep 08, 2023  6:32:19 AM (Read by you after 2 hours, 36 minutes, 7 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 09/07
+Credit Amount: $48.70
+To Opt-out txt STOP
+
+Sep 10, 2023  7:56:18 AM (Read by you after 1 hour, 25 minutes, 55 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $3.78 at amazon.com amzn.com/bi. 
+To Opt-out txt STOP.
+
+Sep 10, 2023  7:56:19 AM (Read by you after 1 hour, 25 minutes, 54 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $3.78 at amazon.com amzn.com/bi.
+To Opt-out txt STOP.
+
+Sep 11, 2023  7:08:18 AM (Read by you after 5 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $1.00 at Google *services in CANADA.
+To Opt-out txt STOP
+
+Sep 11, 2023  7:08:18 AM (Read by you after 5 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $1.00 at Google *services. 
+To Opt-out txt STOP.
+
+Sep 11, 2023  7:08:19 AM (Read by you after 4 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $1.00 at Google *services.
+To Opt-out txt STOP.
+
+Sep 11, 2023  7:10:19 AM (Read by you after 38 minutes, 10 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $530.19 at Google *google Fi.
+To Opt-out txt STOP.
+
+Sep 11, 2023  7:10:20 AM (Read by you after 38 minutes, 9 seconds)
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+Sep 11, 2023  7:10:20 AM (Read by you after 38 minutes, 9 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $530.19 at Google *google Fi. 
+To Opt-out txt STOP.
+
+Sep 13, 2023  4:38:31 AM (Read by you after 2 hours, 48 minutes, 16 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/12
+Debit Amount: $530.19
+To Opt-out txt STOP
+
+Sep 13, 2023  4:41:15 AM (Read by you after 2 hours, 45 minutes, 32 seconds)
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 09/13
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Sep 13, 2023  4:45:29 AM (Read by you after 2 hours, 41 minutes, 18 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $481.49 on 09/13/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Sep 13, 2023  4:41:08 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $5.00 at Google *google Store. 
+To Opt-out txt STOP.
+
+Sep 14, 2023  5:04:36 AM (Read by you after 1 hour, 32 minutes, 31 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/13
+Payment Amount: $481.49
+To Opt-out txt STOP
+
+Sep 14, 2023  5:06:10 AM (Read by you after 1 hour, 30 minutes, 57 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 09/13
+Payment Amount: $323.16
+To Opt-out txt STOP
+
+Sep 14, 2023 11:03:59 AM (Read by you after 13 hours, 17 minutes, 21 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $602.42 at Google *google Store.
+To Opt-out txt STOP.
+
+Sep 14, 2023 11:04:00 AM (Read by you after 13 hours, 17 minutes, 20 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $602.42 at Google *google Store. 
+To Opt-out txt STOP.
+
+Sep 14, 2023  5:46:09 PM (Read by you after 6 hours, 35 minutes, 11 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $61.04 at Google *fi 6ss5z6.
+To Opt-out txt STOP.
+
+Sep 14, 2023  5:46:09 PM (Read by you after 6 hours, 35 minutes, 11 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $61.04 at Google *fi 6ss5z6. 
+To Opt-out txt STOP.
+
+Sep 15, 2023  6:09:29 AM (Read by you after 37 minutes, 44 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/14
+Debit Amount: $5.00
+To Opt-out txt STOP
+
+Sep 16, 2023  7:09:58 AM (Read by you after 2 hours, 37 minutes, 1 second)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/15
+Debit Amount: $61.04
+To Opt-out txt STOP
+
+Sep 16, 2023  7:10:25 AM (Read by you after 2 hours, 36 minutes, 34 seconds)
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 09/16
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Sep 16, 2023  7:11:31 AM (Read by you after 2 hours, 35 minutes, 28 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/15
+Debit Amount: $602.42
+To Opt-out txt STOP
+
+Sep 18, 2023  9:54:15 AM (Read by you after 1 hour, 18 minutes, 34 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $25.14 at amazon.com. 
+To Opt-out txt STOP.
+
+Sep 18, 2023  9:57:11 AM (Read by you after 1 hour, 15 minutes, 38 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $25.14 at amazon.com.
+To Opt-out txt STOP.
+
+Sep 19, 2023  8:27:24 AM (Read by you after 1 hour, 39 minutes, 39 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 09/18
+Credit Amount: $45.00
+To Opt-out txt STOP
+
+Sep 19, 2023  9:36:53 AM (Read by you after 30 minutes, 10 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $623.46 on 09/19/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Sep 20, 2023  1:28:02 PM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/19
+Debit Amount: $25.14
+To Opt-out txt STOP
+
+Sep 20, 2023  1:32:05 PM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/19
+Payment Amount: $623.46
+To Opt-out txt STOP
+
+Sep 21, 2023  9:04:32 AM (Read by you after 55 minutes, 42 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $94.56 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Sep 21, 2023  9:04:32 AM (Read by you after 55 minutes, 42 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $94.56 at bestbuy.com.
+To Opt-out txt STOP.
+
+Sep 22, 2023  9:36:15 PM (Read by you after 6 hours, 38 minutes, 50 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $598.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Sep 22, 2023  9:36:16 PM (Read by you after 6 hours, 38 minutes, 49 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $598.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 22, 2023  9:50:05 PM (Read by you after 6 hours, 25 minutes)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $100.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Sep 22, 2023  9:50:05 PM (Read by you after 6 hours, 25 minutes)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $100.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Sep 23, 2023  4:38:57 AM (Read by you after 3 hours, 46 minutes, 32 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/22
+Debit Amount: $94.56
+To Opt-out txt STOP
+
+Sep 24, 2023 11:38:45 AM (Read by you after 55 minutes, 1 second)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $112.19 at Tmobile*web Upgrade. 
+To Opt-out txt STOP.
+
+Sep 24, 2023 11:38:45 AM (Read by you after 55 minutes, 1 second)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $112.19 at Tmobile*web Upgrade.
+To Opt-out txt STOP.
+
+Sep 24, 2023  1:13:24 PM (Read by you after 2 minutes, 24 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $20.00 at crypto.com.
+To Opt-out txt STOP.
+
+Sep 24, 2023  1:13:25 PM (Read by you after 2 minutes, 23 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $20.00 at crypto.com. 
+To Opt-out txt STOP.
+
+Sep 24, 2023 10:58:31 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $25.00 at Visible.
+To Opt-out txt STOP.
+
+Sep 24, 2023 10:58:31 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $25.00 at Visible. 
+To Opt-out txt STOP.
+
+Sep 25, 2023  8:26:38 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $119.70 on 09/25/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Sep 26, 2023  7:18:05 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 09/25
+Credit Amount: $53.09
+To Opt-out txt STOP
+
+Sep 26, 2023  7:18:35 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/25
+Payment Amount: $119.70
+To Opt-out txt STOP
+
+Sep 27, 2023  3:58:58 AM (Read by you after 4 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $24.10 at Newegg Marketplace. 
+To Opt-out txt STOP.
+
+Sep 27, 2023  3:58:58 AM (Read by you after 4 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $24.10 at Newegg Marketplace.
+To Opt-out txt STOP.
+
+Sep 27, 2023  6:06:14 AM (Read by you after 15 minutes, 40 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $64.98 on 09/27/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Sep 27, 2023  6:40:53 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/26
+Debit Amount: $112.19
+To Opt-out txt STOP
+
+Sep 27, 2023  6:40:57 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/26
+Debit Amount: $25.00
+To Opt-out txt STOP
+
+Sep 27, 2023  6:44:11 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 09/26
+Credit Amount: $19.12
+To Opt-out txt STOP
+
+Sep 27, 2023  6:46:15 AM
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 09/27
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Sep 28, 2023  7:09:28 AM (Read by you after 1 hour, 18 minutes, 43 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/27
+Payment Amount: $64.98
+To Opt-out txt STOP
+
+Sep 29, 2023  4:30:35 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/28
+Debit Amount: $498.00
+To Opt-out txt STOP
+
+Sep 29, 2023  4:30:59 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/28
+Debit Amount: $100.00
+To Opt-out txt STOP
+
+Sep 29, 2023  4:32:34 AM
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 09/28
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Sep 30, 2023  4:56:18 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 09/29
+Debit Amount: $24.10
+To Opt-out txt STOP
+
+Oct 01, 2023 11:52:08 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $500.00 on 10/01/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Oct 01, 2023 11:31:19 PM
+872265
+U.S. Bank Alert:
+Your mobile device number was registered, changed or deleted or your Quiet Time setting was changed. To opt-out txt STOP.
+
+Oct 01, 2023 11:31:21 PM
+872265
+U.S. Bank Alerts
+Your mobile number on file with U.S. Bank has been changed. If you did not initiate this change please call 800-USBANKS.
+To Opt-out txt STOP
+
+Oct 02, 2023  5:07:23 PM
+872265
+U.S. Bank: We're nearing resolution for dispute #D-230901005899 $46.81 at GOOGLE *Google Store   85, letter mailed. Msg&Data rates may apply. Txt STOP to quit
+
+Oct 02, 2023  5:32:48 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $311.27 at Amzn Mktp Us. 
+To Opt-out txt STOP.
+
+Oct 02, 2023  5:32:49 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $311.27 at Amzn Mktp Us.
+To Opt-out txt STOP.
+
+Oct 03, 2023  9:47:37 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/02
+Payment Amount: $500.00
+To Opt-out txt STOP
+
+Oct 03, 2023  9:58:03 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 10/02
+Credit Amount: $123.50
+To Opt-out txt STOP
+
+Oct 03, 2023  9:59:23 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/02
+Debit Amount: $46.81
+To Opt-out txt STOP
+
+Oct 03, 2023  3:47:52 PM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $45.41 on 10/03/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Oct 03, 2023  3:49:21 PM
+872265
+U.S. Bank Alerts: Credit card ending 4867 is LOCKED. Call 1-800-285-8585 if lost or stolen. Log in to UNLOCK. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 03, 2023  3:49:24 PM
+872265
+U.S Bank Alerts: Credit card ending 4867 is now UNLOCKED & ready to use. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 04, 2023  7:25:58 AM (Read by you after 15 hours, 4 minutes, 12 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/03
+Payment Amount: $45.41
+To Opt-out txt STOP
+
+Oct 04, 2023  7:28:39 AM (Read by you after 15 hours, 1 minute, 31 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 10/03
+Payment Amount: $330.94
+To Opt-out txt STOP
+
+Oct 04, 2023  7:40:17 AM (Read by you after 14 hours, 49 minutes, 53 seconds)
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 10/03. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Oct 04, 2023  3:11:51 PM (Read by you after 1 day, 1 hour, 32 minutes, 58 seconds)
+872265
+U.S. Bank Alerts: Credit card ending 7156 is LOCKED. Call 1-800-285-8585 if lost or stolen. Log in to UNLOCK. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 04, 2023  5:33:12 PM (Read by you after 23 hours, 11 minutes, 37 seconds)
+872265
+U.S. Bank Alerts: Credit card ending 4867 is LOCKED. Call 1-800-285-8585 if lost or stolen. Log in to UNLOCK. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 04, 2023  6:11:41 PM (Read by you after 22 hours, 33 minutes, 8 seconds)
+872265
+U.S Bank Alerts: Credit card ending 4867 is now UNLOCKED & ready to use. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 04, 2023 10:21:28 PM (Read by you after 8 minutes, 42 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $10.25 at zen.com uab.
+To Opt-out txt STOP.
+
+Oct 04, 2023 10:21:28 PM (Read by you after 8 minutes, 42 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $10.25 at zen.com uab. 
+To Opt-out txt STOP.
+
+Oct 04, 2023 10:21:29 PM (Read by you after 8 minutes, 41 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $10.25 at zen.com uab in POLAND.
+To Opt-out txt STOP
+
+Oct 04, 2023 10:21:29 PM (Read by you after 8 minutes, 41 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $10.25 at zen.com uab.
+To Opt-out txt STOP.
+
+Oct 04, 2023 11:01:54 PM (Read by you after 17 hours, 42 minutes, 55 seconds)
+872265
+U.S Bank Alerts: Credit card ending 7156 is now UNLOCKED & ready to use. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 05, 2023  6:34:29 AM (Read by you after 11 seconds)
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 10/05
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Oct 05, 2023  6:35:34 AM (Read by you after 8 hours, 25 minutes, 13 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/04
+Debit Amount: $311.27
+To Opt-out txt STOP
+
+Oct 05, 2023  6:52:04 AM (Read by you after 8 hours, 8 minutes, 43 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $311.27 on 10/05/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Oct 05, 2023  4:05:12 PM (Read by you after 39 minutes, 37 seconds)
+872265
+Cardmember Service: We're continuing to research your dispute #D-230826010128. Msg&Data rates may apply. To Opt-out txt STOP
+
+Oct 05, 2023  4:06:20 PM (Read by you after 38 minutes, 29 seconds)
+872265
+Cardmember Service: We're continuing to research your dispute #D-230826010130. Msg&Data rates may apply. To Opt-out txt STOP
+
+Oct 06, 2023  6:32:35 AM (Read by you after 2 hours, 36 minutes)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/05
+Payment Amount: $311.27
+To Opt-out txt STOP
+
+Oct 06, 2023  6:35:56 AM (Read by you after 2 hours, 32 minutes, 39 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 10/05
+Credit Amount: $71.10
+To Opt-out txt STOP
+
+Oct 07, 2023  4:35:50 AM (Read by you after 4 days, 8 hours, 41 minutes, 55 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  4:35:50 AM (Read by you after 4 days, 8 hours, 41 minutes, 55 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  4:36:24 AM (Read by you after 4 days, 8 hours, 41 minutes, 21 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  4:36:25 AM (Read by you after 4 days, 8 hours, 41 minutes, 20 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  4:36:25 AM (Read by you after 4 days, 8 hours, 41 minutes, 20 seconds)
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+Oct 07, 2023  4:36:57 AM (Read by you after 4 days, 8 hours, 40 minutes, 48 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  4:36:58 AM (Read by you after 4 days, 8 hours, 40 minutes, 47 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  4:37:46 AM (Read by you after 4 days, 8 hours, 39 minutes, 59 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  4:37:47 AM (Read by you after 4 days, 8 hours, 39 minutes, 58 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  4:45:24 AM (Read by you after 4 days, 8 hours, 32 minutes, 21 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  4:45:24 AM (Read by you after 4 days, 8 hours, 32 minutes, 21 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:10:17 AM (Read by you after 4 days, 7 hours, 7 minutes, 28 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:10:17 AM (Read by you after 4 days, 7 hours, 7 minutes, 28 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:19:27 AM (Read by you after 4 days, 6 hours, 58 minutes, 18 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:19:28 AM (Read by you after 4 days, 6 hours, 58 minutes, 17 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:20:58 AM (Read by you after 4 days, 6 hours, 56 minutes, 47 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:20:59 AM (Read by you after 4 days, 6 hours, 56 minutes, 46 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:24:46 AM (Read by you after 4 days, 6 hours, 52 minutes, 59 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $50.00 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:24:47 AM (Read by you after 4 days, 6 hours, 52 minutes, 58 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $50.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:25:56 AM (Read by you after 4 days, 6 hours, 51 minutes, 49 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $50.00 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:25:56 AM (Read by you after 4 days, 6 hours, 51 minutes, 49 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $50.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:25:57 AM (Read by you after 4 days, 6 hours, 51 minutes, 48 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $50.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:28:48 AM (Read by you after 4 days, 6 hours, 48 minutes, 57 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $50.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:28:48 AM (Read by you after 4 days, 6 hours, 48 minutes, 57 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $50.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:28:50 AM (Read by you after 4 days, 6 hours, 48 minutes, 55 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $50.00 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:31:04 AM (Read by you after 4 days, 6 hours, 46 minutes, 41 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $25.00 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:31:04 AM (Read by you after 4 days, 6 hours, 46 minutes, 41 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $25.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:31:05 AM (Read by you after 4 days, 6 hours, 46 minutes, 40 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $25.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:32:32 AM (Read by you after 4 days, 6 hours, 45 minutes, 13 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $10.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:32:33 AM (Read by you after 4 days, 6 hours, 45 minutes, 12 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $10.00 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:36:31 AM (Read by you after 4 days, 6 hours, 41 minutes, 14 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $10.00 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 07, 2023  6:36:31 AM (Read by you after 4 days, 6 hours, 41 minutes, 14 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $10.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 08, 2023 12:48:57 AM (Read by you after 3 days, 12 hours, 28 minutes, 48 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 08, 2023 12:48:57 AM (Read by you after 3 days, 12 hours, 28 minutes, 48 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 08, 2023 12:49:47 AM (Read by you after 3 days, 12 hours, 27 minutes, 58 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 08, 2023 12:49:47 AM (Read by you after 3 days, 12 hours, 27 minutes, 58 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 08, 2023 12:50:34 AM (Read by you after 3 days, 12 hours, 27 minutes, 11 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 08, 2023 12:50:34 AM (Read by you after 3 days, 12 hours, 27 minutes, 11 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 08, 2023 12:52:02 AM (Read by you after 3 days, 12 hours, 25 minutes, 43 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 08, 2023 12:52:03 AM (Read by you after 3 days, 12 hours, 25 minutes, 42 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 08, 2023 12:52:52 AM (Read by you after 3 days, 12 hours, 24 minutes, 53 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 08, 2023 12:52:52 AM (Read by you after 3 days, 12 hours, 24 minutes, 53 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 09, 2023  1:09:49 AM (Read by you after 1 hour, 11 minutes, 58 seconds)
+872265
+U.S. Bank: Dispute #D-230826010129 for $262.39 at Google ADS6375521560   65 is still being researched. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 09, 2023  1:09:50 AM (Read by you after 1 hour, 11 minutes, 57 seconds)
+872265
+U.S. Bank: Dispute #D-230826005534 for $500.00 at GOOGLE *ADS6375521560 cc@ is still being researched. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 09, 2023  1:09:51 AM (Read by you after 1 hour, 11 minutes, 56 seconds)
+872265
+U.S. Bank: Dispute #D-230826005536 for $500.00 at GOOGLE*ADS6375521560  CC is still being researched. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 09, 2023  1:09:51 AM (Read by you after 1 hour, 11 minutes, 56 seconds)
+872265
+U.S. Bank: Dispute #D-230826005537 for $500.00 at Google ADS6375521560   65 is still being researched. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 09, 2023  1:09:52 AM (Read by you after 1 hour, 11 minutes, 55 seconds)
+872265
+U.S. Bank: Dispute #D-230826005535 for $500.00 at GOOGLE *ADS6375521560 cc@ is still being researched. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 10, 2023  3:32:50 PM (Read by you after 5 hours, 29 minutes, 38 seconds)
+872265
+Cardmember Service: We're continuing to research your dispute #D-230826010129. Msg&Data rates may apply. To Opt-out txt STOP
+
+Oct 11, 2023  1:15:04 AM
+872265
+U.S. Bank: Dispute #D-230826005538 for $500.00 at GOOGLE*ADS6375521560  CC is still being researched. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 11, 2023  9:23:54 AM (Read by you after 3 hours, 53 minutes, 51 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:24:55 AM (Read by you after 3 hours, 52 minutes, 50 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:29:21 AM (Read by you after 3 hours, 48 minutes, 24 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:31:06 AM (Read by you after 3 hours, 46 minutes, 39 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:33:02 AM (Read by you after 3 hours, 44 minutes, 43 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:35:23 AM (Read by you after 3 hours, 42 minutes, 22 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:35:53 AM (Read by you after 3 hours, 41 minutes, 52 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:38:18 AM (Read by you after 3 hours, 39 minutes, 27 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:38:46 AM (Read by you after 3 hours, 38 minutes, 59 seconds)
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 10/11
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Oct 11, 2023  9:40:17 AM (Read by you after 3 hours, 37 minutes, 28 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:40:46 AM (Read by you after 3 hours, 36 minutes, 59 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:41:00 AM (Read by you after 3 hours, 36 minutes, 45 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $50.00
+To Opt-out txt STOP
+
+Oct 11, 2023  9:41:23 AM (Read by you after 3 hours, 36 minutes, 22 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:45:03 AM (Read by you after 3 hours, 32 minutes, 42 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  9:45:05 AM (Read by you after 3 hours, 32 minutes, 40 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/10
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 11, 2023  3:19:46 PM (Read by you after 22 hours, 41 minutes, 4 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $50.00 on 10/11/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Oct 12, 2023  4:04:41 AM (Read by you after 9 hours, 56 minutes, 9 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/11
+Payment Amount: $50.00
+To Opt-out txt STOP
+
+Oct 12, 2023  1:55:56 PM (Read by you after 4 minutes, 54 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $650.00 on 10/12/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Oct 13, 2023  4:07:18 AM (Read by you after 3 hours, 22 minutes, 45 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/12
+Payment Amount: $650.00
+To Opt-out txt STOP
+
+Oct 13, 2023 10:28:16 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $44.00 at tweetdelete.net.
+To Opt-out txt STOP.
+
+Oct 13, 2023 10:28:17 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $44.00 at tweetdelete.net. 
+To Opt-out txt STOP.
+
+Oct 13, 2023  3:45:09 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $687.79 at Google *google Store. 
+To Opt-out txt STOP.
+
+Oct 13, 2023  3:45:10 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $687.79 at Google *google Store.
+To Opt-out txt STOP.
+
+Oct 13, 2023  4:41:08 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $5.00 at Google *google Store. 
+To Opt-out txt STOP.
+
+Oct 13, 2023  8:37:35 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $19.46 at Google *google Store.
+To Opt-out txt STOP.
+
+Oct 13, 2023  8:37:35 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $19.46 at Google *google Store. 
+To Opt-out txt STOP.
+
+Oct 14, 2023  1:05:18 AM (Read by you after 8 hours, 1 minute, 11 seconds)
+872265
+U.S. Bank: Dispute #D-230914002501 for $24.99 at PAYPAL *TWITCHINTER    40 is still being researched. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 14, 2023  1:05:19 AM (Read by you after 8 hours, 1 minute, 10 seconds)
+872265
+U.S. Bank: Dispute #D-230914002497 for $24.99 at PAYPAL *TWITCHINTER    40 is still being researched. Msg&Data rates may apply. Txt STOP to Quit.
+
+Oct 14, 2023  6:31:47 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $105.30 at Google *fi 5vczsg. 
+To Opt-out txt STOP.
+
+Oct 14, 2023  6:31:48 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $105.30 at Google *fi 5vczsg.
+To Opt-out txt STOP.
+
+Oct 14, 2023 10:39:59 PM (Read by you after 15 minutes, 5 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $6.90 at Paypal *aclu. 
+To Opt-out txt STOP.
+
+Oct 14, 2023 10:54:55 PM (Read by you after 9 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $1.00 at Paypal *unhcr. 
+To Opt-out txt STOP.
+
+Oct 14, 2023 10:54:56 PM (Read by you after 8 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $1.00 at Paypal *unhcr in UNITED KINGDOM.
+To Opt-out txt STOP
+
+Oct 14, 2023 10:54:58 PM (Read by you after 6 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Paypal *unhcr.
+To Opt-out txt STOP.
+
+Oct 14, 2023 10:54:58 PM (Read by you after 6 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $69.69 at Paypal *unhcr in UNITED KINGDOM.
+To Opt-out txt STOP
+
+Oct 14, 2023 10:54:59 PM (Read by you after 5 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Paypal *unhcr. 
+To Opt-out txt STOP.
+
+Oct 14, 2023 11:46:31 PM (Read by you after 2 days, 15 hours, 55 minutes, 49 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 14, 2023 11:46:32 PM (Read by you after 2 days, 15 hours, 55 minutes, 48 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 14, 2023 11:49:06 PM (Read by you after 2 days, 15 hours, 53 minutes, 14 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 14, 2023 11:49:07 PM (Read by you after 2 days, 15 hours, 53 minutes, 13 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 14, 2023 11:51:04 PM (Read by you after 2 days, 15 hours, 51 minutes, 16 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $69.69 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 14, 2023 11:51:04 PM (Read by you after 2 days, 15 hours, 51 minutes, 16 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $69.69 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 15, 2023 12:00:46 AM (Read by you after 2 days, 15 hours, 41 minutes, 34 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $50.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 15, 2023 12:00:47 AM (Read by you after 2 days, 15 hours, 41 minutes, 33 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $50.00 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 15, 2023 12:01:28 AM (Read by you after 2 days, 15 hours, 40 minutes, 52 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $50.00 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 15, 2023 12:01:29 AM (Read by you after 2 days, 15 hours, 40 minutes, 51 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $50.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 15, 2023 12:02:04 AM (Read by you after 2 days, 15 hours, 40 minutes, 16 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $50.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 15, 2023 12:02:05 AM (Read by you after 2 days, 15 hours, 40 minutes, 15 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $50.00 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 15, 2023 12:02:41 AM (Read by you after 2 days, 15 hours, 39 minutes, 39 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $50.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 15, 2023 12:02:42 AM (Read by you after 2 days, 15 hours, 39 minutes, 38 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $50.00 at Ai Webassist, I.Nc..
+To Opt-out txt STOP.
+
+Oct 15, 2023 12:02:43 AM (Read by you after 2 days, 15 hours, 39 minutes, 37 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $50.00 at Ai Webassist, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 15, 2023 12:49:07 AM (Read by you after 2 days, 14 hours, 53 minutes, 13 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $423.94 at Google *google Fi. 
+To Opt-out txt STOP.
+
+Oct 15, 2023 12:49:08 AM (Read by you after 2 days, 14 hours, 53 minutes, 12 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $423.94 at Google *google Fi.
+To Opt-out txt STOP.
+
+Oct 15, 2023  8:02:21 AM (Read by you after 2 days, 7 hours, 39 minutes, 59 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $184.87 on 10/15/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Oct 17, 2023  8:03:38 AM (Read by you after 7 hours, 38 minutes, 42 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Debit Amount: $105.30
+To Opt-out txt STOP
+
+Oct 17, 2023  8:04:12 AM (Read by you after 7 hours, 38 minutes, 8 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Debit Amount: $5.00
+To Opt-out txt STOP
+
+Oct 17, 2023  8:05:04 AM (Read by you after 7 hours, 37 minutes, 16 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 17, 2023  8:07:40 AM (Read by you after 7 hours, 34 minutes, 40 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Debit Amount: $6.90
+To Opt-out txt STOP
+
+Oct 17, 2023  8:08:37 AM (Read by you after 7 hours, 33 minutes, 43 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Debit Amount: $44.00
+To Opt-out txt STOP
+
+Oct 17, 2023  8:09:33 AM (Read by you after 7 hours, 32 minutes, 47 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Debit Amount: $50.00
+To Opt-out txt STOP
+
+Oct 17, 2023  8:09:53 AM (Read by you after 7 hours, 32 minutes, 27 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 10/16
+Payment Amount: $40.00
+To Opt-out txt STOP
+
+Oct 17, 2023  8:12:35 AM (Read by you after 7 hours, 29 minutes, 45 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Debit Amount: $50.00
+To Opt-out txt STOP
+
+Oct 17, 2023  8:13:08 AM (Read by you after 7 hours, 29 minutes, 12 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Debit Amount: $50.00
+To Opt-out txt STOP
+
+Oct 17, 2023  8:13:42 AM (Read by you after 7 hours, 28 minutes, 38 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Payment Amount: $184.87
+To Opt-out txt STOP
+
+Oct 17, 2023  8:14:49 AM (Read by you after 7 hours, 27 minutes, 31 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 10/16
+Credit Amount: $24.10
+To Opt-out txt STOP
+
+Oct 17, 2023  8:16:52 AM (Read by you after 7 hours, 25 minutes, 28 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 17, 2023  8:19:51 AM (Read by you after 7 hours, 22 minutes, 29 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 17, 2023  8:20:38 AM (Read by you after 7 hours, 21 minutes, 42 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/16
+Debit Amount: $69.69
+To Opt-out txt STOP
+
+Oct 17, 2023 11:04:18 AM (Read by you after 4 hours, 38 minutes, 2 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $4.46 at Google *bitfire. 
+To Opt-out txt STOP.
+
+Oct 17, 2023  3:35:03 PM (Read by you after 7 minutes, 17 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $43.98 at Olde Towne Liquor Store.
+To Opt-out txt STOP.
+
+Oct 18, 2023  8:19:01 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/17
+Debit Amount: $19.46
+To Opt-out txt STOP
+
+Oct 18, 2023 11:04:46 AM
+872265
+U.S. Bank: We're nearing resolution for dispute #D-230914002497 $24.99 at PAYPAL *TWITCHINTER    40, letter mailed. Msg&Data rates may apply. Txt STOP to quit
+
+Oct 18, 2023 11:04:47 AM
+872265
+U.S. Bank: We're nearing resolution for dispute #D-230914002501 $24.99 at PAYPAL *TWITCHINTER    40, letter mailed. Msg&Data rates may apply. Txt STOP to quit
+
+Oct 19, 2023  5:37:02 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/18
+Debit Amount: $4.46
+To Opt-out txt STOP
+
+Oct 19, 2023  5:39:43 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/18
+Debit Amount: $43.98
+To Opt-out txt STOP
+
+Oct 27, 2023  9:02:41 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $3.53 at crypto.com. 
+To Opt-out txt STOP.
+
+Oct 28, 2023  3:11:50 AM (Read by you after 18 hours, 23 minutes, 41 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $171.58 at Amzn Mktp Us. 
+To Opt-out txt STOP.
+
+Oct 28, 2023  3:11:50 AM (Read by you after 18 hours, 23 minutes, 41 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $171.58 at Amzn Mktp Us.
+To Opt-out txt STOP.
+
+Oct 28, 2023  7:04:48 PM (Read by you after 2 hours, 30 minutes, 43 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $49.61 at amazon.com. 
+To Opt-out txt STOP.
+
+Oct 28, 2023  7:04:49 PM (Read by you after 2 hours, 30 minutes, 42 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $49.61 at amazon.com.
+To Opt-out txt STOP.
+
+Oct 29, 2023  8:20:23 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $24.00 at Groupon, I.Nc.. 
+To Opt-out txt STOP.
+
+Oct 29, 2023  8:20:24 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $24.00 at Groupon, I.Nc..
+To Opt-out txt STOP.
+
+Oct 29, 2023  8:48:15 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $37.92 at Paypal *lagosec Inc.
+To Opt-out txt STOP.
+
+Oct 29, 2023  8:48:15 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $37.92 at Paypal *lagosec Inc. 
+To Opt-out txt STOP.
+
+Oct 29, 2023  9:18:47 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $100.00 on 10/29/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Oct 30, 2023  7:02:18 AM (Read by you after 2 minutes, 39 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $15.00 at Paypal *visibleserv.
+To Opt-out txt STOP.
+
+Oct 30, 2023  7:02:18 AM (Read by you after 2 minutes, 39 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $15.00 at Paypal *visibleserv. 
+To Opt-out txt STOP.
+
+Oct 31, 2023  6:09:14 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/30
+Payment Amount: $100.00
+To Opt-out txt STOP
+
+Oct 31, 2023  6:12:16 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/30
+Debit Amount: $171.58
+To Opt-out txt STOP
+
+Oct 31, 2023  6:13:23 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/30
+Debit Amount: $24.00
+To Opt-out txt STOP
+
+Oct 31, 2023  6:16:34 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 10/30
+Payment Amount: $500.00
+To Opt-out txt STOP
+
+Oct 31, 2023  6:19:06 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/30
+Debit Amount: $49.61
+To Opt-out txt STOP
+
+Nov 01, 2023  4:51:05 AM (Read by you after 8 hours, 37 minutes, 28 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/31
+Debit Amount: $15.00
+To Opt-out txt STOP
+
+Nov 01, 2023  4:52:57 AM (Read by you after 8 hours, 35 minutes, 36 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 10/31
+Debit Amount: $37.92
+To Opt-out txt STOP
+
+Nov 01, 2023  1:20:13 PM (Read by you after 8 minutes, 20 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $200.00 on 11/01/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Nov 02, 2023  7:22:01 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/01
+Payment Amount: $200.00
+To Opt-out txt STOP
+
+Nov 02, 2023  1:33:38 PM (Read by you after 16 hours, 6 minutes, 24 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $149.40 at Paypal *udacity Inc. 
+To Opt-out txt STOP.
+
+Nov 02, 2023  1:33:39 PM (Read by you after 16 hours, 6 minutes, 23 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $149.40 at Paypal *udacity Inc.
+To Opt-out txt STOP.
+
+Nov 03, 2023  6:06:58 AM
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 11/02. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Nov 03, 2023  8:20:36 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $40.00 on 11/03/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Nov 03, 2023 10:57:52 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $500.00 on 11/03/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Nov 04, 2023  7:18:41 AM (Read by you after 3 minutes, 53 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/03
+Payment Amount: $40.00
+To Opt-out txt STOP
+
+Nov 04, 2023  7:18:58 AM (Read by you after 3 minutes, 36 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 11/03
+Payment Amount: $500.00
+To Opt-out txt STOP
+
+Nov 04, 2023  7:19:01 AM (Read by you after 3 minutes, 33 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/03
+Payment Amount: $500.00
+To Opt-out txt STOP
+
+Nov 04, 2023  7:19:41 AM (Read by you after 2 minutes, 53 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/03
+Debit Amount: $149.40
+To Opt-out txt STOP
+
+Nov 04, 2023  7:22:24 AM (Read by you after 10 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 11/03
+Payment Amount: $696.96
+To Opt-out txt STOP
+
+Nov 04, 2023 10:14:03 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $424.99 at Amzn Mktp Us. 
+To Opt-out txt STOP.
+
+Nov 04, 2023 10:14:04 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $424.99 at Amzn Mktp Us.
+To Opt-out txt STOP.
+
+Nov 07, 2023  7:44:07 AM (Read by you after 46 minutes, 14 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 11/06
+Payment Amount: $500.00
+To Opt-out txt STOP
+
+Nov 07, 2023  7:47:21 AM (Read by you after 43 minutes)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/06
+Debit Amount: $424.99
+To Opt-out txt STOP
+
+Nov 07, 2023  8:30:14 AM (Read by you after 7 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $236.95 at Proton. 
+To Opt-out txt STOP.
+
+Nov 07, 2023  8:30:14 AM (Read by you after 7 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $236.95 at Proton.
+To Opt-out txt STOP.
+
+Nov 07, 2023  8:30:15 AM (Read by you after 6 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $236.95 at Proton in SWITZERLAND.
+To Opt-out txt STOP
+
+Nov 09, 2023  6:03:37 AM (Read by you after 43 minutes, 24 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/08
+Debit Amount: $236.95
+To Opt-out txt STOP
+
+Nov 10, 2023  5:30:05 PM (Read by you after 6 minutes, 56 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $1.00 at Google *google Store. 
+To Opt-out txt STOP.
+
+Nov 10, 2023  5:30:25 PM (Read by you after 6 minutes, 36 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $15.94 at Google *google Nest. 
+To Opt-out txt STOP.
+
+Nov 10, 2023  5:30:26 PM (Read by you after 6 minutes, 35 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $15.94 at Google *google Nest.
+To Opt-out txt STOP.
+
+Nov 10, 2023  8:18:14 PM (Read by you after 1 minute, 11 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $2.51 at Proton. 
+To Opt-out txt STOP.
+
+Nov 10, 2023  8:18:15 PM (Read by you after 1 minute, 10 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $2.51 at Proton in SWITZERLAND.
+To Opt-out txt STOP
+
+Nov 11, 2023  1:37:24 AM (Read by you after 2 minutes, 31 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $0.60 at Proton in SWITZERLAND.
+To Opt-out txt STOP
+
+Nov 11, 2023  1:37:24 AM (Read by you after 2 minutes, 31 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $0.60 at Proton. 
+To Opt-out txt STOP.
+
+Nov 11, 2023  6:26:45 AM (Read by you after 1 hour, 35 minutes, 42 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 11/10
+Credit Amount: $15.94
+To Opt-out txt STOP
+
+Nov 11, 2023  6:27:02 AM (Read by you after 1 hour, 35 minutes, 25 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 11/10
+Payment Amount: $421.22
+To Opt-out txt STOP
+
+Nov 11, 2023  8:05:38 AM (Read by you after 3 hours, 17 minutes, 59 seconds)
+872265
+U.S. Bank: Payment cancelled for acct 7156. $633.96 on 11/11/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Nov 11, 2023  8:05:38 AM (Read by you after 3 hours, 17 minutes, 59 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $40.00 on 12/01/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Nov 13, 2023 11:19:43 AM (Read by you after 19 hours, 27 minutes, 12 seconds)
+872265
+U.S. Bank Alerts: On Nov 13, 2023, a new Chrome 119.0.0.0 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Nov 14, 2023  4:13:22 AM (Read by you after 2 hours, 33 minutes, 33 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $200.00 on 11/14/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Nov 14, 2023  6:08:25 AM (Read by you after 38 minutes, 30 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $28.01 at Google *fi wxzv3p.
+To Opt-out txt STOP.
+
+Nov 14, 2023  6:08:25 AM (Read by you after 38 minutes, 30 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $28.01 at Google *fi wxzv3p. 
+To Opt-out txt STOP.
+
+Nov 14, 2023  6:51:31 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/13
+Debit Amount: $2.51
+To Opt-out txt STOP
+
+Nov 14, 2023  6:54:01 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/13
+Debit Amount: $15.94
+To Opt-out txt STOP
+
+Nov 15, 2023  5:48:13 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/14
+Payment Amount: $200.00
+To Opt-out txt STOP
+
+Nov 15, 2023  5:48:59 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 11/14
+Credit Amount: $0.04
+To Opt-out txt STOP
+
+Nov 15, 2023  5:50:55 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 11/14
+Payment Amount: $200.00
+To Opt-out txt STOP
+
+Nov 16, 2023  6:00:47 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 11/15
+Payment Amount: $40.00
+To Opt-out txt STOP
+
+Nov 16, 2023  6:03:10 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/15
+Debit Amount: $28.01
+To Opt-out txt STOP
+
+Nov 17, 2023  6:15:32 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 11/16
+Credit Amount: $424.99
+To Opt-out txt STOP
+
+Nov 17, 2023 10:24:24 AM (Read by you after 46 minutes, 6 seconds)
+872265
+U.S. Bank Alerts: On Nov 17, 2023, a new Chrome 119.0.0.0 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Nov 17, 2023 10:34:34 AM (Read by you after 35 minutes, 56 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $100.00 on 11/17/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Nov 17, 2023  8:19:28 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $553.55 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Nov 17, 2023  8:19:28 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $553.55 at bestbuy.com.
+To Opt-out txt STOP.
+
+Nov 18, 2023  6:09:41 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 11/17
+Payment Amount: $50.00
+To Opt-out txt STOP
+
+Nov 18, 2023  6:10:16 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/17
+Payment Amount: $100.00
+To Opt-out txt STOP
+
+Nov 18, 2023  2:57:49 PM
+872265
+U.S. Bank Alerts: On Nov 18, 2023, a new Chrome 119.0.0.0 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Nov 18, 2023  3:17:43 PM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $50.00 on 11/18/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Nov 21, 2023  6:50:47 AM (Read by you after 7 hours, 34 minutes, 12 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 11/20
+Payment Amount: $100.00
+To Opt-out txt STOP
+
+Nov 21, 2023  6:53:26 AM (Read by you after 7 hours, 31 minutes, 33 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/20
+Debit Amount: $553.55
+To Opt-out txt STOP
+
+Nov 21, 2023  6:59:33 AM (Read by you after 7 hours, 25 minutes, 26 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 11/20
+Credit Amount: $553.55
+To Opt-out txt STOP
+
+Nov 21, 2023  7:00:20 AM (Read by you after 7 hours, 24 minutes, 39 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/20
+Payment Amount: $50.00
+To Opt-out txt STOP
+
+Nov 21, 2023  2:24:49 PM (Read by you after 10 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $269.00 at Apple Store #r027.
+To Opt-out txt STOP.
+
+Nov 22, 2023  5:11:31 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 11/21
+Payment Amount: $99.99
+To Opt-out txt STOP
+
+Nov 24, 2023  7:34:00 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $299.00 at apple.com/us.
+To Opt-out txt STOP.
+
+Nov 24, 2023  7:34:05 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $299.00 at apple.com/us. 
+To Opt-out txt STOP.
+
+Nov 25, 2023  6:48:15 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/24
+Debit Amount: $269.00
+To Opt-out txt STOP
+
+Nov 25, 2023  9:59:03 AM
+872265
+U.S. Bank Alerts: On Nov 25, 2023, a new iPhone16,1 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Nov 25, 2023 10:57:21 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $100.00 on 11/25/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Nov 26, 2023  8:11:10 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $1.00 at Google*temporary Hold. 
+To Opt-out txt STOP.
+
+Nov 26, 2023  8:11:11 AM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $1.00 at Google*temporary Hold in JAPAN.
+To Opt-out txt STOP
+
+Nov 26, 2023  4:26:13 PM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $200.00 on 11/26/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Nov 27, 2023 10:33:10 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $26.51 at Amzn Mktp Us. 
+To Opt-out txt STOP.
+
+Nov 27, 2023 10:33:11 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $26.51 at Amzn Mktp Us.
+To Opt-out txt STOP.
+
+Nov 27, 2023  7:51:17 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $230.33 at Cvs/pharmacy #05939.
+To Opt-out txt STOP.
+
+Nov 27, 2023 11:31:51 PM (Read by you after 8 hours, 45 minutes, 22 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $137.57 on 11/28/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Nov 27, 2023 11:35:52 PM (Read by you after 8 hours, 41 minutes, 21 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $26.51 at Amzn Mktp Us.
+To Opt-out txt STOP.
+
+Nov 27, 2023 11:35:52 PM (Read by you after 8 hours, 41 minutes, 21 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $26.51 at Amzn Mktp Us. 
+To Opt-out txt STOP.
+
+Nov 28, 2023  8:04:23 AM (Read by you after 12 minutes, 50 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $26.51 at Amzn Mktp Us. 
+To Opt-out txt STOP.
+
+Nov 28, 2023  8:04:24 AM (Read by you after 12 minutes, 49 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $26.51 at Amzn Mktp Us.
+To Opt-out txt STOP.
+
+Nov 28, 2023  8:13:31 AM (Read by you after 3 minutes, 42 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/27
+Payment Amount: $200.00
+To Opt-out txt STOP
+
+Nov 28, 2023  8:17:07 AM (Read by you after 6 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/27
+Payment Amount: $100.00
+To Opt-out txt STOP
+
+Nov 28, 2023  8:22:04 AM (Read by you after 2 hours, 46 minutes, 43 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 11/27
+Payment Amount: $100.00
+To Opt-out txt STOP
+
+Nov 29, 2023  6:45:15 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/28
+Payment Amount: $137.57
+To Opt-out txt STOP
+
+Nov 29, 2023  6:45:17 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 11/28
+Payment Amount: $200.00
+To Opt-out txt STOP
+
+Nov 29, 2023  6:48:22 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/28
+Debit Amount: $230.33
+To Opt-out txt STOP
+
+Nov 29, 2023  6:49:35 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/28
+Debit Amount: $26.51
+To Opt-out txt STOP
+
+Nov 30, 2023  4:14:39 AM (Read by you after 10 hours, 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/29
+Debit Amount: $299.00
+To Opt-out txt STOP
+
+Nov 30, 2023  4:16:38 AM (Read by you after 9 hours, 58 minutes, 4 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 11/29
+Debit Amount: $26.51
+To Opt-out txt STOP
+
+Nov 30, 2023 12:21:24 PM (Read by you after 1 hour, 53 minutes, 18 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $35.00 at Visible. 
+To Opt-out txt STOP.
+
+Nov 30, 2023 12:21:25 PM (Read by you after 1 hour, 53 minutes, 17 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $35.00 at Visible.
+To Opt-out txt STOP.
+
+Dec 01, 2023  4:53:31 AM (Read by you after 16 hours, 51 minutes, 50 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 11/30
+Credit Amount: $230.33
+To Opt-out txt STOP
+
+Dec 02, 2023  5:16:59 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $580.11 at bestbuy.com.
+To Opt-out txt STOP.
+
+Dec 02, 2023  5:16:59 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $580.11 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Dec 02, 2023  8:34:16 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $100.00 on 12/02/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Dec 05, 2023  7:58:07 AM (Read by you after 2 minutes, 27 seconds)
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 12/04. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Dec 05, 2023  8:00:31 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/04
+Debit Amount: $580.11
+To Opt-out txt STOP
+
+Dec 05, 2023  8:01:10 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 12/04
+Credit Amount: $580.11
+To Opt-out txt STOP
+
+Dec 05, 2023  8:04:54 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 12/04
+Payment Amount: $100.00
+To Opt-out txt STOP
+
+Dec 05, 2023  8:09:00 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/04
+Payment Amount: $100.00
+To Opt-out txt STOP
+
+Dec 05, 2023  8:32:09 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $40.00 on 12/05/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Dec 05, 2023  1:18:44 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $25.00 at Google *google Fi. 
+To Opt-out txt STOP.
+
+Dec 05, 2023  1:18:45 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $25.00 at Google *google Fi.
+To Opt-out txt STOP.
+
+Dec 05, 2023  1:39:28 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $549.99 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Dec 05, 2023  1:39:28 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $549.99 at bestbuy.com.
+To Opt-out txt STOP.
+
+Dec 06, 2023  5:48:06 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 12/05
+Payment Amount: $200.00
+To Opt-out txt STOP
+
+Dec 06, 2023  5:50:20 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/05
+Payment Amount: $40.00
+To Opt-out txt STOP
+
+Dec 06, 2023  5:52:15 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 12/05
+Credit Amount: $218.62
+To Opt-out txt STOP
+
+Dec 06, 2023  7:59:57 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $28.40 on 12/06/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Dec 06, 2023  6:14:00 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $6.99 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Dec 06, 2023  8:37:59 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $34.99 at Best Buy.
+To Opt-out txt STOP.
+
+Dec 06, 2023  8:49:09 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $10.99 at Best Buy.
+To Opt-out txt STOP.
+
+Dec 06, 2023 11:12:20 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $300.66 at bestbuy.com.
+To Opt-out txt STOP.
+
+Dec 06, 2023 11:12:21 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $300.66 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Dec 07, 2023  6:52:39 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/06
+Payment Amount: $28.40
+To Opt-out txt STOP
+
+Dec 07, 2023  6:52:39 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 12/06
+Credit Amount: $26.51
+To Opt-out txt STOP
+
+Dec 07, 2023  6:52:40 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/06
+Debit Amount: $25.00
+To Opt-out txt STOP
+
+Dec 07, 2023  6:52:40 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/06
+Debit Amount: $549.99
+To Opt-out txt STOP
+
+Dec 07, 2023  6:52:41 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 12/06
+Payment Amount: $100.00
+To Opt-out txt STOP
+
+Dec 08, 2023  5:07:20 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/07
+Debit Amount: $34.99
+To Opt-out txt STOP
+
+Dec 08, 2023  5:08:37 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/07
+Debit Amount: $10.99
+To Opt-out txt STOP
+
+Dec 08, 2023  5:10:40 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 12/07
+Credit Amount: $41.47
+To Opt-out txt STOP
+
+Dec 09, 2023  6:28:08 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/08
+Debit Amount: $141.30
+To Opt-out txt STOP
+
+Dec 09, 2023  6:33:08 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/08
+Debit Amount: $116.87
+To Opt-out txt STOP
+
+Dec 10, 2023  4:49:50 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $6.99 at Amazon Prime. 
+To Opt-out txt STOP.
+
+Dec 10, 2023  5:30:24 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $15.94 at Google *google Nest. 
+To Opt-out txt STOP.
+
+Dec 10, 2023  5:30:24 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $15.94 at Google *google Nest.
+To Opt-out txt STOP.
+
+Dec 12, 2023  9:19:03 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/11
+Debit Amount: $15.94
+To Opt-out txt STOP
+
+Dec 12, 2023  9:20:42 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 12/11
+Credit Amount: $37.92
+To Opt-out txt STOP
+
+Dec 12, 2023  9:30:18 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/11
+Debit Amount: $6.99
+To Opt-out txt STOP
+
+Dec 12, 2023  9:30:39 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/11
+Debit Amount: $42.49
+To Opt-out txt STOP
+
+Dec 14, 2023  5:45:36 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $20.56 at Google *fi vxcxx7.
+To Opt-out txt STOP.
+
+Dec 14, 2023  5:45:36 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $20.56 at Google *fi vxcxx7. 
+To Opt-out txt STOP.
+
+Dec 14, 2023  4:03:27 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $211.44 at bestbuy.com.
+To Opt-out txt STOP.
+
+Dec 14, 2023  4:03:27 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $211.44 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Dec 16, 2023  4:30:18 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/15
+Debit Amount: $20.56
+To Opt-out txt STOP
+
+Dec 16, 2023  4:36:30 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 12/15
+Credit Amount: $34.99
+To Opt-out txt STOP
+
+Dec 27, 2023  9:33:57 AM (Read by you after 21 days, 8 hours, 8 minutes, 53 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 12/26
+Credit Amount: $5.31
+To Opt-out txt STOP
+
+Dec 27, 2023  9:37:08 AM (Read by you after 21 days, 8 hours, 5 minutes, 42 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 12/26
+Payment Amount: $40.00
+To Opt-out txt STOP
+
+Dec 27, 2023 12:50:30 PM (Read by you after 21 days, 4 hours, 52 minutes, 20 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $154.69 at Best Buy 1532.
+To Opt-out txt STOP.
+
+Dec 27, 2023  1:03:59 PM (Read by you after 21 days, 4 hours, 38 minutes, 51 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $100.00 on 12/27/2023. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Dec 28, 2023  5:50:03 AM (Read by you after 20 days, 11 hours, 52 minutes, 47 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/27
+Payment Amount: $100.00
+To Opt-out txt STOP
+
+Dec 28, 2023  5:53:16 AM (Read by you after 20 days, 11 hours, 49 minutes, 34 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 12/27
+Payment Amount: $100.00
+To Opt-out txt STOP
+
+Dec 28, 2023 10:58:05 PM (Read by you after 19 days, 18 hours, 44 minutes, 45 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $35.00 at Visible.
+To Opt-out txt STOP.
+
+Dec 28, 2023 10:58:05 PM (Read by you after 19 days, 18 hours, 44 minutes, 45 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $35.00 at Visible. 
+To Opt-out txt STOP.
+
+Dec 29, 2023  6:52:13 AM (Read by you after 19 days, 10 hours, 50 minutes, 37 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 12/28
+Debit Amount: $154.69
+To Opt-out txt STOP
+
+Jan 02, 2024  7:49:49 AM (Read by you after 15 days, 9 hours, 53 minutes, 1 second)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $42.48 at bestbuy.com.
+To Opt-out txt STOP.
+
+Jan 02, 2024  7:49:49 AM (Read by you after 15 days, 9 hours, 53 minutes, 1 second)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $42.48 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Jan 02, 2024  8:08:02 AM (Read by you after 15 days, 9 hours, 34 minutes, 48 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $21.24 at bestbuy.com.
+To Opt-out txt STOP.
+
+Jan 02, 2024  8:08:03 AM (Read by you after 15 days, 9 hours, 34 minutes, 47 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $21.24 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Jan 02, 2024 11:28:26 AM (Read by you after 15 days, 6 hours, 14 minutes, 24 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $21.24 at bestbuy.com.
+To Opt-out txt STOP.
+
+Jan 02, 2024 11:28:27 AM (Read by you after 15 days, 6 hours, 14 minutes, 23 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $21.24 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Jan 03, 2024 10:54:21 AM (Read by you after 14 days, 6 hours, 48 minutes, 29 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/02
+Debit Amount: $35.00
+To Opt-out txt STOP
+
+Jan 04, 2024  5:49:08 AM (Read by you after 13 days, 11 hours, 53 minutes, 42 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/03
+Debit Amount: $42.48
+To Opt-out txt STOP
+
+Jan 04, 2024  5:52:09 AM (Read by you after 13 days, 11 hours, 50 minutes, 41 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 01/03
+Credit Amount: $42.48
+To Opt-out txt STOP
+
+Jan 04, 2024  5:56:08 AM (Read by you after 13 days, 11 hours, 46 minutes, 42 seconds)
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 01/03. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Jan 04, 2024  9:03:47 AM (Read by you after 13 days, 8 hours, 39 minutes, 3 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $12.99 at Proton.
+To Opt-out txt STOP.
+
+Jan 04, 2024  9:03:48 AM (Read by you after 13 days, 8 hours, 39 minutes, 2 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $12.99 at Proton. 
+To Opt-out txt STOP.
+
+Jan 04, 2024  9:03:49 AM (Read by you after 13 days, 8 hours, 39 minutes, 1 second)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $12.99 at Proton in SWITZERLAND.
+To Opt-out txt STOP
+
+Jan 05, 2024  5:58:55 AM (Read by you after 12 days, 11 hours, 43 minutes, 55 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/04
+Debit Amount: $21.24
+To Opt-out txt STOP
+
+Jan 06, 2024  7:48:33 AM (Read by you after 11 days, 9 hours, 54 minutes, 17 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $0.00 at Visa Provisioning Service.
+To Opt-out txt STOP.
+
+Jan 06, 2024  7:48:34 AM (Read by you after 11 days, 9 hours, 54 minutes, 16 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/05
+Debit Amount: $12.99
+To Opt-out txt STOP
+
+Jan 06, 2024  7:48:35 AM (Read by you after 11 days, 9 hours, 54 minutes, 15 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/05
+Debit Amount: $21.24
+To Opt-out txt STOP
+
+Jan 07, 2024 10:11:10 AM (Read by you after 10 days, 7 hours, 31 minutes, 40 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $1.00 at Google *yt Primetime. 
+To Opt-out txt STOP.
+
+Jan 10, 2024  5:30:24 PM (Read by you after 7 days, 12 minutes, 26 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $15.94 at Google *google Nest. 
+To Opt-out txt STOP.
+
+Jan 10, 2024  5:30:25 PM (Read by you after 7 days, 12 minutes, 25 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $15.94 at Google *google Nest.
+To Opt-out txt STOP.
+
+Jan 11, 2024  5:55:14 AM (Read by you after 6 days, 11 hours, 47 minutes, 36 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 01/10
+Payment Amount: $40.00
+To Opt-out txt STOP
+
+Jan 12, 2024  6:12:01 AM (Read by you after 5 days, 11 hours, 30 minutes, 49 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/11
+Debit Amount: $15.94
+To Opt-out txt STOP
+
+Jan 14, 2024  9:40:02 AM (Read by you after 3 days, 8 hours, 2 minutes, 48 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $22.17 at Google *fi wdtkzz.
+To Opt-out txt STOP.
+
+Jan 14, 2024  9:40:02 AM (Read by you after 3 days, 8 hours, 2 minutes, 48 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $22.17 at Google *fi wdtkzz. 
+To Opt-out txt STOP.
+
+Jan 14, 2024 10:06:06 AM (Read by you after 3 days, 7 hours, 36 minutes, 44 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $4.99 at Google*yt Primetime. 
+To Opt-out txt STOP.
+
+Jan 16, 2024  9:29:50 AM (Read by you after 1 day, 8 hours, 13 minutes)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $40.00 on 01/16/2024. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Jan 17, 2024  9:35:46 AM (Read by you after 8 hours, 7 minutes, 4 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/16
+Debit Amount: $4.99
+To Opt-out txt STOP
+
+Jan 17, 2024  9:47:42 AM (Read by you after 7 hours, 55 minutes, 8 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 01/16
+Credit Amount: $50.15
+To Opt-out txt STOP
+
+Jan 17, 2024  2:18:57 PM (Read by you after 3 hours, 23 minutes, 53 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/16
+Payment Amount: $40.00
+To Opt-out txt STOP
+
+Jan 18, 2024  3:52:24 PM
+872265
+U.S. Bank Alerts: On Jan 18, 2024, a new Chrome 120.0.0.0 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Jan 19, 2024  5:13:09 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 01/18
+Payment Amount: $112.00
+To Opt-out txt STOP
+
+Jan 25, 2024 12:22:44 AM (Read by you after 10 hours, 26 minutes, 4 seconds)
+872265
+U.S. Bank Alerts: On Jan 25, 2024, a new Chrome 120.0.0.0 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Jan 25, 2024 12:26:35 AM (Read by you after 10 hours, 22 minutes, 13 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $895.24 on 01/25/2024. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Jan 25, 2024 11:46:32 PM (Read by you after 5 hours, 55 minutes, 20 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $10.28 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 25, 2024 11:46:33 PM (Read by you after 5 hours, 55 minutes, 19 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $10.28 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 25, 2024 11:46:34 PM (Read by you after 5 hours, 55 minutes, 18 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $10.28 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 26, 2024  5:41:49 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 01/25
+Payment Amount: $1,450.00
+To Opt-out txt STOP
+
+Jan 26, 2024  5:46:06 AM (Read by you after 17 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/25
+Payment Amount: $895.24
+To Opt-out txt STOP
+
+Jan 26, 2024  5:46:30 AM (Read by you after 4 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 01/25
+Payment Amount: $1,350.00
+To Opt-out txt STOP
+
+Jan 26, 2024  1:01:35 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $174.68 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 26, 2024  1:01:36 PM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $174.68 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 26, 2024  1:01:38 PM
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+Jan 26, 2024  1:01:40 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $174.68 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 26, 2024  1:06:07 PM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $164.40 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 26, 2024  1:06:09 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $164.40 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 26, 2024  1:07:33 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $164.40 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 26, 2024  1:08:06 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $71.93 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 26, 2024  1:08:08 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $71.93 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 26, 2024  1:08:08 PM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $71.93 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 26, 2024  8:08:42 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $6.96 at Paypal *russiannobi. 
+To Opt-out txt STOP.
+
+Jan 27, 2024 12:38:35 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $574.04 at guangzhoushixinda.
+To Opt-out txt STOP.
+
+Jan 27, 2024 12:38:38 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $574.04 at guangzhoushixinda.
+To Opt-out txt STOP.
+
+Jan 27, 2024 12:38:39 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $574.04 at guangzhoushixinda. 
+To Opt-out txt STOP.
+
+Jan 27, 2024 12:38:39 AM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $574.04 at guangzhoushixinda in CHINA.
+To Opt-out txt STOP
+
+Jan 27, 2024 12:57:40 AM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $574.04 at guangzhoushixinda in CHINA.
+To Opt-out txt STOP
+
+Jan 27, 2024 12:57:43 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $574.04 at guangzhoushixinda.
+To Opt-out txt STOP.
+
+Jan 27, 2024 12:57:44 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $574.04 at guangzhoushixinda. 
+To Opt-out txt STOP.
+
+Jan 27, 2024 12:57:44 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $574.04 at guangzhoushixinda.
+To Opt-out txt STOP.
+
+Jan 28, 2024  6:05:37 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $328.80 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 28, 2024  6:05:40 AM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $328.80 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 28, 2024  6:05:40 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $328.80 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 29, 2024 12:42:40 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $111.59 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 29, 2024 12:43:03 PM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $111.59 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 29, 2024 12:43:03 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $111.59 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 30, 2024  7:35:01 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/29
+Debit Amount: $174.68
+To Opt-out txt STOP
+
+Jan 30, 2024  7:39:50 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/29
+Debit Amount: $10.28
+To Opt-out txt STOP
+
+Jan 30, 2024  7:42:21 AM
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 01/30
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Jan 30, 2024  7:48:23 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 01/29
+Payment Amount: $876.39
+To Opt-out txt STOP
+
+Jan 30, 2024  7:48:50 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 01/29
+Debit Amount: $6.96
+To Opt-out txt STOP
+
+Jan 31, 2024  5:47:50 PM (Read by you after 2 hours, 21 minutes, 56 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $82.00 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:47:51 PM (Read by you after 2 hours, 21 minutes, 55 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $82.00 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:48:20 PM (Read by you after 2 hours, 21 minutes, 26 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $82.00 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 31, 2024  5:48:22 PM (Read by you after 2 hours, 21 minutes, 24 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $184.50 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:48:23 PM (Read by you after 2 hours, 21 minutes, 23 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $184.50 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:48:23 PM (Read by you after 2 hours, 21 minutes, 23 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $184.50 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 31, 2024  5:48:42 PM (Read by you after 2 hours, 21 minutes, 4 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $82.00 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:48:45 PM (Read by you after 2 hours, 21 minutes, 1 second)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $82.00 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:48:45 PM (Read by you after 2 hours, 21 minutes, 1 second)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $82.00 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 31, 2024  5:49:16 PM (Read by you after 2 hours, 20 minutes, 30 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $82.00 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 31, 2024  5:49:19 PM (Read by you after 2 hours, 20 minutes, 27 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $82.00 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:49:19 PM (Read by you after 2 hours, 20 minutes, 27 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $82.00 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:49:49 PM (Read by you after 2 hours, 19 minutes, 57 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $82.00 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:49:52 PM (Read by you after 2 hours, 19 minutes, 54 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $82.00 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 31, 2024  5:49:52 PM (Read by you after 2 hours, 19 minutes, 54 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $82.00 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:50:11 PM (Read by you after 2 hours, 19 minutes, 35 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $61.50 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:50:14 PM (Read by you after 2 hours, 19 minutes, 32 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $61.50 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 31, 2024  5:50:14 PM (Read by you after 2 hours, 19 minutes, 32 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $61.50 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:50:48 PM (Read by you after 2 hours, 18 minutes, 58 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $35.88 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:51:12 PM (Read by you after 2 hours, 18 minutes, 34 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $35.88 at zen.com uab. 
+To Opt-out txt STOP.
+
+Jan 31, 2024  5:51:12 PM (Read by you after 2 hours, 18 minutes, 34 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $35.88 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 31, 2024  9:50:56 PM (Read by you after 10 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $0.84 at Alp*baidu.
+To Opt-out txt STOP.
+
+Jan 31, 2024  9:50:59 PM (Read by you after 7 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $0.84 at Alp*baidu in CHINA.
+To Opt-out txt STOP
+
+Jan 31, 2024  9:50:59 PM (Read by you after 7 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $0.84 at Alp*baidu. 
+To Opt-out txt STOP.
+
+Jan 31, 2024 11:00:12 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $25.63 at zen.com uab.
+To Opt-out txt STOP.
+
+Jan 31, 2024 11:00:15 PM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $25.63 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Jan 31, 2024 11:00:15 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $25.63 at zen.com uab. 
+To Opt-out txt STOP.
+
+Feb 01, 2024 12:11:43 PM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $197.46 on 02/01/2024. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Feb 01, 2024 12:12:54 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $30.75 at zen.com uab. 
+To Opt-out txt STOP.
+
+Feb 01, 2024 12:12:57 PM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $30.75 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Feb 01, 2024 12:12:57 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $30.75 at zen.com uab.
+To Opt-out txt STOP.
+
+Feb 02, 2024  6:39:22 AM (Read by you after 3 hours, 25 minutes, 11 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/01
+Debit Amount: $82.00
+To Opt-out txt STOP
+
+Feb 02, 2024  6:40:44 AM (Read by you after 3 hours, 23 minutes, 49 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/01
+Debit Amount: $82.00
+To Opt-out txt STOP
+
+Feb 02, 2024  6:42:04 AM (Read by you after 3 hours, 22 minutes, 29 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/01
+Payment Amount: $197.46
+To Opt-out txt STOP
+
+Feb 02, 2024  6:42:10 AM (Read by you after 3 hours, 22 minutes, 23 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/01
+Debit Amount: $82.00
+To Opt-out txt STOP
+
+Feb 02, 2024 11:00:05 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $253.38 on 02/02/2024. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Feb 03, 2024  6:23:13 AM (Read by you after 6 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/02
+Payment Amount: $253.38
+To Opt-out txt STOP
+
+Feb 03, 2024  6:38:32 AM
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 02/02. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Feb 04, 2024  5:29:11 AM (Read by you after 54 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $48.55 at Coursra*aq04cm6b4omq6w in IRELAND.
+To Opt-out txt STOP
+
+Feb 04, 2024  5:29:12 AM (Read by you after 53 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $48.55 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Feb 04, 2024  5:29:13 AM (Read by you after 52 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $48.55 at Coursra*aq04cm6b4omq6w. 
+To Opt-out txt STOP.
+
+Feb 04, 2024  5:29:14 AM (Read by you after 51 seconds)
+872265
+U.S. Bank Alert:
+Available Credit Alert:  Your available credit on credit card 7156 is less than the amount you specified of $950.00.
+To Opt-out txt STOP.
+
+Feb 04, 2024  5:00:48 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $45.00 at Visible.
+To Opt-out txt STOP.
+
+Feb 04, 2024  5:00:49 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $45.00 at Visible. 
+To Opt-out txt STOP.
+
+Feb 04, 2024  6:00:18 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $52.00 at Entertain St991.
+To Opt-out txt STOP.
+
+Feb 04, 2024  6:04:36 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $133.25 at zen.com uab.
+To Opt-out txt STOP.
+
+Feb 04, 2024  6:04:37 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $133.25 at zen.com uab. 
+To Opt-out txt STOP.
+
+Feb 04, 2024  6:04:37 PM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $133.25 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Feb 04, 2024  9:46:24 PM (Read by you after 13 minutes, 1 second)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $153.75 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Feb 04, 2024  9:46:25 PM (Read by you after 13 minutes)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $153.75 at zen.com uab. 
+To Opt-out txt STOP.
+
+Feb 04, 2024  9:46:26 PM (Read by you after 12 minutes, 59 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $153.75 at zen.com uab.
+To Opt-out txt STOP.
+
+Feb 04, 2024 10:01:16 PM (Read by you after 4 minutes, 37 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $71.75 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Feb 04, 2024 10:01:16 PM (Read by you after 4 minutes, 37 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $71.75 at zen.com uab.
+To Opt-out txt STOP.
+
+Feb 04, 2024 10:01:17 PM (Read by you after 4 minutes, 36 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $71.75 at zen.com uab. 
+To Opt-out txt STOP.
+
+Feb 04, 2024 10:01:17 PM (Read by you after 4 minutes, 36 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $71.75 at zen.com uab.
+To Opt-out txt STOP.
+
+Feb 05, 2024 12:25:14 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $35.05 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Feb 05, 2024 12:25:14 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $35.05 at bestbuy.com.
+To Opt-out txt STOP.
+
+Feb 05, 2024  3:41:16 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $29.00 at Viasat In-flight Wi-fi.
+To Opt-out txt STOP.
+
+Feb 05, 2024  3:41:32 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $29.00 at Viasat In-flight Wi-fi. 
+To Opt-out txt STOP.
+
+Feb 05, 2024  8:19:13 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $21.24 at bestbuy.com. 
+To Opt-out txt STOP.
+
+Feb 05, 2024  8:19:13 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $21.24 at bestbuy.com.
+To Opt-out txt STOP.
+
+Feb 05, 2024 10:13:38 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $23.95 at Paypal *twitchinter. 
+To Opt-out txt STOP.
+
+Feb 05, 2024 10:13:38 PM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $23.95 at Paypal *twitchinter.
+To Opt-out txt STOP.
+
+Feb 05, 2024 10:14:00 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $4.99 at Paypal *twitchinter. 
+To Opt-out txt STOP.
+
+Feb 05, 2024 10:15:02 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $4.99 at Paypal *twitchinter. 
+To Opt-out txt STOP.
+
+Feb 05, 2024 10:16:52 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $4.99 at Paypal *twitchinter. 
+To Opt-out txt STOP.
+
+Feb 06, 2024  8:17:46 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 02/05
+Payment Amount: $121.81
+To Opt-out txt STOP
+
+Feb 06, 2024  8:20:55 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/05
+Debit Amount: $45.00
+To Opt-out txt STOP
+
+Feb 06, 2024  8:21:44 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/05
+Debit Amount: $48.55
+To Opt-out txt STOP
+
+Feb 06, 2024  8:24:25 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/05
+Debit Amount: $5.00
+To Opt-out txt STOP
+
+Feb 06, 2024  8:26:13 AM
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 02/06
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Feb 06, 2024  8:27:31 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/05
+Debit Amount: $30.00
+To Opt-out txt STOP
+
+Feb 06, 2024  8:27:36 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/05
+Debit Amount: $52.00
+To Opt-out txt STOP
+
+Feb 06, 2024  9:20:49 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $1.00 at Paypal *twitchinter.
+To Opt-out txt STOP.
+
+Feb 06, 2024  9:20:50 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $1.00 at Paypal *twitchinter. 
+To Opt-out txt STOP.
+
+Feb 06, 2024  9:20:51 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $1.00 at Paypal *twitchinter.
+To Opt-out txt STOP.
+
+Feb 07, 2024  6:45:11 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/06
+Debit Amount: $133.25
+To Opt-out txt STOP
+
+Feb 07, 2024  6:46:41 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/06
+Debit Amount: $35.05
+To Opt-out txt STOP
+
+Feb 07, 2024  6:48:08 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/06
+Debit Amount: $40.00
+To Opt-out txt STOP
+
+Feb 07, 2024  6:49:00 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/06
+Debit Amount: $29.00
+To Opt-out txt STOP
+
+Feb 07, 2024  6:49:18 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/06
+Debit Amount: $21.24
+To Opt-out txt STOP
+
+Feb 07, 2024  6:51:32 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/06
+Debit Amount: $197.46
+To Opt-out txt STOP
+
+Feb 08, 2024  4:31:22 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/07
+Debit Amount: $4.99
+To Opt-out txt STOP
+
+Feb 08, 2024  4:32:00 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/07
+Debit Amount: $4.99
+To Opt-out txt STOP
+
+Feb 08, 2024  4:32:27 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/07
+Debit Amount: $4.99
+To Opt-out txt STOP
+
+Feb 08, 2024  4:33:42 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/07
+Debit Amount: $253.38
+To Opt-out txt STOP
+
+Feb 08, 2024 11:20:55 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $12.74 at pp*apple.com/bill.
+To Opt-out txt STOP.
+
+Feb 08, 2024 11:20:55 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $12.74 at pp*apple.com/bill.
+To Opt-out txt STOP.
+
+Feb 08, 2024 11:20:57 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $12.74 at pp*apple.com/bill. 
+To Opt-out txt STOP.
+
+Feb 09, 2024 12:46:48 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $30.75 at zen.com uab.
+To Opt-out txt STOP.
+
+Feb 09, 2024 12:46:50 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $30.75 at zen.com uab.
+To Opt-out txt STOP.
+
+Feb 09, 2024 12:46:50 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $30.75 at zen.com uab. 
+To Opt-out txt STOP.
+
+Feb 09, 2024 12:46:50 AM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $30.75 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Feb 09, 2024  6:47:51 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/08
+Debit Amount: $23.95
+To Opt-out txt STOP
+
+Feb 10, 2024  2:02:07 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $934.29 on 02/10/2024. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Feb 10, 2024  4:35:17 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $6.99 at Amazon Prime.
+To Opt-out txt STOP.
+
+Feb 10, 2024  4:35:17 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $6.99 at Amazon Prime. 
+To Opt-out txt STOP.
+
+Feb 12, 2024 10:53:43 AM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $25.63 at zen.com uab in LITHUANIA.
+To Opt-out txt STOP
+
+Feb 12, 2024 10:53:43 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $25.63 at zen.com uab.
+To Opt-out txt STOP.
+
+Feb 12, 2024 10:53:44 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $25.63 at zen.com uab.
+To Opt-out txt STOP.
+
+Feb 12, 2024 10:53:44 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $25.63 at zen.com uab. 
+To Opt-out txt STOP.
+
+Feb 13, 2024  4:35:36 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $6.99 at Amazon Prime. 
+To Opt-out txt STOP.
+
+Feb 13, 2024  4:35:37 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $6.99 at Amazon Prime.
+To Opt-out txt STOP.
+
+Feb 15, 2024  5:55:57 AM (Read by you after 1 hour, 28 minutes, 55 seconds)
+872265
+U.S. Bank Alerts
+credit card Account 7156
+Date: 02/15
+Threshold: >$10.00
+To Opt-out txt STOP
+
+Feb 15, 2024  5:58:28 AM (Read by you after 1 hour, 26 minutes, 24 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/14
+Debit Amount: $40.00
+To Opt-out txt STOP
+
+Feb 15, 2024  3:30:11 PM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $1.00 at Google *google Store. 
+To Opt-out txt STOP.
+
+Feb 15, 2024  3:30:12 PM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $1.00 at Google *google Store.
+To Opt-out txt STOP.
+
+Feb 16, 2024  4:29:54 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/15
+Debit Amount: $934.29
+To Opt-out txt STOP
+
+Feb 17, 2024  5:14:16 AM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $48.30 at Coursra*4t6xuim4n40yt0 in IRELAND.
+To Opt-out txt STOP
+
+Feb 17, 2024  5:14:16 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $48.30 at Coursra*4t6xuim4n40yt0.
+To Opt-out txt STOP.
+
+Feb 17, 2024  5:14:17 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $48.30 at Coursra*4t6xuim4n40yt0. 
+To Opt-out txt STOP.
+
+Feb 17, 2024  7:40:23 AM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $48.30 at Coursra*4t6xuim4n40yt0 in IRELAND.
+To Opt-out txt STOP
+
+Feb 17, 2024  7:40:23 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $48.30 at Coursra*4t6xuim4n40yt0. 
+To Opt-out txt STOP.
+
+Feb 17, 2024  7:40:24 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $48.30 at Coursra*4t6xuim4n40yt0.
+To Opt-out txt STOP.
+
+Feb 17, 2024 11:30:21 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $20.18 at pp*apple.com/bill.
+To Opt-out txt STOP.
+
+Feb 17, 2024 11:30:21 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $20.18 at pp*apple.com/bill.
+To Opt-out txt STOP.
+
+Feb 17, 2024 11:30:23 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $20.18 at pp*apple.com/bill. 
+To Opt-out txt STOP.
+
+Feb 18, 2024 11:45:18 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $29.99 at pp*apple.com/bill. 
+To Opt-out txt STOP.
+
+Feb 18, 2024 11:45:19 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $29.99 at pp*apple.com/bill.
+To Opt-out txt STOP.
+
+Feb 18, 2024 11:45:20 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $29.99 at pp*apple.com/bill.
+To Opt-out txt STOP.
+
+Feb 22, 2024 10:30:18 AM
+872265
+U.S. Bank: Payment scheduled for acct 7156. $40.00 on 02/22/2024. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Feb 23, 2024  5:54:12 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/22
+Payment Amount: $40.00
+To Opt-out txt STOP
+
+Feb 23, 2024  5:56:48 AM (Read by you after 1 minute, 49 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 02/22
+Payment Amount: $40.00
+To Opt-out txt STOP
+
+Feb 23, 2024  9:13:35 AM
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $13.91 at Huawei in CHINA.
+To Opt-out txt STOP
+
+Feb 23, 2024  9:13:35 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $13.91 at Huawei.
+To Opt-out txt STOP.
+
+Feb 23, 2024  9:13:35 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $13.91 at Huawei. 
+To Opt-out txt STOP.
+
+Feb 23, 2024  9:13:36 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $13.91 at Huawei.
+To Opt-out txt STOP.
+
+Feb 24, 2024  1:06:52 AM (Read by you after 14 hours, 39 minutes, 25 seconds)
+872265
+U.S. Bank Alerts: On Feb 24, 2024, a new Google/Pixel 8 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Feb 24, 2024  1:10:02 AM (Read by you after 14 hours, 36 minutes, 15 seconds)
+872265
+U.S. Bank: Payment scheduled for acct 7156. $500.00 on 02/24/2024. Log in to view details. Msg&Data rates may apply. Txt STOP to Quit
+
+Feb 24, 2024  9:36:25 PM
+872265
+U.S. Bank Alerts: On Feb 25, 2024, a new Chrome 122.0.0.0 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Feb 26, 2024  7:51:28 AM
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $50.00 at pp*apple.com/bill.
+To Opt-out txt STOP.
+
+Feb 26, 2024  7:51:28 AM
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $50.00 at pp*apple.com/bill.
+To Opt-out txt STOP.
+
+Feb 26, 2024  7:51:29 AM
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $50.00 at pp*apple.com/bill. 
+To Opt-out txt STOP.
+
+Feb 27, 2024  7:22:32 AM (Read by you after 4 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 02/26
+Credit Amount: $3.18
+To Opt-out txt STOP
+
+Feb 27, 2024  7:27:40 AM (Read by you after 6 minutes, 11 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 02/26
+Payment Amount: $500.00
+To Opt-out txt STOP
+
+Feb 27, 2024  7:33:48 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/26
+Payment Amount: $500.00
+To Opt-out txt STOP
+
+Feb 28, 2024 10:23:27 PM
+872265
+U.S. Bank Alerts: On Feb 29, 2024, a new iPhone16,2 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Feb 29, 2024 12:53:19 AM
+872265
+U.S. Bank Alerts: On Feb 29, 2024, a new iPhone16,1 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Feb 29, 2024  2:31:21 AM (Read by you after 11 seconds)
+872265
+U.S. Bank Alerts
+Your phone number on file with U.S. Bank has been changed. If you did not initiate this change please call 800-USBANKS.
+To Opt-out txt STOP
+
+Feb 29, 2024  2:31:21 AM (Read by you after 11 seconds)
+872265
+U.S. Bank Alert:
+Your mobile device number was registered, changed or deleted or your Quiet Time setting was changed. To opt-out txt STOP.
+
+Feb 29, 2024  2:31:21 AM (Read by you after 11 seconds)
+872265
+U.S. Bank Alerts
+Your mobile number on file with U.S. Bank has been changed. If you did not initiate this change please call 800-USBANKS.
+To Opt-out txt STOP
+
+Mar 01, 2024  4:58:32 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 02/29
+Debit Amount: $40.00
+To Opt-out txt STOP
+
+Mar 01, 2024  5:15:18 PM
+872265
+U.S. Bank Alerts: On Mar 01, 2024, a new iPhone16,2 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Mar 03, 2024  3:50:15 PM
+872265
+U.S. Bank Alerts: On Mar 03, 2024, a new Edge 122.0.0.0 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Mar 04, 2024  5:11:48 AM (Read by you after 6 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $48.13 at Coursra*aq04cm6b4omq6w. 
+To Opt-out txt STOP.
+
+Mar 04, 2024  5:11:49 AM (Read by you after 5 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $48.13 at Coursra*aq04cm6b4omq6w in IRELAND.
+To Opt-out txt STOP
+
+Mar 04, 2024  5:11:49 AM (Read by you after 5 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $48.13 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Mar 04, 2024  5:11:50 AM (Read by you after 4 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $48.13 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Mar 04, 2024  9:06:17 AM (Read by you after 16 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $48.13 at Coursra*aq04cm6b4omq6w. 
+To Opt-out txt STOP.
+
+Mar 04, 2024  9:06:17 AM (Read by you after 16 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $48.13 at Coursra*aq04cm6b4omq6w in IRELAND.
+To Opt-out txt STOP
+
+Mar 04, 2024  9:06:18 AM (Read by you after 15 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $48.13 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Mar 04, 2024  9:06:33 PM (Read by you after 5 minutes, 45 seconds)
+872265
+U.S. Bank Alerts: On Mar 05, 2024, a new Chrome 122.0.0.0 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Mar 05, 2024  5:00:45 AM (Read by you after 8 seconds)
+872265
+U.S. Bank: Thanks for applying for a U.S. Bank Smartly™ Checking on March 5. Your application ID is 20240653040040. Didn't apply? Call 800-872-2657.
+Txt STOP to cancel msgs.
+
+Mar 05, 2024  8:26:52 AM (Read by you after 24 minutes, 53 seconds)
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 03/04. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Mar 05, 2024  8:30:06 AM (Read by you after 21 minutes, 39 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 03/04
+Credit Amount: $1.23
+To Opt-out txt STOP
+
+Mar 05, 2024  8:40:25 AM (Read by you after 11 minutes, 20 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 03/04
+Credit Amount: $0.05
+To Opt-out txt STOP
+
+Mar 05, 2024  8:44:42 AM (Read by you after 7 minutes, 3 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156
+Date Posted: 03/04
+Debit Amount: $500.00
+To Opt-out txt STOP
+
+Mar 05, 2024  2:27:56 PM
+872265
+U.S. Bank Alerts: On Mar 05, 2024, a new Chrome 122.0.0.0 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Mar 06, 2024  7:25:40 AM
+872265
+U.S. Bank Alerts
+credit card Account# ending in 7156 
+Date Posted: 03/05
+Credit Amount: $48.55
+To Opt-out txt STOP
+
+Mar 06, 2024  9:31:49 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $48.40 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Mar 06, 2024  9:31:49 AM (Read by you after 3 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $48.40 at Coursra*aq04cm6b4omq6w. 
+To Opt-out txt STOP.
+
+Mar 06, 2024  9:31:50 AM (Read by you after 2 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $48.40 at Coursra*aq04cm6b4omq6w in IRELAND.
+To Opt-out txt STOP
+
+Mar 06, 2024  9:31:51 AM (Read by you after 1 second)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $48.40 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Mar 06, 2024 12:49:58 PM (Read by you after 25 minutes, 37 seconds)
+872265
+U.S. Bank Alerts: On Mar 06, 2024, a new iPhone16,1 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Mar 07, 2024  6:04:54 PM (Read by you after 12 hours, 52 minutes, 45 seconds)
+872265
+Cardmember Service: We're continuing to research your dispute #D-240304026527. Msg&Data rates may apply. To Opt-out txt STOP
+
+Mar 08, 2024 10:03:38 AM (Read by you after 6 hours, 9 minutes, 21 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $48.69 at Coursra*aq04cm6b4omq6w in IRELAND.
+To Opt-out txt STOP
+
+Mar 08, 2024 10:03:38 AM (Read by you after 6 hours, 9 minutes, 21 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $48.69 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Mar 08, 2024 10:03:39 AM (Read by you after 6 hours, 9 minutes, 20 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $48.69 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Mar 08, 2024 10:03:39 AM (Read by you after 6 hours, 9 minutes, 20 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $48.69 at Coursra*aq04cm6b4omq6w. 
+To Opt-out txt STOP.
+
+Mar 09, 2024 11:39:34 AM (Read by you after 5 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $49.01 at Coursra*aq04cm6b4omq6w. 
+To Opt-out txt STOP.
+
+Mar 09, 2024 11:39:34 AM (Read by you after 5 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $49.01 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Mar 09, 2024 11:39:35 AM (Read by you after 4 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $49.01 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Mar 09, 2024 11:39:35 AM (Read by you after 4 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $49.01 at Coursra*aq04cm6b4omq6w in IRELAND.
+To Opt-out txt STOP
+
+Mar 10, 2024  1:37:19 PM (Read by you after 27 minutes, 18 seconds)
+872265
+U.S. Bank Alerts
+International Transaction:  credit card 7156 was charged $49.01 at Coursra*aq04cm6b4omq6w in IRELAND.
+To Opt-out txt STOP
+
+Mar 10, 2024  1:37:19 PM (Read by you after 27 minutes, 18 seconds)
+872265
+U.S. Bank Alerts Decline Alert: Your credit card 7156 was declined for $49.01 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Mar 10, 2024  1:37:20 PM (Read by you after 27 minutes, 17 seconds)
+872265
+U.S. Bank Alert:
+Transaction Alert:  Your credit card account 7156 was charged $49.01 at Coursra*aq04cm6b4omq6w.
+To Opt-out txt STOP.
+
+Mar 10, 2024  1:37:20 PM (Read by you after 27 minutes, 17 seconds)
+872265
+U.S. Bank Alert:
+Card Not Present Alert:  Your credit card 7156 was charged $49.01 at Coursra*aq04cm6b4omq6w. 
+To Opt-out txt STOP.
+
+Mar 19, 2024 10:18:22 AM (Read by you after 2 days, 12 hours, 6 minutes, 31 seconds)
+872265
+U.S. Bank Alerts: On Mar 19, 2024, a new Chrome 122.0.0.0 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Mar 19, 2024 11:08:43 AM (Read by you after 2 days, 11 hours, 16 minutes, 10 seconds)
+872265
+U.S. Bank Alerts: On Mar 19, 2024, a new Edge 14.14393 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Mar 19, 2024 12:57:08 PM (Read by you after 34 minutes, 22 seconds)
+872265
+Cardmember Service: We're continuing to research your dispute #D-240319005762. Msg&Data rates may apply. To Opt-out txt STOP
+
+Mar 19, 2024 12:57:09 PM (Read by you after 34 minutes, 21 seconds)
+872265
+Cardmember Service: We're continuing to research your dispute #D-240319005763. Msg&Data rates may apply. To Opt-out txt STOP
+
+Mar 21, 2024  1:26:32 AM (Read by you after 2 hours, 1 minute, 22 seconds)
+872265
+U.S. Bank: Dispute #D-240304026527 for $48.55 at COURSRA*AQ04CM6B4OMQ6W SC is still being researched. Msg&Data rates may apply. Txt STOP to Quit.
+
+Mar 21, 2024  1:01:23 PM (Read by you after 13 hours, 17 minutes, 46 seconds)
+872265
+U.S. Bank: We're nearing resolution for dispute #D-240304026527 $48.55 at COURSRA*AQ04CM6B4OMQ6W SC, letter mailed. Msg&Data rates may apply. Txt STOP to quit
+
+Mar 22, 2024  8:30:48 AM (Read by you after 7 hours, 53 minutes, 57 seconds)
+872265
+U.S. Bank Alerts: On Mar 22, 2024, a new iPhone16,2 logged into your account.
+Didn't log in? Call 800-872-2657. To change or cancel login alerts, visit the U.S. Bank Mobile App.
+
+Apr 02, 2024  1:27:13 AM
+872265
+U.S. Bank: Dispute #D-240319005762 for $530.19 at GOOGLE *Google Fi      85 is still being researched. Msg&Data rates may apply. Txt STOP to Quit.
+
+Apr 02, 2024  1:27:15 AM
+872265
+U.S. Bank: Dispute #D-240319005763 for $530.19 at GOOGLE *Google Fi      85 is still being researched. Msg&Data rates may apply. Txt STOP to Quit.
+
+Apr 03, 2024  5:49:55 AM (Read by you after 8 days, 11 hours, 56 minutes, 56 seconds)
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 04/02. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Apr 05, 2024  5:55:14 AM (Read by you after 6 days, 11 hours, 51 minutes, 37 seconds)
+872265
+US Bank Alerts: Payment for your acct ending in 4867 is due 04/10
+Pay Now: http://www.usbank.com/splash/auth.html?cno=4867&dest=PTM To Opt-out txt STOP
+
+Apr 11, 2024  5:39:36 PM (Read by you after 7 minutes, 15 seconds)
+872265
+U.S. Bank Alerts
+credit card Account# ending in 4867
+Date Posted: 04/10
+Payment Amount: $117.00
+To Opt-out txt STOP
+
+May 04, 2024  6:16:26 AM
+872265
+US Bank Alerts: Payment for your acct ending in 4867 is due 05/10
+Pay Now: http://www.usbank.com/splash/auth.html?cno=4867&dest=PTM To Opt-out txt STOP
+
+May 04, 2024  6:17:04 AM
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 05/03. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+May 11, 2024  5:54:13 AM
+872265
+U.S. Bank: Your pmt for acct  4867 due 05/10 hasnot been rec'd. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=4867&dest=PTM Log in to make a pmt. Txt stop to quit.
+
+Jul 04, 2024  2:04:52 PM
+872265
+U.S. Bank: Your stmt for acct 7156 is available as of 07/03. https://usbankflyer.onelink.me/Woj5/estatementsms?client=eDocs&acc=7156&path=statements Log in to view stmt. Txt stop to quit.
+
+Jul 30, 2024  9:32:48 PM (Read by you after 4 hours, 43 minutes, 25 seconds)
+872265
+U.S. Bank Alerts
+Your mailing address on file with U.S. Bank has been changed. If you did not initiate this change please call 800-USBANKS.
+To Opt-out txt STOP
+

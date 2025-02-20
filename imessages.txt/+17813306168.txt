@@ -1,0 +1,142 @@
+Apr 03, 2023 10:00:35 AM (Read by you after 1 minute, 3 seconds)
++17813306168
+Good morning. Is this Bo? 
+
+Apr 03, 2023 10:02:04 AM (Read by them after 1 second)
+Me
+Good morning. This is Bo. 
+
+Apr 03, 2023 10:03:13 AM (Read by you after 30 seconds)
++17813306168
+Good morning Bo. My name is Jude. I’m a U.S. Army recruiter at Waltham. How’s your day going going? Did you request information about the Army? 
+
+Apr 03, 2023 10:04:11 AM (Read by them after 1 second)
+Me
+Hi Jude. My day is going well and I hope yours is as well. I did request information about the Army.
+
+Apr 03, 2023 10:05:03 AM (Read by you after 6 seconds)
++17813306168
+I’ll ask you a few questions to see if you’re qualified 
+
+Apr 03, 2023 10:05:15 AM
++17813306168
+How old are you? 
+
+Apr 03, 2023 10:05:20 AM
+Me
+34
+
+Apr 03, 2023 10:05:58 AM
++17813306168
+Are you a U.S. citizen or permanent resident? 
+
+Apr 03, 2023 10:06:05 AM
+Me
+Citizen
+
+Apr 03, 2023 10:07:21 AM (Read by them after 2 seconds)
+Me
+I’m looking for ways to serve the United States in ways that utilize my software engineering skills
+
+Apr 03, 2023 10:09:24 AM
++17813306168
+We have a cyber program in the Army 
+
+Apr 03, 2023 10:09:57 AM (Read by you after 1 second)
++17813306168
+Do you have any medical condition I should know about? 
+
+Apr 03, 2023 10:11:32 AM (Read by them after 2 seconds)
+Me
+Autism Spectrum Disorder, Anxiety Disorder, ADHD, and Major Depressive Disorder. I have a history of performing adequately or better without treatment but perform best when properly treated.
+
+Apr 03, 2023 10:15:18 AM (Read by you after 7 seconds)
++17813306168
+You would have to be off your meds for at least 2 years before you can process 
+
+Apr 03, 2023 10:18:01 AM (Read by them after 2 seconds)
+Me
+Are there waivers available or am I automatically rejected before having a chance to apply? Also which meds were you referring to?
+
+Apr 03, 2023 10:18:32 AM (Read by you after 1 second)
++17813306168
+ADHD
+
+Apr 03, 2023 10:19:48 AM (Read by them after 1 second)
+Me
+So the Army doesn’t even have a waiver? The Air Force told me there was a waiver but I’ll be likely or automatically rejected after submitting after submitting the waiver.
+
+Apr 03, 2023 10:24:23 AM (Read by you after 2 seconds)
++17813306168
+We can always do a waiver, but you have several disqualifying conditions. Even if we were able to get the waiver approved for the ADHD, the major depressive disorder may be a problem because the Army is a stressful job 
+
+Apr 03, 2023 10:25:49 AM (Read by them after 6 seconds)
+Me
+I know. I have a history of performing adequately before diagnosis or treatment and I don’t go through withdrawal if forced to stop.
+
+Apr 03, 2023 10:27:42 AM
++17813306168
+I’m telling you from experience that the waiver will not be approved 
+
+Apr 03, 2023 10:29:41 AM (Read by them after 7 seconds)
+Me
+Ok thanks for the information. Do you happen to know if the Army is required to adhere to the Americans with Disabilities Act requirements for employers? If I have a concern that current DoD policies may violate the act, is there any way I could submit a request for information or complaint?
+
+Apr 03, 2023 10:31:35 AM (Read by you after 7 seconds)
++17813306168
+How many medications are you currently on? 
+
+Apr 03, 2023 10:32:14 AM (Read by them after 1 second)
+Me
+Just Vyvanse daily and Ambien as needed
+
+Apr 03, 2023 10:33:21 AM (Read by them after 6 seconds)
+Me
+Again I don’t go through withdrawal if I stop both which I voluntarily do sometimes so I don’t become dependent on the meds and learn how to perform well without 
+
+Apr 03, 2023 10:39:12 AM (Read by them after 6 seconds)
+Me
+Also I believe most cyber jobs are located in the US where access to doctors and pharmacies are readily available. I just don’t see why me or many others in similar conditions would be rejected on this alone and have concerns that current DoD policies may violate the ADA
+
+Apr 03, 2023 10:43:11 AM (Read by you after 14 seconds)
++17813306168
+The Army has a lot of disqualifying factors that other jobs don’t have. You get yelled at constantly in basic training while that’s not really common in other jobs. The training is designed to be physically and mentally challenging. This is the reason why they have a strong vetting process for certain conditions. The Army can’t guarantee you’ll always be U.S. while you’re serving. If you think it’s unfair, you write a letter to your congressman. I’m just telling you what the regulations say 
+
+Apr 03, 2023 10:43:55 AM
+Me
+Ok thanks so much for your time
+
+Apr 03, 2023 10:44:21 AM (Read by you after 2 seconds)
++17813306168
+No problem 
+
+Apr 04, 2023 12:24:33 AM (Read by them after 3 seconds)
+Me
+Sorry 1 last question: according to the Army website it says: “Yes. It will only prevent you from joining the Army if you’ve been treated with ADD/ADHD medication within the last year, or if you display obvious signs of the condition.”
+
+Apr 04, 2023 12:24:38 AM (Read by them after 1 second)
+Me
+https://www.goarmy.com/how-to-join/requirements.html
+Eligibility and Requirements
+Learn more about what it takes to enlist as Soldier or be commissioned as an Officer. Find out the medical, educational, and physical requirements to be able to start a career in the Army.
+
+Apr 04, 2023 12:25:08 AM (Read by them after 1 second)
+Me
+Do you know if it’s 1 year off meds or 2 years like you told me yesterday? Thanks so much again
+
+Apr 04, 2023 12:36:55 AM (Read by them after 2 seconds)
+Me
+Also do you know if it’s all ADHD medication including non stimulants? What about off label anti depressants?
+
+Apr 04, 2023 12:38:44 AM (Read by them after 1 second)
+Me
+And what about Ambien which I’m prescribed as needed? I’d be willing to potentially go off ADHD meds for 1 year so I can join various branches of the military 
+
+Apr 04, 2023 12:48:35 AM (Read by them after 2 seconds)
+Me
+Finally if I’m off meds for a few months and display no sign of impairment (I’ve long functioned at above adequate level without meds including scoring a 2200+ on SAT), would I be eligible for a waiver?
+
+Apr 04, 2023  1:01:24 AM (Read by them after 1 second)
+Me
+And lastly the Army says the maximum age to enlist is 35 but for officers it’s only 31? Do you know why the officer age is lower? Would I be eligible for a waiver if I meet or exceed all other qualifications? If I have to enlist how long does it typically take to get promoted to officer?
+

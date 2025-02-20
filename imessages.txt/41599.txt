@@ -1,0 +1,102 @@
+Mar 02, 2024 11:27:22 PM (Read by you after 8 minutes, 49 seconds)
+41599
+Your Empower app passcode was updated. If you did not request this change, please reach out to help@empower.me.
+
+Mar 02, 2024 11:27:29 PM (Read by you after 8 minutes, 42 seconds)
+41599
+Welcome to Empower! We're excited to help you unlock your financial potential.
+Message and data rates may apply. Message frequency varies.
+Reply HELP for help.
+Reply STOP to opt out.
+Email help@empower.me for support.
+
+Mar 02, 2024 11:43:04 PM (Read by you after 19 minutes, 59 seconds)
+41599
+Empower: Did you know the Empower Card offers paychecks up to 2 days faster (timing may vary by employer) and free instant delivery of your Empower Cash Advance (eligibility applies)? Fund your account now: bit.ly/fundEmp
+
+Msg&data rates may apply. Text 'STOP' to quit.
+
+Mar 03, 2024 12:02:54 AM (Read by you after 9 seconds)
+41599
+Empower: Welcome Bo! Your path to instant cash, better credit history, and more savings starts here. With us in your corner, there's no stopping you. Check your eligibility for cash and credit now: https://open.empower.finance
+
+Msg&data rates may apply. Text 'STOP' to quit.
+
+Mar 03, 2024  9:00:20 AM (Read by you after 6 hours, 51 minutes, 5 seconds)
+41599
+Empower -- We couldn't wait to text you about your Cash Advance eligibility.  You're minutes away from $25: https://open.empower.finance (Act fast, eligibility and offer amount subject to change!)
+
+Msg&data rates may apply. Text 'STOP' to quit.
+
+Mar 04, 2024 11:03:06 AM (Read by you after 9 hours, 50 minutes, 48 seconds)
+41599
+Hi Bo, Empower here! Your first AutoSave transfer may occur this week to help you hit your savings target of $5. This transaction may remain pending for the next few days. Once it posts, your new savings balance will be reflected in your AutoSave account. You may withdraw your AutoSave balance at any time: https://open.empower.finance/autosave?notificationtype=CardAutosaveLatentInitialAttempt https://open.empower.finance/autosave?notificationtype=CardAutosaveLatentInitialAttempt
+
+Mar 05, 2024  3:12:58 PM (Read by you after 1 hour, 15 minutes, 10 seconds)
+41599
+Hey! Empower here. We've deposited a cash advance of $25 in your SoFi account to help you stay afloat while cash is tight. https://open.empower.finance/cashadvancecurrent?notificationtype=CardCashAdvanceCreditSucceeded
+
+Mar 08, 2024 11:14:01 AM (Read by you after 12 seconds)
+41599
+Your Empower debit card should arrive by March 7. https://open.empower.finance/banking/checking/activatecard?notificationtype=CardActivateDebitCard
+
+Mar 08, 2024 11:14:01 AM (Read by you after 12 seconds)
+41599
+Hi Bo, Empower here. We didn't hit your AutoSave weekly target of $5 to avoid overdrafting your account. Your current balance is $0.00.
+
+Mar 22, 2024 11:29:05 AM
+41599
+Hi Bo, Empower here. $5 was stored away through AutoSave & you didn't raise a finger. Your current balance is $5.00. https://open.empower.finance/autosave?notificationtype=CardAutoSaveWeeklyUpdate
+
+Mar 25, 2024  4:10:35 AM (Read by you after 5 hours, 45 minutes)
+41599
+Hey Bo! Empower here. We cannot connect to your Discover account. Without it, we cannot offer you Cash Advance, help you save, and more. Login again now: https://open.empower.finance/institutionerror?notificationtype=CardInstitutionAccountError&account_id=10890086 https://open.empower.finance/institutionerror?notificationtype=CardInstitutionAccountError&account_id=10890086
+
+Mar 29, 2024 11:31:50 AM (Read by you after 2 hours, 53 minutes, 41 seconds)
+41599
+Hi Bo, Empower here. AutoSave didn't run as we lost connection to your bank account. Your current balance is $5.00. https://open.empower.finance/institutionerror?notificationtype=CardAutoSaveWeeklyUpdate
+
+Mar 30, 2024  1:30:21 PM
+41599
+Hey! Empower here. We've deposited a cash advance of $25 in your Empower account to help you stay afloat while cash is tight. https://open.empower.finance/cashadvancecurrent?notificationtype=CardCashAdvanceCreditSucceeded
+
+Mar 31, 2024  9:01:39 AM (Read by you after 1 hour, 35 minutes, 53 seconds)
+41599
+Hey! Empower here. We've deposited a cash advance of $25 in your Empower account to help you stay afloat while cash is tight. https://open.empower.finance/cashadvancecurrent?notificationtype=CardCashAdvanceCreditSucceeded
+
+Apr 16, 2024  6:41:03 PM (Read by you after 1 hour, 5 minutes, 25 seconds)
+41599
+Hey! Empower here. We've deposited a cash advance of $25 in your Empower account to help you stay afloat while cash is tight. https://open.empower.finance/cashadvancecurrent?notificationtype=CardCashAdvanceCreditSucceeded
+
+Apr 26, 2024 12:05:20 PM
+41599
+Hey Bo! Empower here. We cannot connect to your Discover account. Without it, we cannot offer you Cash Advance, help you save, and more. Login again now: https://open.empower.finance/institutionerror?notificationtype=CardInstitutionAccountError&account_id=10890086 https://open.empower.finance/institutionerror?notificationtype=CardInstitutionAccountError&account_id=10890086
+
+Apr 26, 2024 12:05:25 PM
+41599
+Hey Bo! Empower here. We cannot connect to your Discover account. Without it, we cannot offer you Cash Advance, help you save, and more. Login again now: https://open.empower.finance/institutionerror?notificationtype=CardInstitutionAccountError&account_id=10890086 https://open.empower.finance/institutionerror?notificationtype=CardInstitutionAccountError&account_id=10890086
+
+Apr 26, 2024 12:05:32 PM
+41599
+Hi Bo, Empower here. We didn't hit your AutoSave weekly target of $5 to avoid overdrafting your account. Your current balance is $25.00.
+
+May 02, 2024 11:10:52 AM (Read by you after 28 minutes, 18 seconds)
+41599
+Hey! Empower here. We've deposited a cash advance of $25 in your Empower account to help you stay afloat while cash is tight. https://open.empower.finance/cashadvancecurrent?notificationtype=CardCashAdvanceCreditSucceeded
+
+May 03, 2024  3:34:23 AM
+41599
+Hi Bo, Empower here. AutoSave didn't run as we lost connection to your bank account. Your current balance is $25.00. https://open.empower.finance/institutionerror?notificationtype=CardAutoSaveWeeklyUpdate
+
+May 10, 2024  4:54:45 AM
+41599
+Hi Bo, Empower here. We didn't hit your AutoSave weekly target of $5 to avoid overdrafting your account. Your current balance is $25.00.
+
+Jul 12, 2024  8:17:58 AM
+41599
+Hi Bo, Empower here. $5 was stored away through AutoSave & you didn't raise a finger. Your current balance is $65.00. https://open.empower.finance/autosave?notificationtype=CardAutoSaveWeeklyUpdate
+
+Jul 15, 2024 10:40:21 PM
+41599
+Hey! Empower here. We've deposited a cash advance of $25 in your Empower account to help you stay afloat while cash is tight. https://open.empower.finance/cashadvancecurrent?notificationtype=CardCashAdvanceCreditSucceeded
+

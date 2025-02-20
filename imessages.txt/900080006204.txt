@@ -1,0 +1,12 @@
+Jun 20, 2023  1:23:53 PM (Read by you after 1 minute, 10 seconds)
+900080006204
+//VZWVVM:STATUS:rc=2;st=U;vmg_url=https://vmg.vzw.com/VMGIMS/VMServices
+
+Feb 28, 2024 11:05:20 PM (Read by you after 15 minutes, 31 seconds)
+900080006204
+//VZWVVM:STATUS:rc=2;st=U;vmg_url=https://vmg.vzw.com/VMGIMS/VMServices
+
+Sep 24, 2024  6:21:02 PM
+900080006204
+//VZWVVM:STATUS:rc=2;st=U;vmg_url=https://vmg.vzw.com/VMGIMS/VMServices
+

@@ -1,0 +1,52 @@
+Feb 23, 2024  8:04:23 AM (Read by you after 6 seconds)
+23618
+Free Msg Alliant Credit Union Fraud Alert: We noticed suspicious activity on your Visa Debit Card ending in 8027 and need to review 2 transaction(s) with you.
+
+
+
+Available to verify now? Reply YES. If not, reply NO and we will contact you later.
+
+
+
+Call 866-395-3394 for assistance. Reply STOP to opt out.
+
+Feb 23, 2024  8:04:33 AM
+Me
+YES
+
+Feb 23, 2024  8:04:53 AM (Read by you after 7 seconds)
+23618
+We will send 1 transaction at a time. Please confirm if this activity is authorized. You will need to verify each transaction before moving to the next. You may respond YES (authorized) or NO (not authorized).
+
+
+
+#1: $0.00 Declined at WECHAT*TENCENT on 02-23-24. Did you authorize? Reply YES or NO
+
+Feb 23, 2024  8:05:07 AM
+Me
+YES
+
+Feb 23, 2024  8:05:36 AM
+23618
+#2: $0.00 Declined at WECHAT*TENCENT on 02-23-24. Did you authorize?
+
+Feb 23, 2024  8:05:40 AM
+Me
+YES
+
+Feb 23, 2024  8:06:05 AM (Read by you after 5 minutes, 27 seconds)
+23618
+Your card is available for continued use. If your transaction was declined, please attempt the purchase again. Contact 866-395-3394 for further assistance.
+
+Mar 22, 2024  8:11:28 AM (Read by you after 8 hours, 13 minutes, 19 seconds)
+23618
+Free Msg Alliant Credit Union Fraud Alert: We noticed suspicious activity on your Visa Debit Card ending in 8027. A fraud analyst will be contacting you shortly. Call 866-395-3394 for immediate assistance. Reply STOP to opt out.
+
+May 04, 2024  8:02:36 AM
+23618
+Free Msg Alliant Credit Union Fraud Alert: We noticed suspicious activity on your Visa Debit Card ending in 8027 and need to review 1 transaction(s) with you.
+
+Available to verify now? Reply YES. If not, reply NO and we will contact you later.
+
+Call 866-395-3394 for assistance. Reply STOP to opt out.
+

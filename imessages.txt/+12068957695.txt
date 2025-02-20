@@ -1,0 +1,12 @@
+Jan 23, 2023 10:21:50 AM (Read by you after 6 minutes, 46 seconds)
++12068957695
+Coinbase: The BTC you just sent from your account is being delayed for security reasons. Check your email for details.
+
+Jan 23, 2023 10:21:53 AM (Read by you after 6 minutes, 43 seconds)
++12068957695
+https://coinbase.com/signin_disables/d2b71ee649c13af4e12e3c67ffaeadd574d31e0dea68b227b3c89a38a6fb28c7?email=b0sh4ng%40gmail.com
+
+Jan 23, 2023 10:21:53 AM (Read by you after 6 minutes, 43 seconds)
++12068957695
+If you did not initiate this send, email us at support+trust@coinbase.com and tap this link to disable your account:
+

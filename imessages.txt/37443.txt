@@ -1,0 +1,22 @@
+Oct 26, 2022  2:06:00 AM (Read by you after 2 minutes, 25 seconds)
+37443
+Coinbase: 
+You successfully completed ID verification.
+If this wasn't you, lock your account immediately: https://www.coinbase.com/signin_disables/1432357671d4e0bbf07e2bad517d2628?email=b0sh4ng%40gmail.com
+
+Jan 15, 2023 12:09:09 AM (Read by you after 57 seconds)
+37443
+Your Coinbase password has been changed. Call
+     +1 (888) 908-7930
+     to automatically lock your account if you did not do this.
+
+Jan 23, 2023 10:34:10 AM (Read by you after 3 seconds)
+37443
+Coinbase: 
+You successfully completed ID verification.
+If this wasn't you, lock your account immediately: https://www.coinbase.com/signin_disables/1cffb9bb56d3c6f9ab4610b3592ca8f2b5c6729b7b5e4992519be834b6f15081?email=b0sh4ng%40gmail.com
+
+Oct 20, 2023  5:25:11 PM (Read by you after 24 minutes, 50 seconds)
+37443
+Your two factor settings have been changed. Contact our support team at support.coinbase.com if you did not do this.
+

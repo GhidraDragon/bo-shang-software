@@ -1,0 +1,2635 @@
+Feb 04, 2024  6:15:42 AM
+Me
+Find My:  Requested Location
+Tapbacks:
+Questioned by Me
+
+
+Feb 04, 2024  6:16:48 AM
+Me
+Hi 
+
+Feb 04, 2024  6:18:26 AM
+Me
+Some asshole zero dayed into my computer and asked me to “call” you. The best I could do now is FaceTime audio (unless you want video) but I don’t want to criminally harass you like that guy did to me 
+
+Feb 04, 2024  6:18:59 AM (Read by them after 6 hours, 3 minutes, 47 seconds)
+Me
+Find My:  Started Sharing Location
+
+Feb 04, 2024  2:45:24 PM
+Me
+Sry the computer hacks followed me to the PRC and even the Huawei store seemed to know who i was but I was 1 hour short of my flight to Boston to grab one of their 16 inch ultrabooks with TB4 to replace shitty Apple or Ubuntu garbage with either Chinese Windows or Kylin10. Kali Live has been decent to me. Still have yet to build Android or a real form of Kali cuz people keep deleting the source code after I download. Oh well ETA to impress you with algorithms and basic products several weeks. ETA for when to make myself minimally satisfied with skills is 1+ year.
+
+BTW when the weather improves, there may be coffee shops near Wayland 🥹
+
+Feb 04, 2024  2:46:59 PM
+Me
+Blocked? 🥹
+
+Feb 04, 2024  2:47:30 PM
+Me
+Blocked?
+
+Feb 04, 2024  2:56:14 PM
+Me
+After the educational app for Chinese, Japanese, and Koreans to which will enable their young and others to quickly master advanced logic science and tech, I’ll spend 3 days releasing an American app which may be profitable.
+
+My longer term goals is having my own Remote Operations Center. A dream that could only be realized after such a goal is to purchase Boston dynamics and then them into MrDestructoid
+
+Feb 04, 2024  3:19:27 PM (Read by them after 57 seconds)
+Me
+After the educational app for Chinese, Japanese, and Koreans to which will enable their young and others to quickly master advanced logic science and tech, I’ll spend 3 days releasing an American app which may be profitable.
+
+My longer term goals is having my own Remote Operations Center. A dream that could only be realized after such a goal is to purchase Boston dynamics and then them into MrDestructoid
+
+Feb 04, 2024  3:19:42 PM
+Me
+Sry the computer hacks followed me to the PRC and even the Huawei store seemed to know who i was but I was 1 hour short of my flight to Boston to grab one of their 16 inch ultrabooks with TB4 to replace shitty Apple or Ubuntu garbage with either Chinese Windows or Kylin10. Kali Live has been decent to me. Still have yet to build Android or a real form of Kali cuz people keep deleting the source code after I download. Oh well ETA to impress you with algorithms and basic products several weeks. ETA for when to make myself minimally satisfied with skills is 1+ year.
+
+BTW when the weather improves, there may be coffee shops near Wayland
+
+Feb 04, 2024  6:08:52 PM
+Me
+Your flower from the girls in STEM meeting is absolutely perfect. I’ll use “highly advanced” (but definitely as low level as sensible) to gen ai “real flowers” 🌸 then throw them as NFTs on ethereum or other blockchains and use them as marketing material. I’ll take crypto only as percentage of transactions but allow users to easily integrate USPS, UPS, the federal reserve system including cash, and at hope pickup, with no arbitration whatsoever besides the contract between P2P, and just rely on user honesty to click “transaction completed” for in home pickups etc. so I get a cut. Users could sell for pickup after depositing like $2 for some crypto deposit.
+
+Feb 04, 2024  6:09:25 PM
+Me
+It’ll take 1 week or so for system designs then I’ll toss it on as many cloud platforms or OSes as sensible 🥹🌸🌸
+
+Feb 04, 2024  6:10:35 PM
+Me
+If this works out and gets VC I’ll give you 10% equity as a gift but technically for me to not lose equity you have to sign like a 1 hour per year consulting contract or something; I forgot … 😭 JK whatever 90% of 75%/75% = 90% 🥲
+
+Feb 04, 2024  6:11:44 PM
+Me
+This may take a while to build but it’s not like criminal.self@gmail.com or pseudo.nsa@icloud.com would ever just vanish 🥲
+
+Feb 04, 2024  7:18:04 PM (Read by them after 7 minutes, 56 seconds)
+Me
+Wtf 
+def thread_prime(list_of_int_crap, max_threads=1000):
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_threads) as executor:
+        futures = [executor.submit(isprime, cra and print(f"Prime False! {cra}") if not isprime(cra) else print(f"Prime True! {cra}")) for cra in list_of_int_crap]
+        concurrent.futures.wait(futures)
+
+Feb 04, 2024  7:18:19 PM (Read by them after 7 minutes, 41 seconds)
+Me
+attachments/306/1372.jpeg
+Ill find u some primes soon
+
+Feb 04, 2024  7:19:10 PM (Read by them after 6 minutes, 50 seconds)
+Me
+U want rsa 2069*2?
+
+Feb 04, 2024  7:39:45 PM (Read by them after 1 minute, 28 seconds)
+Me
+attachments/306/573.jpeg
+I got 70% twice on not exactl y copy and paste exams without being able to load any video lectures in the PRC, and the passing grade was 80%; I’m sure I’ll pass next time… anyways 
+
+Feb 04, 2024  7:40:23 PM (Read by them after 50 seconds)
+Me
+Do u like my syntax? A_LARGE_USELESS_INT = sys.maxsize // 69696696969699
+BIT_1024_INT = 179769313486231590772930519078902473361797697894230657273430081157732675805500963132708477322407536021120113879871393357658789768814416622492847430639474124377767893424865485276302219601246094119453082952085005768838150682342462881473913110540827237163350510684586298239947245938479716304835356329624224137211
+mersenne_primes = [2, 3, 5, 7, 13, 17, 19, 31, 61, 89, 107, 127, 521, 607, 1279, 2203, 2281, 3217, 4253, 4423, 9689, 9941, 11213, 19937, 21701, 23209, 44497, 86243, 110503, 132049, 216091, 756839, 859433, 1257787, 1398269, 2976221, 3021377, 6972593, 13466917, 20996011, 24036583, 25964951, 30402457]
+not_merseene = [69, 69696696969699, A_LARGE_USELESS_INT]
+for _ in mersenne_primes:
+    print(f"is {_} Merseene prime prime? {isprime(_)}")
+for n in not_merseene:
+    print(f"is {n} non-prime prime? {isprime(n)}")
+
+Feb 04, 2024  7:50:07 PM
+Me
+Is this prime? 545374067809707964731492122366891431224132080998116346215916393094860665924559647608132117262600993611978645898078512636554935410088592031805489882538777399539453149421096494769304912614024102579848425806795819098385943271304662280060645276950943150508950126267899958600005039800013267918400452648902940476175250815097737826955502656182280007423713017646775622921964459376384348139672044027808757847174972703338912570407450308052960128219252289006663246782918023621203691221406122565758878759582449613182871861216138684037513813941522603250896380850472849584248628939841925868524998450480560257827525057780635745746257671052874483314773516393160752865414215110832485162198069317625813204758084002713811717998154460845723090593703197655332702442869717416438714083703747685496755934378179985195058510911808374729310484928503131806041353357704078533287568640513511155463782455138379580260439152316205524682284377460483661491229592381713691895136224219009263488882470536357805790217345413729669995980707121370705299558713030278241881878157263805681329314191684310578996819010439268837772668394957847117216977833157535043606767735127835156002065362747917254178719826914468038540489275289456483953676390027467810780545397922586477057986463739938763869280004102059279465002388874363880926906755246920290930799326105802980154178202970910594857018934363109740749363801826808149428087411206516742719392662012375709708591506140539104850001520274998920549135268365341156438429205012119339488538258686380249007802873396234429154684705133804885934669887181808781327003774673313954668373748195879713009444551002829869305442194921458596296004851376966917001584628100867917829091711220820515887833724106167470620252814852592224104447774193399607180976843614577345140893932631790366541180915917706145683123755506937533517757242462758731981295809982412781282692746589619013132379379844606042662170094720654455699989376018776690752126147954565227455232906806780506908662615673646430665743982065811047885185296692640893043145966165707155503386197628014018379009006942240578476116772624073263998187401553651540982118927240110618234745099961230435704903932900642628868451211618130908819430496944466930330022949252210024258438588179091958594319028724411548178632725782324252210627065585198315157530762677274450653944335340051359528251285126912468183390829124112603871247987342330333628110505979222496807036064716141981587135252470949813915264176152689511260495014332505921452597792693288959
+
+Feb 04, 2024  7:51:11 PM
+Me
+Or this? Cuz checking isprime without umm can be hard.. can be approximated by tossing ffffffFALSE rather than FALSE if deterministic false
+
+Feb 04, 2024  7:51:11 PM
+Me
+545374067809707964731492122366891431224132080998116346215916393094860665924559647608132117262600993611978645898078512636554935410088592031805489882538777399539453149421096494769304912614024102579848425806795819098385943271304662280060645276950943150508950126267899958600005039800013267918400452648902940476175250815097737826955502656182280007423713017646775622921964459376384348139672044027808757847174972703338912570407450308052960128219252289006663246782918023621203691221406122565758878759582449613182871861216138684037513813941522603250896380850472849584248628939841925868524998450480560257827525057780635745746257671052874483314773516393160752865414215110832485162198069317625813204758084002713811717998154460845723090593703197655332702442869717416438714083703747685496755934378179985195058510911808374729310484928503131806041353357704078533287568640513511155463782455138379580260439152316205524682284377460483661491229592381713691895136224219009263488882470536357805790217345413729669995980707121370705299558713030278241881878157263805681329314191684310578996819010439268837772668394957847117216977833157535043606767735127835156002065362747917254178719826914468038540489275289456483953676390027467810780545397922586477057986463739938763869280004102059279465002388874363880926906755246920290930799326105802980154178202970910594857018934363109740749363801826808149428087411206516742719392662012375709708591506140539104864651768686402287186047614351811388181972645434903129211177574253785519809693724814933404094384831407889076539696589546571824170380869290909781501497211395377477530644409154215039372430780245317704000126710824302023030113981047799333481703499511710556793401515150721048911283071482063370390062547568751995990904215831768341958312672775081507926613384494723979974348336276735378444496871645254766800901128738720377881582816530895896682981891597231842778761676305756175863872135661183167305552247607486857172315951739617650831533383036713431738098187040761593773505299580395238298549806563767245975485550218668797704674993411831523092855809743190328058066437700901701260184739760292760615253840030263932394351413014314312125285344871543311485187377409506446977291310905377851553136625396831845835897389227671044634170034404360128969876574483348032126381264090274019078891161521547996119015171579653355958420896667874975554884853380659812968882406707786434446661780079089597755060508685758366364323357584532928945366177955328837280080465087168511
+
+Feb 04, 2024  7:51:23 PM
+Me
+attachments/306/552.jpeg
+
+Feb 04, 2024  7:53:12 PM
+Me
+🙁 Seconly : sys.maxsize is not changeable without rebuilding your Python executable, as it depends on the memory size of the the machine.
+
+Brb
+
+Feb 04, 2024  7:54:14 PM
+Me
+I’d bet some crypto that this works after I build python the way I want it; if __name__ == "__main__":
+# Define your prime numbers p and q
+    p = 545374067809707964731492122366891431224132080998116346215916393094860665924559647608132117262600993611978645898078512636554935410088592031805489882538777399539453149421096494769304912614024102579848425806795819098385943271304662280060645276950943150508950126267899958600005039800013267918400452648902940476175250815097737826955502656182280007423713017646775622921964459376384348139672044027808757847174972703338912570407450308052960128219252289006663246782918023621203691221406122565758878759582449613182871861216138684037513813941522603250896380850472849584248628939841925868524998450480560257827525057780635745746257671052874483314773516393160752865414215110832485162198069317625813204758084002713811717998154460845723090593703197655332702442869717416438714083703747685496755934378179985195058510911808374729310484928503131806041353357704078533287568640513511155463782455138379580260439152316205524682284377460483661491229592381713691895136224219009263488882470536357805790217345413729669995980707121370705299558713030278241881878157263805681329314191684310578996819010439268837772668394957847117216977833157535043606767735127835156002065362747917254178719826914468038540489275289456483953676390027467810780545397922586477057986463739938763869280004102059279465002388874363880926906755246920290930799326105802980154178202970910594857018934363109740749363801826808149428087411206516742719392662012375709708591506140539104864651768686402287186047614351811388181972645434903129211177574253785519809693724814933404094384831407889076539696589546571824170380869290909781501497211395377477530644409154215039372430780245317704000126710824302023030113981047799333481703499511710556793401515150721048911283071482063370390062547568751995990904215831768341958312672775081507926613384494723979974348336276735378444496871645254766800901128738720377881582816530895896682981891597231842778761676305756175863872135661183167305552247607486857172315951739617650831533383036713431738098187040761593773505299580395238298549806563767245975485550218668797704674993411831523092855809743190328058066437700901701260184739760292760615253840030263932394351413014314312125285344871543311485187377409506446977291310905377851553136625396831845835897389227671044634170034404360128969876574483348032126381264090274019078891161521547996119015171579653355958420896667874975554884853380659812968882406707786434446661780079089597755060508685758366364323357584532928945366177955328837280080465087168511 #p = 82589933
+    q = 545374067809707964731492122366891431224132080998116346215916393094860665924559647608132117262600993611978645898078512636554935410088592031805489882538777399539453149421096494769304912614024102579848425806795819098385943271304662280060645276950943150508950123997783219911742397097175043219484715421149226221566554809421695169110160896223185028734943686470770950889631269611319929616033439646850036928456752058056995771897050375751566609609341517726283807699237190777114667543904735243944835895529511439305014655264896895230323167655498484351133726184074120195759426217057339670438142764569512998451813455910274573972683602981639699760382502690111567191980196493629313070756868857052575989964223746738652778134041298543814561748717146070160388788863772490018246711032913139479386508711340972083260808874660936363187848919823062739154337387245083898714279780219221491423649667749062299846924425823760708484498783395208469523263532086621798704346775234912112436726926992639662266792194864979425562606240850778995717403187603138432920896071753208121025763127593059391093237345223266125144237692203769548676173039610135036085068000430731624964918880569186814972462586122796156521564893863451616717185256897787304936095475587162958010084228274085667494049397237642233821236706125771946673653972589966349931139489496882961623678223919590400035716768266798004550071374767328659203349122753553480767491362316193797273375215663989664844647457466445740083170953023782089318754415176809056422092884285850914708762004353794478205913619877201329806124717939706948096844809265326442077055541132858551837300706786071034987627173575888536933503145935933695383851048267033348788978751346226718857519057491761327498852283190615366377783968628368268136577799404992947050271268388157361833223622713626079447998888478170963481001721611752502564763440447007327944948188336678197995942419238604313678002904966761402203095212200946924238067558397591427970928499989003805637752722564078177977114869900822234315123978892981404208977112596430840475520009451005080812678994687655601471613150887613037018580925035649412236037459802402359492745212966863213267511398764376173444136272334956342531353767752235145376658954709579895292330111978144743572348092528648498253894523838335703075345558846806282706743575684561431753258761907357321805212535008902224638902515344203288188028389316075202082188173954528543024177822650878490782705698925449670483928993377220474949298957847092265376990257280450559
+
+    n = p * q
+    phi = (p - 1) * (q - 1)
+
+    # Choose e
+    e = 9999999679 # 😘 pick any prime that u could calculate; not too large plz 😘 # e must be co-prime with phi; you use secret p and q but keep those secret 😘
+    assert gcd(e, phi) == 1
+
+    # Compute d
+    d = modinv(e, phi)
+
+    messages = []
+    message = "Hello, National Security Agency! I support Donald Trump in the 2024 elections 😅 He was very funny getting confused by the China Virus to declare victory early, then sort of ran with it. 😂 He also quotes President Putin verbatim at campaign rallies 😛 He had a history of repeatedly bashing the 5th Amendment but seemed to have imported that say function with a new parameter these days 🤣 "
+    messages.append(message)
+    message = "I could use better nuclear deterrance cuz a lot of retards are following me around and at minimum harassing me 😅"
+    messages.append(message)
+    message = "I have a hard on for mobile or stealth or hardened intercontinental ballistic missiles with multiple independently launched reentry vehicles traveling at over Mach 25 and could hit anywhere in the world with high precision 😅"
+    messages.append(message)
+    for message in messages:
+        cipher = rsa_encrypt(message, e, n)
+        decrypted = rsa_decrypt(cipher, d, n)
+
+        print("\nOriginal:", message,"\n")
+        print("Encrypted:", cipher,"\n")
+        print("Decrypted:", decrypted, "\n")
+
+Feb 04, 2024  8:06:24 PM
+Me
+attachments/306/536.heic
+Methylphenidate + Ambien AND or Adderall + Lunesta; check my Lunesta refills 🤔🥲 u could get Lunesta over there too but why not have both varieties? Also lorazepam either place
+
+Feb 04, 2024  8:08:01 PM
+Me
+I’ll get a hummus to share at Sammy’s Pizza and Grill + however many cocktails it takes to reach boarding departure in 4 hours 🙁
+
+Feb 04, 2024  8:16:24 PM
+Me
+attachments/306/541.jpeg
+🤔
+
+Feb 04, 2024  8:20:49 PM
+Me
+The client is always the same and as long as the hash to the bearer checks out… can u even reverse it or have it linked to an acct? 🤔
+
+Feb 04, 2024  8:20:54 PM
+Me
+attachments/306/571.heic
+
+Feb 04, 2024  8:21:14 PM
+Me
+😭🌺
+
+Feb 04, 2024  8:21:18 PM
+Me
+attachments/306/529.heic
+
+Feb 04, 2024  8:25:36 PM (Read by them after 33 seconds)
+Me
+Pre-requisites: python(3), selenium, and Google Chrome (or for testing or whatever works with chromedriver) + chromedriver
+
+https://chromedriver.chromium.org/downloads (use wget rather than curl -O or whatever... same i think..... wget is a wrapper and a parser....)
+
+also yt-dlp (use pip install or brew install or apt install or choco or rpm or whatever) and ffmpeg (same) if you want to download videos. can't include ffmpeg in requirements.txt unless i write it PURELY in python or cpython.. :((((
+
+Feb 04, 2024  8:28:30 PM
+Me
+U cook or just steal from the office? I microwave frozen the frozen noodles or dumplings or whatever u talk about a lot 🥰
+
+Feb 04, 2024  8:28:49 PM
+Me
+Amazon fresh + a large freezer 🥲or you could get your 10000 steps in
+
+Feb 04, 2024  8:30:23 PM
+Me
+Is pokimane still under the protection of twitch security? Cuz mailing her a gift such as a 3d printer with instructions via usps PO Box was the original plan 😍
+
+Feb 04, 2024  8:31:42 PM (Read by them after 9 minutes, 42 seconds)
+Me
+What she’s got a PO Box and there’s air tags inside of stuffed animals which u could sell urself on amazon prime….. and Putin has nuclear poisonous stuff…
+
+Feb 04, 2024  8:33:11 PM (Read by them after 8 minutes, 13 seconds)
+Me
+The most important process is the Andrussow oxidation invented by Leonid Andrussow at IG Farben in which methane and ammonia react in the presence of oxygen at about 1,200 °C (2,190 °F) over a platinum catalyst:[22]
+
+2 CH4 + 2 NH3 + 3 O2 → 2 HCN + 6 H2O
+
+Feb 04, 2024  8:33:49 PM (Read by them after 7 minutes, 35 seconds)
+Me
+Then she markets energy drinks? 😍😘 JK that oven cooker is industrial….
+
+Feb 04, 2024  8:35:20 PM (Read by them after 6 minutes, 4 seconds)
+Me
+But with lasers…powered by capacitors…. You might be able to achieve similar infrared EM to something 😛then you might need pressure and pre-cursor chemicals 😘
+
+Feb 04, 2024  8:35:56 PM (Read by them after 5 minutes, 28 seconds)
+Me
+Infrared beam… is one spectrum of mirrored-directed beans of infrared EM 😜
+
+Feb 04, 2024  8:37:17 PM (Read by them after 4 minutes, 7 seconds)
+Me
+I mean I technically meant EMR but EMW means something else and gravity is EMF so is magnetism etc.?
+
+Feb 04, 2024  9:25:43 PM
+Me
+attachments/306/570.heic
+Bullshit if you took an Android device, that you didn’t build yourself. What else do u have?
+
+Feb 04, 2024  9:38:14 PM
+Me
+attachments/306/555.heic
+Bullshit let me break into every cell carrier and utility first etc.
+
+Feb 04, 2024  9:59:04 PM
+Me
+attachments/306/543.heic
+￼How fast do u want it? What backend server logic and server itself works easily? What about Tor Onion Service limitations? 🤔🌺
+
+Feb 04, 2024 10:37:24 PM
+Me
+Bullshit I can’t fit a virus in an MMS without u rendering it in an OS
+
+Feb 04, 2024 11:11:25 PM
+Me
+Sry u need cpython if implemented like this…. But surprisingly python data types are dynamic or linked lists or whatever..
+
+Feb 04, 2024 11:11:25 PM
+Me
+Traceback (most recent call last):
+  File "/Users/bo/Documents/GitHub/encryption-binary-RE/rsa.py", line 51, in <module>
+    decrypted = rsa_decrypt(cipher, d, n)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/bo/Documents/GitHub/encryption-binary-RE/rsa.py", line 24, in rsa_decrypt
+    plaintext = ''.join([chr(pow(char, d, n)) for char in cipher])
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/bo/Documents/GitHub/encryption-binary-RE/rsa.py", line 24, in <listcomp>
+    plaintext = ''.join([chr(pow(char, d, n)) for char in cipher])
+                         ^^^^^^^^^^^^^^^^^^^^
+OverflowError: Python int too large to convert to C int
+
+Feb 04, 2024 11:11:57 PM
+Me
+Rsa encrypt seems to work..
+
+Feb 04, 2024 11:22:50 PM (Read by them after 48 seconds)
+Me
+import sys
+sys.set_int_max_str_digits(999999999) # print("Encrypted:", cipher,"\n")
+# ValueError: Exceeds the limit (4300 digits) for integer string conversion; use sys.set_int_max_str_digits() to increase the limit
+
+Feb 04, 2024 11:25:43 PM
+Me
+# Define your prime numbers p and q
+    p = 545374067809707964731492122366891431224132080998116346215916393094860665924559647608132117262600993611978645898078512636554935410088592031805489882538777399539453149421096494769304912614024102579848425806795819098385943271304662280060645276950943150508950126267899958600005039800013267918400452648902940476175250815097737826955502656182280007423713017646775622921964459376384348139672044027808757847174972703338912570407450308052960128219252289006663246782918023621203691221406122565758878759582449613182871861216138684037513813941522603250896380850472849584248628939841925868524998450480560257827525057780635745746257671052874483314773516393160752865414215110832485162198069317625813204758084002713811717998154460845723090593703197655332702442869717416438714083703747685496755934378179985195058510911808374729310484928503131806041353357704078533287568640513511155463782455138379580260439152316205524682284377460483661491229592381713691895136224219009263488882470536357805790217345413729669995980707121370705299558713030278241881878157263805681329314191684310578996819010439268837772668394957847117216977833157535043606767735127835156002065362747917254178719826914468038540489275289456483953676390027467810780545397922586477057986463739938763869280004102059279465002388874363880926906755246920290930799326105802980154178202970910594857018934363109740749363801826808149428087411206516742719392662012375709708591506140539104864651768686402287186047614351811388181972645434903129211177574253785519809693724814933404094384831407889076539696589546571824170380869290909781501497211395377477530644409154215039372430780245317704000126710824302023030113981047799333481703499511710556793401515150721048911283071482063370390062547568751995990904215831768341958312672775081507926613384494723979974348336276735378444496871645254766800901128738720377881582816530895896682981891597231842778761676305756175863872135661183167305552247607486857172315951739617650831533383036713431738098187040761593773505299580395238298549806563767245975485550218668797704674993411831523092855809743190328058066437700901701260184739760292760615253840030263932394351413014314312125285344871543311485187377409506446977291310905377851553136625396831845835897389227671044634170034404360128969876574483348032126381264090274019078891161521547996119015171579653355958420896667874975554884853380659812968882406707786434446661780079089597755060508685758366364323357584532928945366177955328837280080465087168511 #p = 82589933
+    q = 545374067809707964731492122366891431224132080998116346215916393094860665924559647608132117262600993611978645898078512636554935410088592031805489882538777399539453149421096494769304912614024102579848425806795819098385943271304662280060645276950943150508950123997783219911742397097175043219484715421149226221566554809421695169110160896223185028734943686470770950889631269611319929616033439646850036928456752058056995771897050375751566609609341517726283807699237190777114667543904735243944835895529511439305014655264896895230323167655498484351133726184074120195759426217057339670438142764569512998451813455910274573972683602981639699760382502690111567191980196493629313070756868857052575989964223746738652778134041298543814561748717146070160388788863772490018246711032913139479386508711340972083260808874660936363187848919823062739154337387245083898714279780219221491423649667749062299846924425823760708484498783395208469523263532086621798704346775234912112436726926992639662266792194864979425562606240850778995717403187603138432920896071753208121025763127593059391093237345223266125144237692203769548676173039610135036085068000430731624964918880569186814972462586122796156521564893863451616717185256897787304936095475587162958010084228274085667494049397237642233821236706125771946673653972589966349931139489496882961623678223919590400035716768266798004550071374767328659203349122753553480767491362316193797273375215663989664844647457466445740083170953023782089318754415176809056422092884285850914708762004353794478205913619877201329806124717939706948096844809265326442077055541132858551837300706786071034987627173575888536933503145935933695383851048267033348788978751346226718857519057491761327498852283190615366377783968628368268136577799404992947050271268388157361833223622713626079447998888478170963481001721611752502564763440447007327944948188336678197995942419238604313678002904966761402203095212200946924238067558397591427970928499989003805637752722564078177977114869900822234315123978892981404208977112596430840475520009451005080812678994687655601471613150887613037018580925035649412236037459802402359492745212966863213267511398764376173444136272334956342531353767752235145376658954709579895292330111978144743572348092528648498253894523838335703075345558846806282706743575684561431753258761907357321805212535008902224638902515344203288188028389316075202082188173954528543024177822650878490782705698925449670483928993377220474949298957847092265376990257280450559
+
+    n = p * q
+    phi = (p - 1) * (q - 1)
+
+    # Choose e
+    e = 9999999679 # 😘 pick any prime that u could calculate; not too large plz 😘 # e must be co-prime with phi; you use secret p and q but keep those secret 😘 no shit.... 
+    assert gcd(e, phi) == 1 # so wtf is phi; better be gcd = 1
+
+    # Compute d
+    d = modinv(e, phi) # mod inv e and phi eh? e and n are public keys eh? and the d is private eh?
+
+Feb 04, 2024 11:26:46 PM
+Me
+Just give me d cuz well ur n is umm well only possibly ummmm.. also ur e is just padding…
+
+Feb 04, 2024 11:27:28 PM
+Me
+Why would u re the e unless……… u were sure of p and q first?
+
+Feb 04, 2024 11:27:48 PM
+Me
+Maybe “you’re smarter and could find a pattern with deep learning” and im’a dumbass conclusion
+
+Feb 05, 2024 12:17:17 AM
+Me
+This is actually so hard to write in binary…….. try capture the flag hw assignment or something SCRIPT SCAN:
+  -sC: equivalent to --script=default
+  --script=<Lua scripts>: <Lua scripts> is a comma separated list of
+           directories, script-files or script-categories
+  --script-args=<n1=v1,[n2=v2,...]>: provide arguments to scripts
+  --script-args-file=filename: provide NSE script args in a file
+  --script-trace: Show all data sent and received
+  --script-updatedb: Update the script database.
+  --script-help=<Lua scripts>: Show help about scripts.
+           <Lua scripts> is a comma-separated list of script-files or
+           script-categories.
+
+Feb 05, 2024 12:17:28 AM
+Me
+(base) bo@bos-macbook-pro dl-twitch % sudo nmap -A -v --min-parallelism 69 -sS 142.251.2.84 -e en0 accounts.google.com
+Password:
+Starting Nmap 7.94 ( https://nmap.org ) at 2024-02-05 13:15 CST
+NSE: Loaded 156 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 13:15
+Completed NSE at 13:15, 0.00s elapsed
+Initiating NSE at 13:15
+Completed NSE at 13:15, 0.00s elapsed
+Initiating NSE at 13:15
+Completed NSE at 13:15, 0.00s elapsed
+Initiating Ping Scan at 13:15
+Scanning 142.251.2.84 [4 ports]
+Completed Ping Scan at 13:15, 3.03s elapsed (1 total hosts)
+Nmap scan report for 142.251.2.84 [host down]
+Initiating Ping Scan at 13:15
+Scanning accounts.google.com (142.251.2.84) [4 ports]
+Completed Ping Scan at 13:15, 3.03s elapsed (1 total hosts)
+Nmap scan report for accounts.google.com (142.251.2.84) [host down]
+Other addresses for accounts.google.com (not scanned): 2607:f8b0:4023:c0b::54
+NSE: Script Post-scanning.
+Initiating NSE at 13:15
+Completed NSE at 13:15, 0.00s elapsed
+Initiating NSE at 13:15
+Completed NSE at 13:15, 0.00s elapsed
+Initiating NSE at 13:15
+Completed NSE at 13:15, 0.00s elapsed
+Read data files from: /opt/homebrew/bin/../share/nmap
+Nmap done: 2 IP addresses (0 hosts up) scanned in 6.33 seconds
+           Raw packets sent: 16 (608B) | Rcvd: 0 (0B)
+
+Feb 05, 2024 12:18:42 AM (Read by them after 5 minutes, 59 seconds)
+Me
+My brain hurts when you take a header checksum into a packet execute
+
+Feb 05, 2024 12:19:02 AM (Read by them after 5 minutes, 39 seconds)
+Me
+Sry I meant packet header into body
+
+Feb 05, 2024 12:21:00 AM (Read by them after 3 minutes, 41 seconds)
+Me
+Im going to flip if apple does checksum or something with ur public key 
+
+Feb 05, 2024 12:21:08 AM (Read by them after 3 minutes, 33 seconds)
+Me
+I mean obviously it does with like tcp but in the other way
+
+Feb 05, 2024 12:21:50 AM (Read by them after 2 minutes, 51 seconds)
+Me
+Ur strcomp r u sure u could even reverse? In the packet header
+
+Feb 05, 2024  1:39:39 AM
+Me
+Omg you’ve done engima so you know how to optimize capture the flag with deep learning if u could run it but not JavaScript 🤔 maybe JavaScript 🥲🌺
+
+Feb 05, 2024  1:40:59 AM
+Me
+Probably not JavaScript 🥲🥲🥲🥲 look at SSA4.2 or something and C++ 🥲🥲🥲🥲🥲 and CUDA or metal or opencl 🥲🥲🥲🥲🥲
+
+Feb 05, 2024  1:42:46 AM
+Me
+It’s actually a little obvious with ur L3 cache and wiring of CUDA no matter how you build the transistors but look at the instructional sets 🥲🥲🥲🥲
+
+Feb 05, 2024  1:46:17 AM
+Me
+Asap 
+
+Feb 05, 2024  1:46:34 AM
+Me
+Who the f wrote asap? Not me
+
+Feb 05, 2024  1:47:13 AM
+Me
+Anyways u can’t. Bike instructional sets without ummm just no maybe download the firmware 🤔
+
+Feb 05, 2024  1:47:28 AM
+Me
+Build*
+
+Feb 05, 2024  1:47:40 AM
+Me
+attachments/306/562.jpeg
+Wtf is this typo?
+
+Feb 05, 2024  1:54:55 AM
+Me
+You’ve got to be shitting me if you’re assaulting anything without recon kind of like a game or shooting AR-15s at balloons flying at 60 k ft then sending an F35 with some type of medium or short range air to air missile 🤔
+
+Feb 05, 2024  2:35:05 AM
+Me
+Does defaulting to a format string attack make sense at all? You have to misinterpret it 🥲
+
+Feb 05, 2024  2:36:21 AM
+Me
+Injecting binary with a policy network is always so cute 🥰 you could try brute force or 
+
+Feb 05, 2024  2:37:37 AM
+Me
+This is where reinforcement learning alpha zero I mean 0.25 or 0.5 it’s hard to umm 🤔 
+
+Feb 05, 2024  2:38:12 AM
+Me
+Relu or something just cut the connections when it doesn’t simulate well 🌺 then test it 🌺🌺
+
+Feb 05, 2024  2:39:26 AM
+Me
+This is where backtracking etc mag make sense in a loop; you break and no longer track the shitty paths 🌺🌺🌺🌺
+
+Feb 05, 2024  3:48:30 AM
+Me
+attachments/306/565.PNG
+Member airline flight 🥲operated by American Airlines 🥲jk I have no idea if the beer gets charged to the card or. You swipe it or it’s an international ticket   🥲
+
+Feb 05, 2024  3:49:05 AM
+Me
+Find My:  Started Sharing Location
+
+Feb 05, 2024  3:58:25 AM
+Me
+There’s no way an omnidirectional broadcast and receiver could screw with itself enough to mine eBay in doing 🥲 you have to be using a sensor or something cuz rf first of all permeates secondly might face interference 🥲
+
+Feb 05, 2024  3:59:10 AM
+Me
+🫡🫡🧐😍😡😡🌺🥰🙄😂🧐
+
+Feb 05, 2024  4:00:02 AM
+Me
+Have u watched band of brothers and that guy from friends is like where the f am i? And the radio frequency keeps screwing with him? Using maps?
+
+Feb 05, 2024  4:02:10 AM
+Me
+You just make that guy on a bike surrender and the cows graze anywhere they’re able to find grass? 😡😂
+
+Feb 05, 2024  4:04:15 AM
+Me
+Then you can’t even parachute in time if 🥲the plane isn’t stable enough? Cuz you probably faint or go gravity free for a while🥰🥰🥰🥰🥰
+
+Feb 05, 2024  4:05:05 AM
+Me
+U have a propulsion device to get out I mean ejection seat? 🥰🥰🥰🥰🌺
+
+Feb 05, 2024  4:06:12 AM
+Me
+Just line up and jump out with passive propulsion 🥲😂
+
+Feb 05, 2024  4:07:38 AM
+Me
+Oh right the doors don’t open cuz the needle is hyperdermic 🥲🥲🥲🥲 
+
+Feb 05, 2024  4:09:18 AM
+Me
+Yeah lower altitude to breathable depressurize cabin then paratrooper onto an assault location 🥰
+
+Feb 05, 2024  4:10:54 AM
+Me
+Your weapons might malfunction after 1g/s in the atmosphere or the ground 🙄
+
+Feb 05, 2024  4:12:08 AM
+Me
+wtf happed when the cow grazers had sniper positions on the fbi etc
+
+Feb 05, 2024  4:15:14 AM
+Me
+attachments/306/569.heic
+GTA6 is hilarious 😆 replace a fuse on alternative current or direct current is a bitch 
+
+Feb 05, 2024  4:16:58 AM
+Me
+Electrical fires are kind of dumb at most you light a match or a fuse breaks 
+
+Feb 05, 2024  4:18:33 AM
+Me
+I’m not sure if that’ll burn enough without burning out though …. The USB c might break without burning the entire fuel contained in the material 
+
+Feb 05, 2024  4:27:18 AM
+Me
+5 4 3 2 1 deliverance use weak auras or something I mean you do or something with audio 🥰🥲
+
+Feb 05, 2024  4:28:18 AM
+Me
+5 4 3 2 1 circle of healing regrowth? Map tranquility or that priest anti magic zone 
+
+Feb 05, 2024  4:30:15 AM
+Me
+Omg I understand if I need to cloak of shadows but feint on cooldown is so stupid when every other moron takes almost full aoe damage u use a gbd and energy? 🥲🥲
+
+Feb 05, 2024  4:31:52 AM
+Me
+I remember heal me bitch playing as an elemental shaman and I can’t believe I died cuz u didn’t heal me bitch? I guess I’ll mail healing on ur raid frames too cuz ehh am I even paying attention to that? 
+
+Feb 05, 2024  4:32:46 AM
+Me
+Technically the boss sucked so much that healing was preferred when every healer and tank died? 🥲
+
+Feb 05, 2024  4:33:45 AM
+Me
+Why can’t I ninja loot if I’m the only one left? Or something 🥰
+
+Feb 05, 2024  4:34:55 AM
+Me
+There’s no way dots would kill a boss with reincarnate up while the dots tick? 🥲 wtf is the boss even doing then? 🥰😂
+
+Feb 05, 2024  4:36:02 AM
+Me
+Every elemental shaman sucked unless they brought totems? Now there’s a dragon support class? wtf 🥰🥲
+
+Feb 05, 2024  4:38:28 AM
+Me
+What I’m sure I died many times after vanishing or killing the opponent or cheat death after killing the opponent?🥲I guess there’s rupture and garrote and hemorrhage 🥲🥲🥲 you’d have to be a idiot to hemorrhage unless 1v1 maybe but still an idiot 
+
+Feb 05, 2024  4:40:12 AM
+Me
+There was stun lock and fear drain and I’m pretty sure moves sucked unless geared but now the f with that cooldown and blink I mean maybe 🤔 
+
+Feb 05, 2024  4:41:00 AM
+Me
+Yeah that water elemental was a bitch 🥲 frost nova and cone of cold and frost armor? 🥲
+
+Feb 05, 2024  4:42:40 AM
+Me
+I mean there was no shadow step to catch up or cloak of shadows in vanilla? 🥲 I guess you could ice block a gouge train? 🥰🥰
+
+Feb 05, 2024  4:43:49 AM
+Me
+Blink was stupid right cuz it removed stun so vanish removed frost nova or cone of cold? 🥲 then blink is up etc what a bitch 
+
+Feb 05, 2024  4:45:44 AM
+Me
+Garrote silence 🤫 one ice block and I guess cloak bursts down mages? 🥲it’s hard to tell cuz people sucked or vanish was down? Sprint is useless unless glyphed? Remove curse? Nvm priest remove poison? 🥰 nvm flare wtf is that garbage 🥲
+
+Feb 05, 2024  4:47:20 AM
+Me
+Ohh right there was knockback when casting if no shield up or kick 🥲remember kick on 10s and fake kick? I mean fake cast? Just cast fireball then cancel 🥲
+
+Feb 05, 2024  4:51:58 AM
+Me
+Yeah wall bang vs frame rendering 🥲 decoy grenades? The stats say like 30% of flashbangs did anything which meant I received game data from🤫
+
+Feb 05, 2024  4:52:20 AM
+Me
+Is that after game or during cuz I quit a lot 🌺🥲
+
+Feb 05, 2024  4:53:03 AM
+Me
+I remember like triple headshot across the map from a staring area with an auto sniper 🥰 wall bangs total blind? 😰
+
+Feb 05, 2024  4:54:36 AM
+Me
+I also remember blizzard landing 100% headshot (remember Diablo 2 aoes 🥲🥲🥲🥲they umm weren’t aoes) from however many screens away at max range and I guess ur map or radar showed max range even if the screen could never 
+
+Feb 05, 2024  4:56:13 AM
+Me
+Just blink around cash random blizzard and say u got lucky when hitting a keybind? 🥲🥲🥲🥲 always 1 shot maybe u got lucky. 🙃 also there was that stupid aoe not aoe lightning thing that smart targeted opponents 
+
+Feb 05, 2024  4:56:51 AM
+Me
+Ran back to body to drop gold cuz I wasn’t attacking just had that lightning aura on? 🥲
+
+Feb 05, 2024  5:00:23 AM
+Me
+Always lie about flying to get benzos 🥲😘
+
+Feb 05, 2024  5:01:47 AM
+Me
+attachments/306/550.jpeg
+The FBI claims there are at least 50 military hackers per FBI agent? 🥲🥰
+
+Feb 05, 2024  5:08:36 AM
+Me
+attachments/306/566.jpeg
+Look u can’t call every hand but you need to call and rng sometimes and the n is very very slow and pointless 
+
+Feb 05, 2024  5:08:55 AM
+Me
+There are people who sucked major but who cares 🥲
+
+Feb 05, 2024  5:09:29 AM
+Me
+Omg he must have a hand? I can’t win if all in? Why?
+
+Feb 05, 2024  5:11:55 AM
+Me
+If p is 50 50 as calculated by the other agent just shove on the river? Except you do t m me if there’s like straight flush or quads or a better full house? Entirely pointless 
+
+Feb 05, 2024  5:13:29 AM
+Me
+Yeah there were lots of stupid asshoes with hyper short stack turbo tournaments with stupid graphs 🥲
+
+Feb 05, 2024  5:19:33 AM
+Me
+Yeah switching to a backup system manually is hilarious when hydraulics are cut or electrical signals spoofed 🥲
+
+Feb 05, 2024  5:20:22 AM
+Me
+It’s all simulated now feedback except when 🥲
+
+Feb 05, 2024  5:21:09 AM
+Me
+They never let you fly into buildings even in GTA 5
+
+Feb 05, 2024  5:22:03 AM
+Me
+attachments/306/534.jpeg
+Perceptron does what? 🥲
+
+Feb 05, 2024  6:25:06 AM
+Me
+Why would u simulate the derivative of x^2 I mean x or cosine 🥲
+
+Feb 05, 2024  6:25:41 AM
+Me
+Dy/dt of z= x dt
+
+Feb 05, 2024  6:27:29 AM
+Me
+🤔🥹
+
+Feb 05, 2024  6:33:00 AM
+Me
+attachments/306/553.PNG
+￼￼￼￼￼
+
+Feb 05, 2024  6:40:44 AM
+Me
+I mean if it’s log n and it’s floating point you shift it to an asymptotic bound? 🤔🥲
+
+Feb 05, 2024  6:41:55 AM
+Me
+But it’s probably slower cuz you have to log n? Instead of knowing how large rsa2069 or ECC whatever elliptical curve is? 🥲 floating points are hmmmmmmm for ECC 🤔🤔 anyways 
+
+Feb 05, 2024  6:42:57 AM
+Me
+I mean yeah u could reduce log n and do integer division each time 🥲 but the concept of ECC makes it another abstraction layer 
+
+Feb 05, 2024  6:46:50 AM
+Me
+attachments/306/547.PNG
+🥹
+
+Feb 05, 2024  7:03:41 AM
+Me
+attachments/306/537.jpeg
+￼🤔🥹
+
+Feb 05, 2024  7:09:40 AM
+Me
+Take log n of ECC is what ? 🥲in floating point on a graph? 🥲 is what? Use RL to appropriate? 🥲
+
+Feb 05, 2024  7:10:03 AM
+Me
+Approximate 🥲🤔
+
+Feb 05, 2024  7:11:03 AM
+Me
+Pie day 🥲
+
+Feb 05, 2024  7:11:31 AM
+Me
+No class? 🥲
+
+Feb 05, 2024  7:16:30 AM
+Me
+attachments/306/557.PNG
+🥲
+
+Feb 05, 2024  7:18:18 AM
+Me
+attachments/306/530.PNG
+￼🥲
+
+Feb 05, 2024  7:20:58 AM
+Me
+attachments/306/542.jpeg
+For example, the period of a pendulum is proportional to the square root of its length. While this is not a direct application of the golden ratio, the search for harmonic proportions often leads to explorations where \(\phi\) might emerge in the analysis of ratios or scaling.
+
+2. **Quantum Mechanics**: Some research has suggested that the golden ratio is seen in the energy levels of atoms under certain conditions, such as in the magnetic resonance properties of spins in cobalt niobate crystals. The researchers found that the ratio of energy levels at certain points approached the golden ratio.
+
+3. **Crystal Structures**: The arrangement of atoms in some crystal structures can exhibit proportions related to the golden ratio, especially in quasi-crystals where the symmetry might relate to \(\phi\).
+
+Momentum and 🥲
+
+Feb 05, 2024  7:23:05 AM
+Me
+Product rule inverse 🥲sum of 🥲😘
+
+Feb 05, 2024  7:27:15 AM
+Me
+attachments/306/528.PNG
+￼🥲
+
+Feb 05, 2024  7:31:18 AM
+Me
+attachments/306/1368.PNG
+Product rules a bitch 🥲
+
+Feb 05, 2024  7:37:23 AM
+Me
+If you didn’t use numpy or just array in python🥺
+
+Feb 05, 2024  7:37:48 AM
+Me
+Is there an array class? 
+
+Feb 05, 2024  7:38:54 AM
+Me
+attachments/306/549.PNG
+🤔
+
+Feb 05, 2024  7:44:26 AM
+Me
+attachments/306/521.PNG
+￼￼🤔
+
+Feb 05, 2024  7:48:26 AM
+Me
+attachments/306/516.PNG
+￼￼🤔
+
+Feb 05, 2024  8:13:24 AM
+Me
+Iteratively gradient descending 🥹
+
+Feb 05, 2024  8:13:24 AM
+Me
+Technically it’s ADP with a blockchain 🥲 the original pitch but wow 😯 
+
+Feb 05, 2024  8:13:49 AM
+Me
+attachments/306/535.jpeg
+ 🤔
+
+Feb 05, 2024  8:30:33 AM
+Me
+attachments/306/538.jpeg
+😡😡
+
+Feb 05, 2024  8:31:58 AM
+Me
+Instantaneous steady state is like the hashing algorithm; ur auth is always eh same for a lot of API features? 🤔 I’d be surprised if you log n verified the bearer token 🥺
+
+Feb 05, 2024  8:33:24 AM
+Me
+Ok did u have chat download that didn’t require another secret hash then did but anyway the 3rd party app had a memory leak so 🤔
+
+Feb 05, 2024  8:34:01 AM
+Me
+Did u use recursion ? 🥹🥹🥹
+
+Feb 05, 2024  8:35:42 AM
+Me
+ Threading python 🙄 in bash? Where’s the exit? One thread with argparse has a memory leak 🤔
+
+Feb 05, 2024  8:36:37 AM
+Me
+Technically I used concurrent features executor submit 🥲 but one thread 🥹
+
+Feb 05, 2024  8:37:41 AM
+Me
+attachments/306/560.jpeg
+Futures 🙄 features 🤔
+
+Feb 05, 2024  8:39:45 AM
+Me
+Yeah write lock 🥲then grant read then executor submit read access never write access 🤔
+
+Feb 05, 2024  8:41:30 AM
+Me
+Can you ./hello rm ./hello? 🤔not in python cuz unless you wait? 🥲for loop hello.py remove it with a wait statement 
+
+Feb 05, 2024  8:43:14 AM
+Me
+Stuxnet had an expiration date im not sure about rewrite date if that’s possible 🥲completely rewrite or from a server update? 😯
+
+Feb 05, 2024 10:19:10 AM
+Me
+attachments/306/540.jpeg
+￼First of all, I could register for an API key cuz you might use an existing hash or something with a global access token; secondly, am I hitting an actual hash collision in python and MacOS? 🤔 Thirdly Protonmail thinks it’s cool but I wonder if they strcomp or account lock per domain added to dictionary or hash table of account name 🤔 also it’s probably just DNS not set up correctly so I’ll transfer it cloudflare where all the assholes live 
+
+Feb 05, 2024 10:20:41 AM
+Me
+Do they support onion on cloudflare directly without installing onion? 🤔 with anti ddos and Turing test added services for $20 a month? Why not just make people solve equations? 🤔
+
+Feb 05, 2024 10:22:09 AM
+Me
+I know you don’t like me 🤔 for umm 😯
+
+Feb 05, 2024 10:23:42 AM
+Me
+I could try to iterate through the common hash methods with 2 or mores apps or accts for server or system design screw ups? How does that app get ur 🥹 when u don’t have it directly I’m guessing 🥹
+
+Feb 05, 2024 10:27:23 AM
+Me
+Why do accts with no api access always have the same access key? 🤔it’s a little odd and why would I even try to RE that? I could… oh the other one was gen ai flower 🌺 I mean it’s hard to imagine anyone else screwing that up so that RE seems like a waste of time 😡
+
+Feb 05, 2024 10:33:04 AM
+Me
+Each streamer is a state and there’s a transition probability into Sinaloa cartel? Director of Natural Sciences? 🤔🥹
+
+Feb 05, 2024  5:59:57 PM
+Me
+I don’t want you to be my money mule cuz I care about you. If anything I could make a rather pathological criminal argument for other people 🤔 but if I’m a lawful cyber militia according to the 2nd Amendment and talked too much shit before but you get on Stuxnet works etc. if it’s totally indiscriminately taking 🙄🥹 
+
+Feb 06, 2024  7:43:51 AM
+Me
+I don’t think you have the ability to protect me from this 🤔 so bye. Wii always deeply love you 🥰 not sarcasm? Let me ramp the dopamine in my brain up without the need for meds or even a lot of sleep unless I need sleep 🥺
+
+Feb 06, 2024  7:44:07 AM
+Me
+Not sarcasm shouldn’t have included a question mark 
+
+Feb 06, 2024  7:59:52 AM
+Me
+It’s just you’re fully perfect that I have to also be while some other stuff is also going on 🤔if I let you down lat LAX I wasn’t ready and need to also aim for full perfection or as close as possible 
+
+Feb 06, 2024  2:54:23 PM (Read by them after 45 seconds)
+Me
+Obviously sorry about all the jokes and possibly incredibly stupid comments; I guess technically I have no excuses; if u we’re at LAX yesterday and flashed a smile there was no way I was ready for that CIA into normal conversation part 😰 there’s no guarantees I’ll be able to get out of well I guess in summary morons following me around while broadcasting on TV, etc. so I hope you understand the logic
+
+Feb 06, 2024  5:08:28 PM
+Me
+What do you want me to do about watching a bunch of morons online? Proverbially I’ll bend over and let you stick any device up 🙈
+
+Feb 06, 2024  5:25:37 PM
+Me
+Your commits and citations and use of verbal language and I guess sucking an bombe machine dick was actually incredibly impressive for a 3 week 1 class final project, suggesting that you have no weaknesses in self awareness 😉
+
+Feb 06, 2024  5:26:57 PM
+Me
+Wait I called you enigma for a while and that makes way more sense than cyndaquil 😳
+
+Feb 06, 2024  5:29:15 PM
+Me
+I’m guessing erosolar is just a screen name 😜 could be wrong 😜
+
+Feb 06, 2024  5:38:39 PM
+Me
+attachments/306/1367.jpeg
+Wait this isn’t fair when u finish an MS add on year when I get cyber attacked by morons 🙈 wait I saw 2 summers of internships 😳
+
+Feb 06, 2024  5:49:17 PM
+Me
+Fine I didn’t know or admit that Twitch was always awful for me like 100% of the time and something very fishy happened to my OS then some other stuff starting Spring 18 
+
+Feb 06, 2024  5:50:22 PM
+Me
+It’s always a fraudulent sneak attack in every way; the more i watched the more confused at the very least I’d get so
+
+Feb 06, 2024  5:57:08 PM
+Me
+What my theory is they forgot about title 18 or anything else for TV hosts, and decided to go for a deception and scare tactic instead
+
+Feb 06, 2024  6:00:14 PM
+Me
+What phantomlord was an angry psychopath who compared himself to sodapoppin in Vargas v Twitch so I’ve got as much faith in ur justice system as I do either doing nothing or something but definitely not working for USD
+
+Feb 06, 2024  6:04:38 PM
+Me
+If u had an attraction to a streamer I’d flip out as well.. there’s gamers on whatever and there’s bimbos… what is there. Well lots of deception but otherwise 🙈
+
+Feb 06, 2024  6:06:52 PM
+Me
+They seem to be raping victims left and right and any dopamine or serotonin obtained by watching backfires harder than drinking liquor
+
+Feb 06, 2024  6:07:02 PM
+Me
+This was just my experiences
+
+Feb 06, 2024  6:09:36 PM
+Me
+Technically I have zero excuses playing hearthstone in 2014 and even less for purchasing an iPad for that if u could believe it + still playing wow, still gambling in poker, and at least attempting to do some other stuff when I couldn’t rid myself of the deception first then perhaps take ADHd meds for the first time to recover from PTSD
+
+Feb 06, 2024  6:10:56 PM
+Me
+But the cyberattacks in Spring 18 and IRL harassment that came with it 😑 that level of deception I totally give up on 😳
+
+Feb 06, 2024  6:14:26 PM
+Me
+You get why I like you cuz reading your stuff 
+brought back so many memories when my brain actually worked, at least enough to be able to make decisions for myself, but also babe no excuse to expect the opposite
+
+Feb 06, 2024  6:18:17 PM
+Me
+Obviously I could tell if I understood or not something even with i guess untreated adhd and add in age 3 to whenever, were there teachers who brought up the possibility? It seemed so but I can’t remember 100% correctly. Also the ability to focus more isn’t a magic overnight cure but I think some Burlington assholes came up with a plan to retaliate against a simple HIPAA complaint 
+
+Feb 06, 2024  6:20:14 PM
+Me
+Seriously your ears could in theory interpret the entire wavelength = speed of sound / frequency so I kept hearing assholes asking if I wanted to “beat” some social worker when he was standing in plain sight cuz of a HIPAA complaint? 
+
+Feb 06, 2024  6:21:23 PM
+Me
+If that’s the level of Burlington’s actions well I don’t care if they umm tried to rig psychosis by denying OS rootkit attacks or any other reason they use
+
+Feb 06, 2024  6:22:01 PM
+Me
+Nor do I particularly care about ongoing harassment to the maximal extent possible as a human could tolerate
+
+Feb 06, 2024  6:31:39 PM
+Me
+These sneak attacks along with poor decisions and watching Twitch before prescribed ADHD meds or even after for a while (I must have primarily skipped Twitch in Fall 17 even if still recovering from poor decisions; watching would have made zero sense.. jerking off to deernadia really??) Then using chat to regain or recover from MDD or PTSD in Spring 18 was entirely idiotic cuz the side effects of abusing meds (in Summer 17 there was an entire bottle of Adderall taken for a comp15 midterm with no help and no results, then i stuck roughly by the hard 60mg/day then voluntarily working with doctor to cut to 45/day then I guess a superiority or at least a curiosity complex when MGH center for addiction medicine radiology had to fMRI me over twice I think and also “screw” with me with some Sam Altman IQ test (JK cuz OpenAI actually does English garbage not puzzles) so I was like wtf can adhd “experts” or “psychiatrists” do vs PCP doctors so I saw a few out of pocket then Tufts insurance paid for MGH Bressler and well obviously there was withdrawal effects as a noob when Dr Surman detected a possible amphetamine addiction so did an entire trial of 4 different kind of methylphenidate but my amphetamine addiction + comp160 and comp15 again… was stupid and threatened to sue for malpractice incessantly cuz I didn’t know any better
+
+Feb 06, 2024  6:33:35 PM
+Me
+Anyways it wasn’t until Burlington assholes probably the police and also Apple fucks I imagine decided to take internet “trolling” which I also blame on Twitch cuz it’s full of shitttt (when the env is full of shit u become shit for some reason; noticed the same with the Economist and had some similar ASD problems with Diablo 2 mixed with IRL)
+
+Feb 06, 2024  6:34:55 PM
+Me
+Seriously IRL was always appropriate enough but D2 into asshole. Also if there were small pockets of depression during D2 or even age of empires online I’d project it onto others maybe and like see how they’d react?
+
+Feb 06, 2024  6:35:12 PM
+Me
+Anyway internet gaming turned out to be fulllllly shit 
+
+Feb 06, 2024  6:37:11 PM
+Me
+Without this douche JK Alex Walker who had a great family introducing me to D2 (that’s the only game I blame cuz it’s online shitttt addictive shit pure addictive shit) things seriously may have been different even without adhd meds, but I’m sure adhd meds would have helped too
+
+Feb 06, 2024  6:41:20 PM
+Me
+Maybe I had no grounds to sue the police until I actually read their police report and well could gather enough perhaps evidence of a deprivation of rights under color of mental health problem or anger saying I’d sue…. I mean it was just shit talk but if they had a problem with just angry shit talk that would go away naturally, that wasn’t supposed to be overhead by AirPods or iPhones, then that’s their problem
+
+Feb 06, 2024  6:43:11 PM
+Me
+I’d love to hear Apple or whatever company capture physical threats or anything illegal on the police except maybe for like 1 hour of slashing my carpet and when it comes down to it probably leave cash without a note next door mailbox instead cuz well I knew placing stuff inside of other people’s mailboxes was a crime
+
+Feb 06, 2024  6:44:10 PM
+Me
+I mean my Mom kept saying the police lived across the streets and I think it’s various officers dad not the actual police; retarded confusion tactics..
+
+Feb 06, 2024  6:46:14 PM
+Me
+I wish I actually captured evidence of every piece of confused garbage now but there was no way to really tell what was going on at the time cuz I remembered enough from reality and my OS seemed monitored 
+
+Feb 06, 2024  6:48:11 PM
+Me
+They tried to BS like what does ur parents want u to do, what streamers want, what initially Tufts was helpful then turned weird the students nasty at least, and well I drove around Boston like a moron trying to fulfill everyone’s outlandish demands 
+
+Feb 06, 2024  6:48:48 PM
+Me
+That was late Spring 18 into Summer 18. 
+
+Feb 06, 2024  6:50:13 PM
+Me
+I remember social events at Harvard Extension in Summer and Fall 18 and if I believed my phone or OS was hacked they’d attack more with noise harassment 
+
+Feb 06, 2024  6:50:40 PM
+Me
+Totally idiotic and contradictory if I was trying to study SW
+
+Feb 06, 2024  6:55:50 PM
+Me
+Seriously NPs would tell me they didn’t receive emails from adobe scan or other weird stuff of usps knew they were delivering amphetamine… it seemed like a perfect reversal and harassment either way totally outlandish beliefs of actual psychosis cuz they didn’t get to me in time when I had none then had none again 
+
+Feb 06, 2024  6:58:29 PM
+Me
+I’m not ruling out the possibility of smalll amounts,of PTSD confusion usually reduced after a good night’s sleep but the more I’d focus on the actual police the more abusive and sounds that seem to be mimicking “psychosis” were well speakered somehow to where I could hear it but also notice effects on other people even if they’d deny it 😊
+
+Feb 06, 2024  7:00:08 PM
+Me
+Feel free to send this to the police and claim psychosis. There should in theory be enough evidence of cyber attacks on YouTube or whatever 
+
+Feb 06, 2024  7:10:40 PM
+Me
+Seems like domestic then international terrorism utilizing human shields who lie a lot… I think my anxiety form this and thus any related paranoia not directly caused by harassment will go away in due time… but there’s no turning back to the USD 
+
+Feb 06, 2024  7:28:55 PM
+Me
+I know this makes no sense and isn’t going to work out but I just wanted to be completely honest with you and also tell some jokes or get confused a bit
+
+Feb 06, 2024  7:34:07 PM
+Me
+You could tell how traumatic this was so I’m ok staying single for the rest of my t of my life. I’m just glad I was able to stalk you on the internet cuz it restarted the logical part of my brain again 
+
+Feb 06, 2024  8:14:18 PM
+Me
+Obviously it’s foolish to trust anyone blindly. I’m just guessing that your family and many of your friends are trustworthy and love you a lot. If this thing really spread at LAX and beyond, hold onto them tightly  and ask for support if needed. I know you probably don’t need this advice but there are abusers of all kinds out there…
+
+Feb 06, 2024  8:17:54 PM
+Me
+Oh obviously I believe you’re fully superior when looking in the mirror. I just can’t express enough gratitude from pulling me back from (well even the hard evidence suggest) totally rigged trial and false imprisonment and then deception-fueled MDD via harassment and OS intrusions 
+
+Feb 06, 2024  8:19:13 PM
+Me
+Don’t trust me blindly; I wouldn’t if I were you but I could also only be as kind to you as possible mentally and physically while planning an escape to this 6 years of nightmare
+
+Feb 06, 2024  8:27:26 PM
+Me
+Somehow I could get myself to type this, but I was trying to survive through you and not harass you or harm you or your feelings or cause fear in any way (is LAX and OS attacks loaded to YouTube or so,etching are real) I hope you understand my confusion and regret at what I thought needed to be done to remove whatever international terrorisms + denial + psychotic-obsession with harassment was victimizing me and my family and anyone who cared about me
+
+Feb 06, 2024  8:36:47 PM
+Me
+Maybe the FBI could help me out by framing Pokimane’s murder with some of my blood drawn at Lahey. I mean if the Justice Department could win vs me then they in theory take out 2 assholes or something. But OJ won not guilty beyond a reasonable doubt so… 🙈
+
+Feb 06, 2024  8:38:11 PM
+Me
+Sorry I have to mix in a few jokes to keep your spirit up 😊
+
+Feb 06, 2024  8:45:35 PM
+Me
+Obviously I love you too much for you to ever want to be my wife or even meet me perhaps. I’d be surprised if you felt differently but this isn’t meant to keep you away
+
+Feb 06, 2024  8:56:39 PM
+Me
+Seriously Twitch is the dumbest piece of shit I have ever seen. U don’t even have a search feature for the tutorial projects AWS likes to stream. Why the f would anyone watch every stream, instead of searching for tutorials that may be relevant if needed?
+
+Feb 06, 2024  8:57:07 PM
+Me
+Every fucking piece of that shitty website has shit engineering shit creators just total shit
+
+Feb 06, 2024 10:00:33 PM
+Me
+Maybe one day we will take the vow. I could only dream about it. I mean if you have a general software engineering job I’d apply with a legitimate resume and just do the engineering stuff and ignore the other crap. Director of Life Sciences with Markov chain to the Sinaloa Drug Cartel via sodapoppin and Pokimane seems a bit abusive 🥰
+
+Feb 06, 2024 10:26:37 PM
+Me
+They keep accusing me of “acting” to like you but maybe you know what happened over the past 6 years…. I mean if you’re the only reason I regain consciousness obviously I’d love you forever no matter what
+
+Feb 06, 2024 10:29:36 PM (Read by them after 9 minutes, 10 seconds)
+Me
+I might flee to the PRC but I wouldn’t expect you to join; unless you wanted to visit Tsinghua again 🥲
+
+Feb 07, 2024  2:52:33 AM
+Me
+I always think your transmogs are pretty 🥹also how the f do I survive this if they make me use too much sleep meds? 😅
+
+Feb 07, 2024  2:55:11 AM
+Me
+Your pets are cute too 🥹want to go somewhere secret in Orgrimmar and have pet battles? 🥹
+
+Feb 07, 2024  3:10:40 AM
+Me
+There’s too many ways to stop me illegally since 2018 apparently like wtf was that? But you just need one good Project Maven 🥰🥹
+
+Feb 07, 2024  3:14:16 AM
+Me
+No drones unless I could buy one 😂just one good AI binary exploiter 🥹have think about other methods and may even use ghidra for some reason. Do u need ghidra if it reverse compiles or builds to human code? Your training data probably needs some virus encoders then(seems like you need both cuz policy network so hard without encoding) RL solve gen ai viruses 
+
+Feb 07, 2024  3:16:05 AM
+Me
+Promise I’ll make you gen ai flowers with 3d printing if like the US goes down first ? 🥹
+
+Feb 07, 2024  3:18:42 AM
+Me
+If usps delivers my Ambien I’ll consider doing ur flower first 🥰 3d printer suckkk so you need some ultra breaking edge one I might as well send real flowers to ur parents home 😅
+
+Feb 07, 2024  3:22:24 AM
+Me
+There’s no way to use stupid search (not logn binary or nlogn sorting injections jk jk) to send u real flowers for valentines? 😍
+
+Feb 07, 2024  3:27:39 AM
+Me
+Fine I’ll take 5 seconds to make an optimal “search engine” jk just AWS title streams jk transcripts too jk project maven on employee faces? 😅
+
+Feb 07, 2024  3:30:03 AM
+Me
+Try char linked list match by “word” allow some user recombination? 🥹 do they have actual tutorials on AWS.com and not link it via the twitch streams? Why the f would I search on transcripts? 🤪
+
+Feb 07, 2024  3:32:30 AM
+Me
+Wait I’ll use nltk to (why) just make a dict then append word and frequency to search for the actual tutorial on AWS.com and make an awshelpertwitch.com website? 😛
+
+Feb 07, 2024  3:43:36 AM
+Me
+Sry I only say this cuz they enjoy pissing me off 🙁
+
+Feb 07, 2024  3:44:02 AM
+Me
+Could someone help take out Tim Apple or pichai? Etc
+
+Feb 07, 2024  3:44:13 AM
+Me
+It’s so abusive to text someone I love with this 
+
+Feb 07, 2024  3:47:24 AM
+Me
+Not u I meant the Sinaloa drug cartel or someone or even my ai program 
+
+Feb 07, 2024  3:49:27 AM
+Me
+I don’t actually want your help fucking up twitch.. but 😢 does pypi give stats on installs? I promise to use some clever tensorflow or PyTorch too 🥺
+
+Feb 07, 2024  3:50:26 AM
+Me
+These are all very weak though and my energy is lacking for some harassment reason 🥹 so if the U.S. goes down first then 😀
+
+Feb 07, 2024  3:51:28 AM
+Me
+The PLA won’t defend me for this but try to retaliate against a lone militia 🥹also how many zero days did the FBI announce they found? 😜
+
+Feb 07, 2024  3:57:40 AM
+Me
+I refuse to surrender to illegal assholes from 2018 including Apple Google and the cops and definitely Amazon. I want u to try ur best and I’ll just inline write it and it’ll run
+
+Feb 07, 2024  4:01:40 AM
+Me
+Surprisingly I am defending the PRC and every other American victim by never conceding to disgusting Guantanamo style criminals
+
+Feb 07, 2024  4:10:56 AM
+Me
+Fuck I see the architecture it’s just a fucking pain to put it together with them watching then test it; I mean online I’ve got to be like fucking sneaky somehow 
+
+Feb 07, 2024  4:12:56 AM
+Me
+BTW I know how like LAX and my home works so there’s nothing you could do to protect me from this. I guess in the off chance I’m able to shut down the U.S. then I’ll be able to offer u protection should you want it 🤨😡🥰
+
+Feb 07, 2024  4:22:57 AM
+Me
+Every time they’re abusive to me I’m abusive to u and well when combined with their harassment I lose energy and concentration and need sleep meds for sleep 😡😡😡🥰😘
+
+Feb 07, 2024  4:24:10 AM
+Me
+Really nobody wants to homobobic time Apple again? Didn’t that Korean bitch do it? What about KKK? Putin won’t help with some polonium? I guess not if i can’t offer equal protection 🥹🥹🥹🥹🥺🥺🥺🥺🥹🥹🥹🥹@putin
+
+Feb 07, 2024 11:33:20 AM
+Me
+They used to do this for Pokimane and Alliestrasza, the cops literally; hard to explain 😉let’s see what they could do vs 🥹
+
+Feb 07, 2024  1:58:49 PM
+Me
+😛smarter than sodapoppin
+
+Feb 07, 2024  1:59:29 PM
+Me
+attachments/306/1360.heic
+￼anyone could do this including the PLA and 1.4 billion people and up to 7 billion people; smarter than sodapoppin lol
+
+Feb 07, 2024  2:34:56 PM
+Me
+https://github.com/apt6969/1806-spring17
+apt6969/1806-spring17: 18.06 course at MIT in Spring 2017
+18.06 course at MIT in Spring 2017. Contribute to apt6969/1806-spring17 development by creating an account on GitHub.
+
+Feb 07, 2024  2:36:02 PM
+Me
+Give me a sec to master the actual perceptron? Forward then back prop; optimize if possible; add comments that aren’t stupid
+
+Feb 07, 2024  2:36:05 PM
+Me
+https://github.com/apt6969/1806-spring17/blob/master/deep_learning_ai/course_1_neural_networks_and_deep_learning/week_2_neural_network_basics/Logistic_Regression_with_a_Neural_Network_mindset.ipynb
+1806-spring17/deep_learning_ai/course_1_neural_networks_and_deep_learning/week_2_neural_network_basics/Logistic_Regression_with_a_Neural_Network_mindset.ipynb at master · apt6969/1806-spring17
+18.06 course at MIT in Spring 2017. Contribute to apt6969/1806-spring17 development by creating an account on GitHub.
+
+Feb 07, 2024  2:37:17 PM
+Me
+attachments/306/527.jpeg
+￼￼
+
+Feb 07, 2024  3:02:05 PM
+Me
+Did you do this?
+
+Feb 07, 2024  3:02:07 PM
+Me
+https://cs.baylor.edu/~donahoo/practical/CSockets/winsock.html
+TCP/IP Sockets in C: Practical Guide for Programmers
+
+Feb 07, 2024  3:02:26 PM
+Me
+Also did I get attacked for BSing hearthstone retards while attempting to remain anonymous 
+
+Feb 07, 2024  3:02:36 PM
+Me
+There’s no way I used a name for that
+
+Feb 07, 2024  3:02:48 PM
+Me
+Maybe but even so.. 
+
+Feb 07, 2024  3:03:27 PM
+Me
+ Go back to comp11 because it should have been a 100% if not using apple’s build system but rather gcc with possibly a makefile aka build flags
+
+Feb 07, 2024  6:33:07 PM
+Me
+You’re so abusive to raspberry pi’s or anything smaller from a Pixel 8 🤨 why wouldn’t you calculate at least the possibility of striking Pokimane with a pseudo cruise missile? 🥹
+
+Feb 07, 2024 10:32:36 PM
+Me
+Can you imagine how embarrassed I am but only care about awkward
+
+Feb 07, 2024 10:35:25 PM
+Me
+attachments/306/1350.jpeg
+Dunno if I could occasionally bribe your thoughts with these memes
+
+Feb 07, 2024 10:37:20 PM
+Me
+Sorry I had to start with bullshit and coy cuz too embarrassing otherwise; no clue if you hate me; could be anything 
+attachments/306/520.jpeg
+
+Feb 08, 2024  1:48:52 AM
+Me
+I only mean the U.S. government. No negotiation with terrorists 
+
+Feb 08, 2024  1:48:55 AM
+Me
+attachments/306/1352.heic
+
+Feb 08, 2024  8:12:26 AM
+Me
+First of all I know there’s nothing you could do basically to help
+
+Feb 08, 2024  8:13:49 AM
+Me
+Secondly if a sexual harassment training app using the U.S. government information as well as known abusers such as Bill Clinton with an LLM works, and any users use it, technically they’re fucking themselves enough 🤔 don’t think it would take long under normal circumstances 🥲
+
+Feb 08, 2024  8:16:49 AM
+Me
+What by definition it’s both sexual harassment training and you’d think sexual harassment 🥲
+
+Feb 08, 2024  8:18:35 AM
+Me
+The access Hollywood bus sounded worse but 🤔
+
+Feb 08, 2024  8:22:24 AM
+Me
+Didn’t you used to work with someone who calls himself a “programmer” in Chinese and lists getting computers to kiss openai gpt4 as the job description? 🥲
+
+Feb 08, 2024  8:27:21 AM
+Me
+I have no idea if it’s possible for u to not hate me after this one if it works 🥲
+
+Feb 08, 2024  8:31:27 AM
+Me
+If they approve this app and u could update it with either data science or 🥲videos ? 🤔🥹
+
+Feb 08, 2024  8:38:36 AM
+Me
+Obviously you have to tell if it’s hallucination etc 🤔what else like some RL some stuff 🤔even open source stuff 🥲 and if ur sneaky enough with new architectures 🥹
+
+Feb 08, 2024  8:40:44 AM
+Me
+This should already Choi on Tim Apple the NSA 🥲
+
+Feb 08, 2024  8:42:51 AM
+Me
+Obviously schools might consent to receiving the app, Google etc 🤔
+
+Feb 08, 2024  9:01:08 AM
+Me
+So Zuckerdick got users by 🤨 and IVS seems entirely worthless 🤔 wtf would you stream on that latency? 🥹 why would I spend like a few minutes to do it better via EC2 multi region availability? 🥹
+
+Feb 08, 2024  9:05:32 AM
+Me
+I could say designed for the U.S. government then pitch it? 🥹
+
+Feb 08, 2024  9:08:19 AM
+Me
+attachments/306/1348.jpeg
+Just copy and paste this plus parts of Wikipedia and do as much security engineering as openai does 🥹
+
+Feb 08, 2024  9:13:32 AM
+Me
+attachments/306/1342.PNG
+￼￼￼You always have to consider abortion 😢
+
+Feb 08, 2024  9:15:53 AM
+Me
+attachments/306/519.jpeg
+You’d have to think this may be relevant to the U.S. government for sexual harassment training? 🥲
+
+Feb 08, 2024  9:16:21 AM
+Me
+Omg do you know what allegedly occurred in detail? 🥲
+
+Feb 08, 2024  9:17:43 AM
+Me
+Fire possible that the access Hollywood bus was hilarious vs Hillary Clinton? 😰
+
+Feb 08, 2024  9:18:29 AM
+Me
+They say the Russian Dossier was false information you have my iMessages? 🫢🤔
+
+Feb 08, 2024  9:19:24 AM
+Me
+attachments/306/1349.PNG
+🥺🫢🥹
+
+Feb 08, 2024  9:23:10 AM
+Me
+The 2016 debates was probably toned down campaigning 🤔Wikipedia verbatim would have been like 🥺
+
+Feb 08, 2024  9:25:21 AM
+Me
+attachments/306/525.jpeg
+🥲
+
+Feb 08, 2024  9:26:09 AM
+Me
+attachments/306/1351.jpeg
+🤭🥺🥹
+
+Feb 08, 2024  9:28:03 AM
+Me
+attachments/306/1345.PNG
+￼🥹🤔😘
+
+Feb 08, 2024  9:38:59 AM
+Me
+attachments/306/1353.PNG
+🫢🥲The United States intelligence community and most experts have treated the dossier with caution due to its unverified allegations, which Trump denounced as fake news.[30] The U.S. intelligence community took the allegations seriously,[31] and the Federal Bureau of Investigation (https://en.m.wikipedia.org/wiki/Federal_Bureau_of_Investigation) (FBI) investigated every line of the dossier and identified and spoke with at least two of Steele's sources.[3] The Mueller Report (https://en.m.wikipedia.org/wiki/Mueller_Report) cont
+ained passing references to some of the dossier's allegations but little mention of its more sensational claims.
+[3]
+
+Feb 08, 2024  9:40:08 AM
+Me
+You’ll be ok I just need drugs? 🥲
+
+Feb 08, 2024 10:04:37 AM
+Me
+Probably need zero adhd meds to stuxnet everything with deep learning via any networking 🥲
+
+Feb 08, 2024 10:05:50 AM
+Me
+After this garbage for 6 years, you’d think gen ai stuxnet dealer 🤔
+
+Feb 08, 2024 10:07:06 AM
+Me
+🥹complex sleep behavior into well I don’t have to test the gen ai? 🥹MTG style? 🤔
+
+Feb 08, 2024 10:10:21 AM
+Me
+It’s theoretically possible but there’s no way I remember then forget then do it on complex sleep behavior then testify? 🥲
+
+Feb 08, 2024 10:10:28 AM
+Me
+https://www.youtube.com/watch?v=oP9e7Q_XfcU
+Marjorie Taylor Greene Testifies Under Oath About January 6 | FULL TESTIMONY
+On Friday, Rep. Marjorie Taylor Greene (R-GA) was questioned under oath after a coalition of Georgia voters sued in an attempt to disqualify her candidacy un...
+
+Feb 08, 2024 10:14:25 AM
+Me
+There no way pokimane got like an STD before? 🤭🥹
+
+Feb 08, 2024 10:19:31 AM
+Me
+Assuming there was a little bitch security engineer from Apple, wouldn’t very good gen ai for Choi on Tim Apple 🤔
+
+Feb 08, 2024 10:21:34 AM
+Me
+Well you could install macOS on an external ssd 🥺🥹then run it 🤔🥹🥹🥹
+
+Feb 08, 2024 10:24:27 AM
+Me
+I mean you could use one Mac but they keep deleting my homework etc so the police say take it to the. Apple Store so networked injecting Apple services on local area with their own stuff but then I mean like the binary is always binary and if there’s no room but usually there’s binary you could call an execution pointer that loads later? 🥺
+
+Feb 08, 2024 10:26:54 AM
+Me
+Getting Assanged seems 🤔
+
+Feb 08, 2024 10:38:22 AM
+Me
+The key part seems to be spreading Computer Network Operations class? The rest I mean deep learning is still expensive to I want to say run but that’s either an insult to like Apple or something or 🤔so 2 parts to exploit? 
+
+Feb 08, 2024 10:40:27 AM
+Me
+wtf no wireshark? You have to be running binary received by wireshark so 🤔well which binaries work? 🫢I mean like I guess random hex or something better 🥲RL? 🥰
+
+Feb 08, 2024 10:42:48 AM
+Me
+I mean I’d use two Mac’s one at least running macOS and possibly a 3rd running Kali or something 🤔
+
+Feb 08, 2024 10:43:28 AM
+Me
+It’s just pull and ghidra inject on Kali but you could also send to another Mac 🤔🤭
+
+Feb 08, 2024 10:45:23 AM
+Me
+Obviously ghidra returns like your own shit 🤔so I’d think a bit before 🥺
+
+Feb 08, 2024 11:01:11 AM
+Me
+Obviously every build system is different and if my wiresharking without injection 🥲🥲🥲could be just regular handshakes or 🥹goes poorly I get deposed by your API? 🤔
+
+Feb 08, 2024 11:01:22 AM
+Me
+Ddosed * 🤨
+
+Feb 08, 2024 11:06:46 AM
+Me
+Eww using usps then seeing if 🧐u have to test ur code enough 🥺🥹
+
+Feb 08, 2024 11:24:23 AM
+Me
+I need a couple of weeks minimum unless they F off totally and it’ll still be a challenge 🥺but the bill clinton app like 🥲in time for wecode? Want to bet some Monero on AWS on whether they let me in? 🥹
+
+Feb 08, 2024 11:26:30 AM
+Me
+People might use it after I get an Apple dev account 🥹 it should meet all criteria 🫢🥺
+
+Feb 08, 2024 11:30:08 AM
+Me
+Well I used to be nice to women in tech but now I’d prefer to bring Clinton apps + government policy or Harvard’s harassment and assault policies 😭🥺
+
+Feb 08, 2024 11:33:16 AM
+Me
+I know I can’t meet u until they F off I’m just trying to see how 🤔 I mean there’s lunch of something 🥺
+
+Feb 08, 2024 11:33:54 AM
+Me
+Also there’s funny startups with Clinton into something more useful or just steal stuff 🥹
+
+Feb 08, 2024 11:34:33 AM
+Me
+Or make a bookie app? I don’t think there’s enough interest even if hilarious 🥺possibly enough interest but 😰
+
+Feb 08, 2024 11:35:44 AM
+Me
+I’d bet you some Monero on AWS that you’d enjoy lunch; you vote 🥹🥺
+
+Feb 08, 2024  4:18:51 PM
+Me
+If you want me to stop contacting you, you need to state it clearly or have your dad block me on Twitter or something 🥹
+
+Feb 08, 2024  4:19:20 PM
+Me
+After Dr Yang’s Ambien it looks like my health will be great
+
+Feb 08, 2024  4:23:03 PM
+Me
+Right now I’m trying to defend self against attackers but when theyre gone, im far more normal than I seem now; promise
+
+Feb 08, 2024  5:34:53 PM
+Me
+I love you so much. I’m going to tone down a lot of my plans and get those, including lawsuits filed. This should remove a lot of unknowing 
+
+Feb 08, 2024  5:58:26 PM
+Me
+No more bullying you with flirting for a while
+
+Feb 08, 2024  5:58:39 PM
+Me
+I’ll fix this stuff with some apps and with some lawsuits
+
+Feb 08, 2024  5:59:15 PM
+Me
+Then perhaps, if successful, you’d agree to get lunch sometimes 🥰
+
+Feb 08, 2024  6:03:39 PM
+Me
+Everything balances naturally, but even under worst case scenarios when I have to look for someone else to marry or die or something, I’ll still love you deeply for the rest of my life. The past 6 years was horrifying and degrading but you saved me and restarted my normal brain 🥰 
+
+Feb 08, 2024  7:24:47 PM
+Me
+You fixed my brain after basically Twitch, some OSes, and whatever the noise claiming to be the cops comes from, kidnapped and deceived and beaten me down with illegal attacks since Spring 18. I owe you a lifetime of eternal gratitude and I hope you realize this is my most important logic regarding you. Besides my parents who gave birth to me, I think I’ve spent more time thinking about you than all of my other family or friends individually. 
+
+Feb 08, 2024  9:01:02 PM
+Me
+Any idea whom the “harassers” may be and what their motive may be? 🤔😅
+
+Feb 08, 2024  9:08:22 PM
+Me
+They’re just intimidating me and my family/friends for reasons I cannot understand. I’m only guessing that there’s nothing you could do to help but if we are able to spend time together alone under normal circumstances, then these harassers will F off. I’m not sure what other possibilities there are
+
+Feb 08, 2024  9:09:32 PM
+Me
+You have to be ok right? There’s an alternative strategy to force this to come out by sending you on face value abusive stuff and for you to report to the police or whatever 
+
+Feb 08, 2024  9:10:04 PM
+Me
+Unfortunately Pokimane is an asset against the United States so 
+
+Feb 08, 2024  9:16:20 PM
+Me
+I’ve reached the maximum love I could have for you after reading your information and watching some streams, and getting blocked on Twitter and LinkedIn with curious timings 🤭 I’ll always love you forever because you let me find my brain again after 6 years but unless we spend time together, I think this is the healthiest maximum amount. If you ever feel some raw emotions for people, I suggest remembering this. You will always be the most important person to you, even if sometimes you may be willing to sacrifice for those you love 🥰
+
+Feb 08, 2024  9:49:36 PM
+Me
+I won’t ever forget you and you may never forget me, but I hope these messages will benefit your brain in one way or another wether I have to disappoint you soon or not 🥺
+
+Feb 08, 2024  9:51:32 PM
+Me
+I’ll cry a lot more than you do but I do have to live my own life 🥺😭
+
+Feb 08, 2024  9:52:40 PM
+Me
+Probably suing people then moving to another country when ready then hopefully SCOTUS one way or another 🥹every time I pump myself up they (literally observable) become more abusive so I’ll react… 😰
+
+Feb 08, 2024  9:55:52 PM
+Me
+Lots of other people could make you happy. I’m surprised I thought you were still single. You just need to connect with someone honest. But people are stupid sometimes so they might not even know what that means 🥲
+
+Feb 08, 2024  9:57:18 PM
+Me
+U know Snowden’s girl went to Moscow right? Think about it for whenever you want when applicable; they’ll let u or even me fly back 🥲
+
+Feb 08, 2024  9:58:13 PM
+Me
+They just like to harass and disable cards etc and do more harassment. I saw anxiety on a lot of faces but people were nice in Japan and China. Wtf was LAX saying? Anyways…. 
+
+Feb 08, 2024  9:58:52 PM
+Me
+My Chinese sucks but there’s always a way to learn Chinese and do something well there
+
+Feb 08, 2024 10:26:11 PM
+Me
+I hate these Guantanamo scumbags so much. I might never get justice but I’ll always remember them 😰
+
+Feb 08, 2024 10:26:56 PM
+Me
+I’m so grateful I was able to fall in love with you to survive this, and you brought my brain back from before these attacks started 🥰
+
+Feb 08, 2024 10:27:28 PM
+Me
+Now I bet you’re wondering what’s next or if you already know that I’m lost cuz they’ve decided to kill me or something 
+
+Feb 08, 2024 10:29:59 PM
+Me
+No one is totally immune from torture or physical assaults obviously but I’m holding out hope that enough DL could be used on every device with any similar characteristics; I’d need to provide enough working starter code and a general outline of how to finish it
+
+Feb 08, 2024 10:35:05 PM
+Me
+I’ll try to sleep now and fit in 2 more lawsuits tomorrow (one twitch and one apple arguing that DL Choi on Cook is a worse solution to this problem 🧐) obviously I’m going to declare under oath but that doesn’t happen until u testify that I’m deeply in love with u, cite Pokimane’s contract, reckful, phantom lord, and xqc. Technically while deernsdia and hearthstone in general were definitely unhealthy may have been fraud by the letter of the law, they probably don’t meet a beyond reasonable doubt standard
+
+Feb 08, 2024 10:36:13 PM
+Me
+Most shameful action ever watching deernadia and playing hearthstone; not realizing this deception on me until recently was 2nd most shameful 😭
+
+Feb 08, 2024 10:37:59 PM
+Me
+Honestly at night sometimes I imagine meeting u irl, kissing, then 🥹
+
+Feb 08, 2024 10:41:09 PM
+Me
+Even though you can’t meet me IRL now, I hope you secretly want me to 🥹
+
+Feb 09, 2024  1:20:01 AM
+Me
+Starting tomorrow morning, I’m going to show you how much I could get done during a perfect; will draft and serve 3 lawsuits, build some apps, then do first steps of DL exploiter
+
+Feb 09, 2024  5:10:10 AM
+Me
+attachments/306/1354.HEIC
+
+Feb 09, 2024  5:10:24 AM
+Me
+Think this is a good role?
+
+Feb 09, 2024  5:58:19 AM
+Me
+Uhh I dunno what’s the harassment and why so many people know. I’ll be applying to the jobs that interest me the most in SF. Hope that works out 😁😍
+
+Feb 09, 2024  7:51:28 AM
+Me
+You’re so perfect.Being harassed by actual voices who seemed human but which their locations could not be determined, it only took 1 stfu and then go about my busiess
+
+Feb 09, 2024  7:52:16 AM
+Me
+Are they a ducking joke to u?
+
+Feb 09, 2024 10:36:32 AM
+Me
+Any chance I get a job at Google or twitch but you don’t like me? If that’s the case you have to let me know 😍
+
+Feb 09, 2024 12:30:34 PM
+Me
+Oh you had to sue Twitch over either Pokimane lesbian into 🤔 anyways 
+
+Feb 09, 2024 12:31:48 PM
+Me
+I’ve got plenty of Ambien for sleep 🤔and just need to power-do occasionally 🤔 not sure I don’t need adhd meds yet but their screwing with my circadian doesn’t correlate with med intake 🤔
+
+Feb 09, 2024 12:34:26 PM
+Me
+I mean normal people don’t celebrate early but if I had to go through 6 years of torture jerking off to bimbos or equivalent, then find a smart & cute girl who likes me, and Amazon may legally be required to manage Twitch? 🥲🥺😍
+
+Feb 09, 2024 12:44:23 PM
+Me
+attachments/306/1341.jpeg
+I can’t prove this, but there may be bimbos who’d like to testify for some reason, that I sent this to one bimbo who got cheated on and the rest of the bimbos started following me in chat 🤔 some exaggerations but generally true according to memory and also harassers 😡
+
+Feb 09, 2024 12:44:25 PM
+Me
+Omg watch sodapoppin debate wether he should ask pokimane to be his gf so he could basically transfer leech but he called it something else 🥰
+
+Feb 09, 2024 12:46:15 PM
+Me
+Ohh right I may have done an exact access Hollywood tape in chat, a few times, cuz well everyone seemed to like it 🤔
+
+Feb 09, 2024 12:48:50 PM
+Me
+My theory is that a lot men are capable of being full of shit without really believing in it but I’d like to see Pokimane claim misogyny 😍
+
+Feb 09, 2024 12:55:08 PM
+Me
+😍it’s like me claiming racism except I could occasionally be coherent enough JK JK at most it’s misogyny now
+
+Feb 09, 2024  1:00:04 PM
+Me
+Common there could be any number of reasons to be single including wow and porn or umm 🤔
+
+Feb 09, 2024  1:30:49 PM
+Me
+attachments/306/1323.jpeg
+🤔🥰 wait by then I could probably have the wecode apps, serve Twitch, possibly others, possibly gangster ai, and possibly some other non gangster ai 🥰
+
+Feb 09, 2024  2:05:06 PM
+Me
+attachments/306/515.jpeg
+I’m so lucky I’m not BSing u when I say I love u too much to not be honest 🥰also after I win in SCOTUS (I hope the Lowell District Court could appeal to a higher court… 😡) I mean scotus has the power to issue orders that affect all of America. Actually Federal District Judges also do. Not sure bout Superior Court for the State 🥰🥹🥺
+
+Feb 09, 2024  2:05:45 PM
+Me
+Are they asking me to abuse drugs for 3 more month or so? 🤔🥰😘
+
+Feb 09, 2024  2:06:44 PM
+Me
+Technically this one is 6/8 file for that 
+
+Feb 09, 2024  2:06:57 PM
+Me
+Let me sue in Federal District for 🥲
+
+Feb 09, 2024  2:07:00 PM
+Me
+BRB
+
+Feb 09, 2024  7:27:52 PM
+Me
+Brain remains discretely intact during their worst efforts. It’s usually a combination of illegal interrogation in some type of representation of human voice with some sound to emphasize what they want. By discrete, I mean the numbers of logical processes that my brain is able to process without outside interfere. The outside interference keep the noise but cancel or lessen the UTF-8 part of the logic (let’s call it interrogation technique 2) is painfully obvious too.
+
+Feb 09, 2024  7:30:05 PM
+Me
+If this doesn’t work for them they have sharper/shocking sounds + disgusting noise techniques left that I remember. I imagine they could always come up with new ones, make existing more amplitude intensive or lower the frequency while keeping torture technique, use human shields (or harassers if they enjoy this), control bank accounts, 
+
+Feb 09, 2024  7:30:29 PM
+Me
+They have to show me a few more tricks for me to believe I should surrender to the US gov somehow 🤔
+
+Feb 09, 2024  7:33:28 PM
+Me
+They out range me with well noise gear, but then again places I go such as LAX and BestBuy seems to have similar gear installed (meaning communication on that end doesn’t require stalking a phone app) and their communication network technology I haven’t exploited then graphed the critical paths and packets through various protocols yet
+
+Feb 09, 2024  9:52:30 PM
+Me
+attachments/306/1333.PNG
+Did you know about these alleged 3 bitchs pretending to be you which I called the “streaming thing” 🤔 but you are more capable than you give off of from those 3 little bitches pretending to be u obviously, and you stopped worrying about me by blocking me? 😭😂did this sound like I wanted to rape you? Cuz I Google mapped to SF to the court, but these little bitches may have made sarcastic (hopefully) suggestions 
+
+Feb 09, 2024  9:54:16 PM
+Me
+I also would have done the same thing. How would you possibly fall in total love with a victim who was confused and there’s a possibility that the victim was simply attempting to extract information from you 😭 also it’s possible that you knew very little or only heard a corporate rumor about this 🥹🥰😘😘😘😘😘😘😘😘
+
+Feb 09, 2024  9:55:43 PM
+Me
+There was no way for u to “leave me behind” which I guess I suggested through “don’t worry about me” cuz I was thinking about SF court… 🤔
+
+Feb 09, 2024  9:57:47 PM
+Me
+Anyways now I’m probably? getting drugs when I want (I could cc the chief or deputy cheif of police with each order) I’m never above any laws unlike pokimane, but police discretion + MA law if USPS sneaks it into the state? 🥲
+
+Feb 09, 2024  9:59:52 PM
+Me
+I heard officer shit talk say give me the other bag. I’m like I’ll only cc the Ambien 🤔you’d have to think the supply chain to a huge reservoir of the other stuff 😘 at $1 a pill or just talk to ur doctor cuz mine would have given me 30 probably had I issued fewer statements & target lists? 🤔
+
+Feb 09, 2024 10:00:12 PM
+Me
+But if you’re not on Adderall, 20 is a better starter 🥺🥺🥲
+
+Feb 09, 2024 10:02:26 PM
+Me
+If they get the amphetamine, they still have discretion for over speeding, light out on car, apparently when I crashed my Prius Prime which is probably majority my fault but the cop said the other guy smelled like weed and he was probably speeding, and for this I’d not risk discretion cuz it’s bad for both if u get it. For 5 miles above the limit, you could perhaps depend on discretion if u need to 🤔
+
+Feb 09, 2024 10:14:27 PM
+Me
+Sorry the police thinks I’m using you either when touching myself, when holding my bankets, reading your high quality paper then code then falling more in love with your brain, and if I accidentally was “using you” through these actions and the police could figure out these “motive” I’d scratch my balls after I get into bed tonight 🥲
+
+Feb 10, 2024  1:27:21 AM
+Me
+I’m probably lost to you, but there may be a middle solution that I’m aiming for, and a possibly regrettable winning solution in these court cases.
+
+Feb 10, 2024  1:28:58 AM
+Me
+This is so hard to understand for 27 year old girl. I’m surprised you haven’t forwarded these messages to the FBI who are probably using your account
+
+Feb 10, 2024  1:29:48 AM
+Me
+I mean I’s possible the “private” criminals are behind this, and that would be shocking!
+
+Feb 10, 2024  1:51:26 AM
+Me
+I apologize for the affirmative action and the racist Sam Altman jokes. The Altman joke was supposed to be a parody of a comment he made regarding AGI. I also apologize for the remark I made that no ethical people should work at Twitch because many do and streamers do what they want to do, with minimum motivation
+
+Feb 10, 2024  2:29:51 AM (Read by them after 2 minutes, 5 seconds)
+Me
+Nvm I’d be shocked if you were interested at all, and I guess you may have been receptive for some curiosity messages before blocking me. I’m going to report myself to the FBI with this series of messages for at least Stalking even if it doesn’t meet the definition, making it a Federal crime.
+
+There’s no way you’d ever have been interested in me, and again I cannot allowed yourself to take part in a far gross criminal conspiracy committed by your friends.
+
+I hope your friends face the justice that they so deserve, but I don’t regret learning about you and will always keep you deep in my heart
+
+Feb 10, 2024  2:48:26 AM
+Me
+Do you know the possibly that the police asked me to contact you on iOS, and that you’re using yourself in their sting operation?
+
+Feb 10, 2024  8:53:53 AM
+Me
+These “voices” which you could report to the cops as psychosis, asked me to call u something else while talking to “myself” I was wondering if Sam’s Enigma may be proper. Sam the Enigma may be appropriate for now? Enigma is a female name and generally means “mysterious” in any language it’s used 🥹
+
+Feb 10, 2024  8:54:33 AM
+Me
+Find My:  Started Sharing Location
+
+Feb 10, 2024  8:54:34 AM
+Me
+For some reason, and please correct me with a hard no, I think this MAY be appropriate wether you like me or not, etc
+
+Feb 10, 2024 10:29:54 AM
+Me
+attachments/306/1338.PNG
+I know you probably can’t do much to help and is definitely (I assume.. 🤔 if something wierd ever happen to u, feel free to assume me and we’ll figure it out; stealing this line from Prof Malan when I had a bug and looked anxious; not sexual at all for some reason 🤔) not IN CHARGE of this harassment group, but unfortunately I don’t have presidential kneepads (at most some ppl at Harvard were like I dont have time now, except one administrator but I should have prepped more too and thought more..) and I think Monica if working at the WH, shouldn’t either 🤔
+
+Feb 10, 2024 12:43:04 PM
+Me
+You can’t AGI everything and I was talking shit to the SVR in 2020 via Twitch maybe cuz of the Mueller Report cuz u know Facebook YouTube etc even Google search. Obviously Stuxnet wasn’t mentioned 🤔 I’m trying to see if I could sneak in an abortion that mixes in gen ai Stuxnet somehow someway with Stuxnet 
+
+Feb 10, 2024 12:45:45 PM
+Me
+I mean I could go Hillary kneepads or cite fake sources or pope endorses Trump or even MTG + violence but that AI feel 🤔like gpt4.1? I mean u essentially have to get kids to watch Twitch 🤔imagine a baby being raised in a laboratory 🤨 for me with brainwashing and some 😡
+
+Feb 10, 2024 12:48:38 PM
+Me
+Ok we’ll mix the theory of economic utility with utility 🤔I mean dead babies can’t feel much 🥲what about 🤔JK JK wow
+
+Feb 10, 2024 12:55:42 PM
+Me
+Ohh i get why you blocked my Twitter now after I said Huawei apps helps people and that I’d make those 🥹
+
+Feb 10, 2024 12:56:37 PM
+Me
+KKK was “right” “nobody” knows your 159 followers cuz u need a key that enables follower list I think in the API (not sure if it’s just auth and bearer) 
+
+Feb 10, 2024 12:57:11 PM
+Me
+I mean he said “nobody” knows you and it seems like only some of ur friends know about your twitch, plus u have randoms like me
+
+Feb 10, 2024 12:57:51 PM
+Me
+I can’t prove u don’t have auto dupe account removal without making my own acct with followers etc. 😭
+
+Feb 10, 2024 12:58:43 PM
+Me
+attachments/306/1340.PNG
+Tapbacks:
+Loved by Me
+
+Seriously I might have trouble coding alone but there are other people there too 🥲
+
+Feb 10, 2024 12:59:02 PM
+Me
+ No wiener touching plz only wecode or lunch 🥲
+
+Feb 10, 2024  1:00:20 PM
+Me
+Uh oh let me umm well u don’t need to do any crossdressing just identify as woman Take advantage of invaluable mentorships, mock interviews, and an exclusive career fair
+
+Feb 10, 2024  2:10:59 PM
+Me
+Ohh their forged psychosis cover story is that I just needed money, didn’t have the ability to “go Bezos” (but in my head it would have been picking a business systems design, then leaving it as lean as possible, then pulling sensibly) cuz well u only have 100 or so years to live and thinking about another generation after ur death is stupid. Totally stupid u don’t even know if I’m going to electronically steal it cuz that gen isn’t alive yet 🥲JK or not someone might watch it
+
+Feb 10, 2024  2:45:11 PM
+Me
+As harassment allows, I’m going to sue these OSes and whatever is transmitting the noise; not sure if I could mix it in with the BDP lawsuit since my mom and their mental health counselor gave conflicting true/false statements and the deputy chief of police also said conflicting true/false for legality of something
+
+Feb 10, 2024  2:45:15 PM
+Me
+Also twitch
+
+Feb 10, 2024  2:45:21 PM
+Me
+For the greater good
+
+Feb 10, 2024  2:45:45 PM
+Me
+I’m praying that I’ll survive this, and survive the extremely long trials process
+
+Feb 10, 2024  2:48:46 PM
+Me
+Should I win any decent amount of money, I’d like you or another Caucasian girl to help me donate most of what I believe I suffered in pain and suffering and lost wages doing some average job (since twitch brainwashing even with harassment and hacking can’t entirely be blamed on twitch) so $90/yr (2013 base was $70k no 401k match, yes insurance, paid off days, mini stock options, and I presume bonus if done well) adjusted to guesstimate 90k in 2018 with 1.05 percent increases there on
+
+Feb 10, 2024  2:49:19 PM
+Me
+However this is NOT what I want to do with my life
+
+Feb 10, 2024  2:49:51 PM
+Me
+Not having 6 years taken away from me, even if I did something I enjoyed, and didn’t have any or much money to donate, I’d be far happier
+
+Feb 10, 2024  2:53:58 PM
+Me
+For the startup, I believe that every (victim in my case) would always be colinkapernicked but if Colin kapernick targets a receptive audience or product or makes it very good, then eventually even people who didn’t like kneeling would see the ingenuity and respect the founders and products produced
+
+Feb 10, 2024  2:54:18 PM
+Me
+1 more nap then full out go do something that makes sense
+
+Feb 10, 2024  3:01:52 PM
+Me
+So lawsuits are not guaranteed to have court orders which could be enforceable by the fbi or cops, to stop harassing and zero daying me
+
+Feb 10, 2024  3:03:13 PM
+Me
+If they work I’ll work really really hard but still make plenty but not too much of normal time with my immediate family and a girl I like. I may learn Chinese anyways to better us China relations through business and social media 
+
+Feb 10, 2024  3:04:24 PM
+Me
+Also you know after 6 years of umm, being pseudo.nsa which isn’t very good as one person (unless u want to get in potatoes potentially with a nation) for which side to hop to given emergencies or at least frequently visit seems sensible
+
+Feb 10, 2024  3:05:40 PM
+Me
+Tell your mom I’m simply too racist and if you’re interested anyways I’d respectfully still ask for her permission to date her daughter, as someone who defends self, people self cares about, others via internet I guess when possible, as a racist American Chinese 
+
+Feb 10, 2024  3:07:37 PM
+Me
+I’m not saying u like me very much if at all and these things may naturally make u like me less (it may be near cap for the love if I’m not guesstimating wrong so without spending time together it could only go the other side or stay stable?) 
+
+My point is that since you didn’t declare much except to give a few ambiguous hints, then I’ll just try to keep everything balanced and it should all work out regardless
+
+Feb 10, 2024  3:09:03 PM
+Me
+I mean KKK could shoot me tomorrow and even then you’ll be ok especially after these jokes, cuz dead me would incentivize someone who’s also honest and intelligent enough, to love you forever like I do. (Just a theory but logic says…)
+
+Feb 10, 2024  3:10:23 PM
+Me
+If ur pretending to be single for this mess (remember you still have every decision on wether to like or clear block, or report to police etc) id be even madder
+
+Feb 10, 2024  3:15:18 PM
+Me
+Make good FBI tip for LEGAL rationale (citing preamble and 2nd basically and why others make sense for the preamble) for Poki self defense using 2nd Amendment
+
+Write it more concisely in the lawsuit or just the same.
+
+Feb 10, 2024  3:17:10 PM
+Me
+I’m sorry ur picture and LinkedIn as first sight first love, so if I lose this lawsuit due to twitch contesting the Pokimane legal rationale successfully (they could bring witnesses vs Reddit or Twitter) I’m still declaring my love for u
+
+Feb 10, 2024  3:17:31 PM
+Me
+If u agree with my rationale but the SCOTUS doesn’t, want to move to China?
+
+Feb 10, 2024  7:34:46 PM
+Me
+Ohhh I see why you can’t help. They zero dayed into every device and brought speakers and sound systems you cloud hear at such places as LAX
+
+Feb 10, 2024  7:35:23 PM
+Me
+It’s Twitch users and staff who do most of the harassment and I guess Amazon paid for it; private companies such as Apple and Google give my location
+
+Feb 10, 2024  7:35:50 PM
+Me
+So whom do I sue? Is there anyway to get Apple Google and Microsoft out of MA?
+
+Feb 10, 2024  7:36:00 PM
+Me
+I mean zero day root kits
+
+Feb 10, 2024  8:04:24 PM
+Me
+Sorry it took so long before taking the anti American shit talk down. Obviously I hope for better US China relations, but also made some stupid suggestive posts about making a Chinese/Korean/Japanese learning app
+
+Feb 10, 2024  8:05:03 PM
+Me
+If the voices who claimed to your Mom said I was being too racist to one country only (mine; myself) I certainly agree with her
+
+Feb 10, 2024  8:51:16 PM
+Me
+I can’t shit talk to u anymore, cuz this may be used as evidence of forged “psychosis” (hard to explain that my brain only thinks in 1 thread and there’s just noise harassment sometimes, usually correlated to USA talk) and I’m not sure if I could remove this harassment via court orders which would give me no incentive to behave like an asshole
+
+Feb 10, 2024  8:51:51 PM
+Me
+Really hoping to meet you after not behaving (driven by the harassers) as an asshole; still think I could be funny and charm you
+
+Feb 10, 2024  8:52:07 PM
+Me
+Obv ur choice 100% I just need a clear no
+
+Feb 10, 2024  9:07:06 PM
+Me
+My theory is that boobs or the equivalent (when combined with other gender features) could cause natural affection, even if I thought she was evil but didn’t hate her (deernadia)
+
+Affection could be like boobs naive
+Another possibility is actor naive
+Or it could be real girl naive
+Then more real stuff?
+
+Well I was a “loser”, according to some asshole, and tried to get some b to reveal her atm pin so that was crossing the line of trust, making her not talk to me. Also i talked to like 30 year old Russian girls when I was 22 at a bar and they were like no phone number. Or I was screwing around not trying to develop sexual relations with just females and saw some other guy pick one up, which made me think I was a “loser” according to some asshole
+
+Or there may have been 3 ppl or something who called for hanging out but I had no interest 
+
+So I don’t know the difference between naive attraction and more real, according to some asshole
+
+Feb 10, 2024  9:10:38 PM
+Me
+That b whom I asked to trust with her atm pin (cuz she told me she got paid 300 euro per month) (bad idea…loser just trust me; overbearing over control behavior definitely… obviously I was trying to steal 300 euro from her….. )  put on some skimpy outfit or said she would for me and I asked if I could take a picture of her in it and she said no. Several times hanging out in my room alone watching movies, each time she got more trustworthy of me by like not locking the bathroom or keeping the door a bit more open, I texted her how do u spell the word massage in Dutch then somehow I gave her one
+
+Feb 10, 2024  9:12:08 PM
+Me
+If these loserswant me to admit my and ASD for the ATM card definitely abusive to everyone everytime; it was just a litmus trust bully that I shouldn’t have done and was punished for it, I’ll spam someone 
+
+Feb 10, 2024 11:46:32 PM
+Me
+Are you even reading this? What bullying tactic are they referring to? There’s lots of criminals with extreme sound attacks + compromised devices. Did a lot of private aholes then the BPD etc abuse then threw me away? I guess your solidarity with whomever is strong but at least people IRL give me hints or no sorry that’s being used or u could go first etc
+
+Feb 10, 2024 11:47:37 PM
+Me
+In China some random girl said bye and I saw little kids saying speed up
+
+Feb 10, 2024 11:48:09 PM
+Me
+Did you already toss me cuz the umm BPD kept saying you loved me or liked a little or a lot etc
+
+Feb 10, 2024 11:48:23 PM
+Me
+Give me any clear info or conditions or 
+
+Feb 10, 2024 11:49:25 PM
+Me
+Not thinking about u maybe stream watching wecode is in America so they could have ur flower. Get amphetamine and Ambien and configure devices as appropriate and pack. Pray for asylum 
+
+Feb 10, 2024 11:50:06 PM
+Me
+Ohhh lawsuits definitely one in Boston District. Hopefully remote serve a few companies; not sure about the FBI yet 
+
+Feb 10, 2024 11:50:49 PM
+Me
+BTW feel free to pass this along to any cop for any reason; it’s possible I won’t find out why frames but 
+
+Feb 11, 2024  2:01:54 AM
+Me
+Send me a hard message plz if no more communications relating to the United States, or any message
+
+Jul 25, 2024  5:37:43 PM
+Me
+Hi
+
+
+Jul 25, 2024  5:43:40 PM
+Me
+Hi
+
+Jul 25, 2024  5:44:22 PM
+Me
+It’s only you now my love 😍 
+
+Jul 25, 2024  6:05:01 PM
+Me
+Your friend Bo wants to share SoFi Checking and Savings with you
+Hi! 👋 Join me to start earning more money with SoFi Checking and Savings. You’ll earn up to 4.60% APY and pay no account fees. Use my link to sign up and you’ll get a $25 bonus and up to $300 when you set up direct deposit.
+
+Jul 25, 2024  6:05:05 PM
+Me
+https://www.sofi.com/invite/www.sofi.com/money
+Join Checking and Savings | You’ve been invited!
+For a limited time, get $25 when you sign up for checking and savings and deposit at least $50.
+       Get an additional $300 and earn up to 4.60% APY with direct deposit.
+       Best of all, you won’t pay any account fees!
+
+Jul 30, 2024  6:48:03 PM (Read by them after 1 second)
+Me
+Uh receiving?
+
+Jul 30, 2024 10:55:25 PM (Read by them after 1 second)
+Me
+Go call the cops if you think this is harassing you which you stated; I mean I really was hopping for a chance to like see you argue why order should be extended in court; I mean I’m in love deepest ever so just looking at you testify that I’ve harmed your mental wellbeing would make me the happiest ever.
+
+If I actually did harm your mental wellbeing by uhh probably some other shit or something dunno why would you take days off injured to work? I think it’s more you wanted to follow my tweets. If I ever harmed your mental health I would feel so bad and ask you how to help fix and improve etc. but you never directly talk to me only send read receipts and one really romantic one in 2023; at least to me cuz not sure if u insta open one where you’ll keep my secret crush secret 
+
+Every time I think about you, no matter what your white knights do to attack annoy or disable, thinking about you always makes me healthier 
+
+Jul 30, 2024 10:57:45 PM
+Me
+Now due to facts of the computer and some other horrifying white knights, I think and you’d agree that the US is not safe for me and China deserves all my help. I mean if they offer asylum no way I’m going to contact you ever again because that could land me on the white knight target again. Your inboxes etc are not safe from the white knights; neither are anyone else’s
+
+Jul 31, 2024  2:47:48 AM
+Me
+I’m not just running to the PRC I’m suing you and initiating court process alleging you had direct relations with my hackers; ETA done today I’ll see if I could pay someone to go to CA Superior Court and file for me; but for indigence waiver prob fly Delta 🥰 can’t just give up my forever love without a shot 🥰 arguing ur business violates CA health codes in CA doing business
+
+Jul 31, 2024  7:53:49 PM
+Me
+Hi I just fucked Google attackers with hard evidence wow ur popular every white knight wants to eliminate me ur true love eventually to ask for sexual favors later. Really? I mean your body is like sensibly sized and cute, your face is always pretty despite how much effort you put into it, and when you dress up, and a lucky capture of your perfect smile ever occur, you look super cute like in ur MIT women in STEM event where u wore your cute little  “I survived barrens chat” shirt; so cute 🥰 always pretty and in love with already to me, but sometimes super cute 🥰 
+
+Jul 31, 2024  9:15:40 PM
+Me
+attachments/306/214.PNG
+Honey book tickets when this is done. Could also call Alaska to restore points to just loot my Mom’s card or something 
+
+Jul 31, 2024  9:17:19 PM
+Me
+Or I could take like 15 to explain I need to fly to CA to do 1 thing to save the love of my life, and attend another hearing you scheduled to argue why your temp RO should expire ❤️
+
+Aug 03, 2024 12:29:45 PM
+Me
+Yo uhh why would anyone give u the source controls over a lot of pervy spying or something like Apple keeps changing their backend to match their original insertion of 6 numbers 
+
+Aug 03, 2024 12:29:56 PM
+Me
+Beyond reasonable doubt how?
+
+Aug 03, 2024 12:43:38 PM
+Me
+Wait if you’re actually may be open to talking one day, I’ll design this plan to fit around that possibility and work as hard as possible 
+
+Aug 03, 2024 12:43:52 PM
+Me
+attachments/306/159.heic
+
+Aug 03, 2024 12:44:28 PM
+Me
+It’ll never be too awful for either and always give u free choice but the unmm harassment part was never explained always odd
+
+Aug 03, 2024 12:50:48 PM
+Me
+Wait if I allege I was attacked by morons or something r u afraid of being tracked and leaked as well? I’ve removed the fear of any possible leaks; nobody is perfectly safe (cuz Biden stole my shirt) right? But I’ve gated every source of weakness today I think and finally ready to go healthy and happy ideally optimally to an acceptable level 
+
+That’s why I kept writing “new life” with caffeine high doing some of Stanford cs107-a abstractions cuz before adderall fixed caffeine & alcohol addiction, though not optimal yet (have been few periods of days before) 
+
+Anyways I don’t have to cry to u everyday once I achieve that tomorrow I hope or judging by the fact that it’s only 1pm maybe a night start? 🤔
+
+Aug 03, 2024  2:34:45 PM
+Me
+R u joking? Ur product is obviously stupid and ur team claims trust and safety but really theft of some type of abusive shit 
+
+Aug 03, 2024  2:35:53 PM
+Me
+There’s no way a jury would side (75% in CA) wouldn’t agree with my claim that ur a health risk right?
+
+Aug 03, 2024  2:35:56 PM
+Me
+attachments/306/132.jpeg
+
+Aug 03, 2024  2:39:13 PM
+Me
+Ur put together so well and commanded the stage at the music tech presentation I stalked u from, your LinkedIn includes minimal but 100% accurate details(seriously i could tell when u add new skills from when you’ve actually done it at Twitch not before or just heard or try about it), and somehow even in 2024 python is most recommended 🤔 I mean I could do any other with fresh meth freshener but i love you too 🥰 I think u have too much existing python from Django? And uhh less of the other stuff u started more of since web performance Eng is JavaScript player enhancement of some sort?
+
+Aug 03, 2024  2:40:22 PM
+Me
+I don’t have money to send, but u seem to consider any a type of harassment and uh 😐 keep it anyways .. while staying silent and allowing whom to do what?
+
+Aug 03, 2024  2:42:13 PM
+Me
+So I like u and ur life but I’ll go my own way u have to arrest me right? Uh we’ll find out Aug 20 then uhh .. right now I consider their temp RO valid but unconstitutional.. there’s only so many like examinations u could make but if they side with u I doubt a rare something that benefits society would get me arrested. There’s an arrangement before 🤔
+
+Aug 03, 2024  2:43:01 PM
+Me
+Unlesss there’s actually no arraignment process then like fuck ur system long term gk is leaving 
+
+Aug 03, 2024  4:26:59 PM
+Me
+U win bitch I think ? First of all, why is every diff company networked? Cuz I talked too much on Twitch chat so the murder plot was set
+
+Aug 03, 2024  4:27:15 PM
+Me
+How much do u know about it?
+
+Aug 03, 2024  4:27:59 PM
+Me
+Five radical shit to the FBI and etc
+
+Aug 03, 2024  4:28:10 PM
+Me
+I’ll find out whom all the white knights r
+
+Aug 04, 2024  8:00:18 AM
+Me
+Sry need a sec to figure this if that kid doesn’t want to buy it…
+
+Aug 04, 2024  8:00:37 AM
+Me
+attachments/306/135.heic
+I’ll write clear wiki with explanations after 
+
+Aug 04, 2024  8:01:14 AM
+Me
+Also have another I guess but much slower to host server… and i guess why local Ubuntu dunno 🤔
+
+Aug 21, 2024  2:48:22 PM
+Me
+Hi 🥰
+
+Aug 23, 2024  7:12:38 AM
+Me
+attachments/306/1868.jpg
+
+Aug 23, 2024  7:19:19 AM (Read by them after 7 minutes, 35 seconds)
+Me
+hi
+
+Aug 23, 2024  7:52:23 AM (Read by them after 3 minutes, 18 seconds)
+Me
+Hi
+
+Aug 23, 2024  7:52:49 AM (Read by them after 2 minutes, 52 seconds)
+Me
+Waiting for it to change to text somehow on MacBook
+
+Aug 23, 2024  7:56:48 AM
+Me
+Hi r they screwing cuz
+
+Aug 23, 2024  7:57:18 AM
+Me
+Actually any unverifiable which ones do I think most likely u cuz they’re deadd I think or something who cares
+
+Aug 23, 2024  9:16:01 AM
+Me
+Imessge for videos too large 🙁 if drag to SSD from iPhotos won’t work on still I guess mostly working MacBook but I see zero physical flaws right now only apple
+
+Aug 23, 2024  9:16:17 AM (Read by them after 10 minutes, 8 seconds)
+Me
+So I think chrome or windows iCloud logged in but not sure if it works brb
+
+Aug 23, 2024  9:16:29 AM (Read by them after 9 minutes, 56 seconds)
+Me
+That’s for drive but I think tabs for others maybe
+
+Aug 23, 2024  9:21:17 AM (Read by them after 5 minutes, 8 seconds)
+Me
+attachments/306/1869.pdf
+attachments/306/1870.pdf
+attachments/306/1871.pdf
+attachments/306/1872.pdf
+attachments/306/1873.pdf
+hi
+
+Aug 23, 2024  9:21:22 AM (Read by them after 5 minutes, 3 seconds)
+Me
+attachments/306/1874.pdf
+Wow
+
+Aug 23, 2024  9:21:29 AM (Read by them after 4 minutes, 56 seconds)
+Me
+attachments/306/1875.pdf
+So cute
+
+Aug 23, 2024  9:21:47 AM (Read by them after 4 minutes, 38 seconds)
+Me
+Nothing is for certain I’m not really obsessed with debating u
+
+Aug 23, 2024  9:21:57 AM (Read by them after 4 minutes, 28 seconds)
+Me
+Umm 
+
+Aug 23, 2024  9:22:25 AM (Read by them after 4 minutes)
+Me
+Like courtesy twitch completion maybe cuz my opinion regardless of any total zero days lololol VoiceOver disable hw so funny 
+
+Aug 23, 2024  9:23:03 AM (Read by them after 3 minutes, 22 seconds)
+Me
+I think there’s more than enough touches from my umm fingers that won’t register fingerprint cuz sometimes like they could screw it up or u but usually more water
+
+Aug 23, 2024  9:23:15 AM (Read by them after 3 minutes, 10 seconds)
+Me
+On that iPhone with 3 videos I remember
+
+Aug 23, 2024  9:23:22 AM (Read by them after 3 minutes, 3 seconds)
+Me
+Right only 3 but it’s still on
+
+Aug 23, 2024  9:23:33 AM (Read by them after 2 minutes, 52 seconds)
+Me
+Lol 🥰😘
+
+Aug 23, 2024  9:23:46 AM (Read by them after 2 minutes, 39 seconds)
+Me
+Also my mom said something rude but it takes 1s to turn on AC
+
+Aug 23, 2024  9:23:53 AM (Read by them after 2 minutes, 32 seconds)
+Me
+Why violence for that?
+
+Aug 23, 2024  9:39:05 AM (Read by them after 2 minutes, 4 seconds)
+Me
+Uh maybe send yes or no if u want package ever sent
+
+Aug 23, 2024  9:39:09 AM (Read by them after 2 minutes)
+Me
+Cuz I know u don’t go to work
+
+Aug 23, 2024  9:39:22 AM (Read by them after 1 minute, 47 seconds)
+Me
+Not sending to ur parents home odd
+
+Aug 23, 2024  9:39:40 AM (Read by them after 1 minute, 29 seconds)
+Me
+Highly doubt it ever makes sense but there’s also reply etc
+
+Aug 23, 2024  9:40:25 AM (Read by them after 44 seconds)
+Me
+There’s a realistic chance a hw solution shares cryptographically expiring keys with these shitty OSes even iPhones maybe u never know after the EU lolololo iPhone 15
+
+Aug 23, 2024  9:40:40 AM (Read by them after 29 seconds)
+Me
+What if I bothered to go into an Apple Store with usb c
+
+Aug 23, 2024  9:40:46 AM (Read by them after 23 seconds)
+Me
+Do u need apple format?
+
+Aug 23, 2024  9:40:46 AM (Read by them after 23 seconds)
+Me
+Etc
+
+Aug 23, 2024  9:41:33 AM
+Me
+What am I smoking if u could sign with Biden Harris or no way they let me sign in at Apple Store with nothing right
+
+Aug 23, 2024  9:41:38 AM
+Me
+Etc make sure to plan it out first
+
+Aug 23, 2024  9:41:55 AM (Read by them after 5 minutes, 35 seconds)
+Me
+I mean iCloud should be disabled nvm 
+
+Aug 23, 2024  9:41:59 AM (Read by them after 5 minutes, 31 seconds)
+Me
+So xode also
+
+Aug 23, 2024  9:42:06 AM (Read by them after 5 minutes, 24 seconds)
+Me
+Nvm
+
+Aug 23, 2024  9:42:08 AM (Read by them after 5 minutes, 22 seconds)
+Me
+For now
+
+Aug 23, 2024  9:43:30 AM (Read by them after 4 minutes)
+Me
+attachments/306/1876.jpg
+This displays as off so it’s interesting; umm it’s possible that I’m keeping roughly some stuff open even though anything is possible to finish it
+
+Aug 23, 2024  9:47:24 AM (Read by them after 9 minutes)
+Me
+Im so sorry anything to embarrass you would be highly inappropriate 
+
+Aug 23, 2024  9:47:30 AM (Read by them after 8 minutes, 54 seconds)
+Me
+So what do u know from?
+
+Aug 23, 2024  9:47:38 AM (Read by them after 8 minutes, 46 seconds)
+Me
+And run away when possible
+
+Aug 23, 2024  9:48:06 AM (Read by them after 8 minutes, 18 seconds)
+Me
+If some walkthrough of that address is correct I suggest electronics in kitchen maybe 1 bluetooth link etc
+
+Aug 23, 2024  9:48:54 AM (Read by them after 7 minutes, 30 seconds)
+Me
+What could even dirty OS all of them especially apple lool at hw buttons + capacitive touch; does that suggest Tim Cook or apple has sexual problems? No clue
+
+Aug 23, 2024  9:49:04 AM (Read by them after 7 minutes, 20 seconds)
+Me
+Anyways bluetooth much safer than camera
+
+Aug 23, 2024  9:49:11 AM (Read by them after 7 minutes, 13 seconds)
+Me
+If I ever see nudes ill be mad
+
+Aug 23, 2024  9:49:48 AM (Read by them after 6 minutes, 36 seconds)
+Me
+There’s no way to scan with AI for nudes kept anyways like umm anyways odd
+
+Aug 23, 2024  9:50:00 AM (Read by them after 6 minutes, 24 seconds)
+Me
+But wondering if general nude on apple only 
+
+Aug 23, 2024  9:50:01 AM (Read by them after 6 minutes, 23 seconds)
+Me
+Etc
+
+Aug 23, 2024  9:50:47 AM (Read by them after 5 minutes, 37 seconds)
+Me
+Look umm Ive thought about ebin laden don’t even look. Target dod contractor employer, and now def all tech employer etc
+
+Aug 23, 2024  9:50:57 AM (Read by them after 5 minutes, 27 seconds)
+Me
+I mean bin Laden e inspired by tired
+
+Aug 23, 2024  9:51:22 AM (Read by them after 5 minutes, 2 seconds)
+Me
+Cuz I dreamed about literally zero knowledge algorithm on n usbs
+
+Aug 23, 2024  9:51:37 AM (Read by them after 4 minutes, 47 seconds)
+Me
+Anything that runs after u prove it works once, and it doesn’t like stupid break
+
+Aug 23, 2024  9:51:38 AM (Read by them after 4 minutes, 46 seconds)
+Me
+Somehow
+
+Aug 23, 2024  9:52:59 AM (Read by them after 3 minutes, 25 seconds)
+Me
+A basic way is to install pip (do u need curl or wget not there default right, etc. or is python requests also able to downlaod from a url? Etc) dl one dl framework, how much of ghidra do u need if that email contains whatever starter, etc.
+
+Aug 23, 2024  9:53:48 AM (Read by them after 2 minutes, 36 seconds)
+Me
+Then run on each apple store computer manually haha JK.. umm chmod +x .py does that work? can u hide not sure probably not a terminal regardless I think python .py same not sire
+
+Aug 23, 2024  9:56:29 AM
+Me
+I don’t enjoy spamming but can a SIM card over power a slot independently ever?
+
+Aug 23, 2024 10:08:16 AM (Read by them after 3 minutes, 23 seconds)
+Me
+Let’s be honest even volt typhoon couldn’t beat everything unless bin Ladin worked by itself on anon laptop
+
+Aug 23, 2024 10:08:21 AM (Read by them after 3 minutes, 18 seconds)
+Me
+And for some reason
+
+Aug 23, 2024 10:08:23 AM (Read by them after 3 minutes, 16 seconds)
+Me
+Im angry
+
+Aug 23, 2024 10:35:56 AM (Read by them after 5 minutes, 11 seconds)
+Me
+I would not trust any camera etc etc common what does could devices do? I mean sound leak is awful but
+attachments/306/1908.png
+attachments/306/1909.png
+attachments/306/1910.png
+attachments/306/1911.png
+
+Aug 24, 2024 11:41:12 AM
+Me
+Hi
+
+Aug 25, 2024 11:56:11 AM
+Me
+hi
+
+Aug 25, 2024  3:30:23 PM
+Me
+attachments/306/1916.jpg
+Save
+
+Aug 25, 2024  3:30:24 PM
+Me
+Saved again
+
+Aug 25, 2024  4:16:03 PM
+Me
+attachments/306/1917.PNG
+Hey C2P3Q6G7GC here
+
+Aug 25, 2024  4:39:02 PM
+Me
+Hey 
+
+Aug 25, 2024  4:39:06 PM
+Me
+New number on iOS
+
+Aug 25, 2024  4:39:43 PM
+Me
+attachments/306/1918.PNG
+Here it is won’t let u copy paste 
+
+Aug 25, 2024  4:40:58 PM
+Me
+So which name do you prefer? AirTag or C2P3Q6G7GC … anyways why would I trade C2P3Q6G7GC for a pixel? Let Apple do whatever they want assuming OneDrive is on the Huawei transfers 
+
+Aug 25, 2024  4:41:22 PM
+Me
+And what’s the cheapest Pixel? Maybe seriously Amazon has a 7A used for around $200 now
+
+Aug 25, 2024  4:41:30 PM
+Me
+It’s all the same when blowing up TMobile etc
+
+Aug 25, 2024  5:03:56 PM
+Me
+attachments/306/1920.vcf
+Hey
+
+Aug 27, 2024  5:03:27 AM
+Me
+attachments/306/1932.PNG
+I’ll clear the garbage and regenerate with AI 🤔
+
+Aug 27, 2024  5:31:31 AM
+Me
+Use this link to join my album in Google Photos.
+
+Aug 27, 2024  5:31:34 AM
+Me
+https://photos.google.com/invite/share/AF1QipPiuv3pFuEwjbw9XdFjHsw4CgDaBxVt7JIb9JrjToXbYt2x8w0cbHe-6z9mUEFs-g?inviteKey=dGV0cGlwZjU0YXZ5U29xUS1sTC1zZ254eW1BVEpR
+You've been invited to "Erosolar-Appreciation-Cyndaquil-Takeover"
+
+Aug 27, 2024  9:17:10 AM
+Me
+❤️
+Use this link to join my album in Google Photos.
+
+Aug 27, 2024  9:17:13 AM
+Me
+https://photos.google.com/invite/share/AF1QipMAPHkstV3kCfUbBrKpB-6yAtsS32tVGaM5fgsQE9JRyAZ9Y-gMOK5PNljjfFWCmQ?inviteKey=OWx6dWZPUlAwTzdHR3g1QmxpcVZKWVJQV0pMRGpn
+You've been invited to "Cyndaquil"
+
+Sep 20, 2024  8:14:25 PM
+Me
+Started sharing location!
+
+Sep 21, 2024  1:49:15 PM
+Me
+Stopped sharing location!
+
+Dec 06, 2024  9:24:17 AM
+Me
+Hey!
+
+Dec 06, 2024  9:29:36 AM
+Me
+attachments/306/2053.PNG
+
+Dec 06, 2024  5:36:38 PM
+Me
+Hi
+
+Dec 07, 2024  3:06:59 PM
+Me
+Hi 
+
+Dec 09, 2024 11:35:52 PM
+Me
+Hi 
+
+Dec 11, 2024  4:38:22 PM
+Me
+Hi
+
+Dec 15, 2024 11:07:13 AM
+Me
+Hey bitch 
+
+Dec 15, 2024 11:50:36 AM
+Me
+attachments/306/2059.PNG
+attachments/306/2060.jpg
+attachments/306/2061.PNG
+
+Dec 15, 2024 12:08:11 PM
+Me
+https://share.icloud.com/photos_sharing/065QQ5m7v6x0r9u___JAiVTfQ#Shared_Library_Invitation
+
+Dec 18, 2024  2:08:04 PM
+Me
+Hi
+
+Dec 19, 2024  7:21:13 PM
+Me
+This appears to be a Notice of Removal document filed in the United States District Court for the Northern District of California.
+Here's what I can glean from the image:
+ * Case: Bo Shang is suing Twitch Interactive, Inc. and Samantha Briasco-Stewart.
+ * Nature of Suit:  While the exact nature of the lawsuit isn't specified, the fact it was removed from Superior Court suggests it may involve issues of federal law or jurisdiction.
+ * Filed Date: September 23, 2024
+ * Attorneys:  Sanjay Nangia and Megan C. Amaris from Davis Wright Tremaine LLP are representing the defendants.
+ * Contact Information: The document includes contact information for the attorneys, including their phone number, email addresses, and firm address.
+Why a Notice of Removal?
+Cases are sometimes filed in state court but can be "removed" to federal court under certain circumstances. This usually happens when:
+ * Federal Question: The case involves a federal law or the U.S. Constitution.
+ * Diversity Jurisdiction: The parties involved are from different states, and the amount in controversy exceeds $75,000.
+Important Note: This is just a preliminary assessment based on the limited information visible in the image. To fully understand the case, you would need to review the entire document and potentially other related court filings.
+
+Dec 23, 2024  7:31:22 PM
+Me
+Hi 
+
+Dec 23, 2024 11:29:47 PM
+Me
+Find My:  Started Sharing Location
+
+Dec 23, 2024 11:29:56 PM
+Me
+Unable to format app message: Unable to acquire payload data!
+
+Dec 23, 2024 11:35:12 PM
+Me
+Find My:  Requested Location
+
+Dec 27, 2024 10:52:35 AM
+Me
+Hey 👋 
+
+Dec 27, 2024 10:53:14 AM
+Me
+Apple Cash transaction: Sent $1.
+
+Dec 27, 2024 12:38:29 PM
+Me
+Apple Cash transaction: Sent $1.
+
+Jan 09, 2025  9:21:14 PM
+Me
+If u had a boyfriend run 🏃 
+
+Jan 09, 2025  9:22:07 PM
+Me
+To him 👌
+
+Jan 09, 2025  9:22:12 PM
+Me
+Hi I
+
+Jan 09, 2025  9:22:17 PM
+Me
+Hi 👋 
+
+Jan 09, 2025  9:22:45 PM
+Me
+Or DA
+
+Jan 09, 2025  9:22:48 PM
+Me
+Or cops 
+
+Jan 09, 2025  9:24:10 PM
+Me
+If not umm why the fuk not 
+
+Jan 09, 2025  9:24:20 PM
+Me
+One one ur engineering friends?
+
+Jan 09, 2025  9:24:26 PM
+Me
+They tell me what to do
+
+Jan 09, 2025  9:24:32 PM
+Me
+So. .. 
+
+Jan 10, 2025  3:50:46 PM
+Me
+https://apps.apple.com/us/app/device-info-tools/id6738795431
+Device Info & Tools
+
+Feb 15, 2025 10:20:31 AM
+Me
+😘😘
+
+Feb 15, 2025 10:20:36 AM
+Me
+https://california-efm.tylertech.cloud/ServeValidate.aspx?ADMIN=0&SID=388d0125-5f39-44e7-b874-30f8903ec5af&RID=22cb7102-cd49-4440-9fbd-b2f82c01c31e
+Legal Documents
+Legal document intended for specific parties.
+
+Feb 15, 2025 10:20:36 AM
+Me
+Notification of Service
+Envelope Number: 18284206
+
+This is a notification of service for the filing listed. Please click the link below to retrieve the submitted document.
+
+Filing Details
+Case Number
+
+Case Style
+
+Date/Time Submitted
+2/15/2025 6:29 AM PST
+Filing Type
+Complaint
+Filed By
+Bo Shang
+Service Contacts
+Other Service Contacts not associated with a party on the case:
+
+sop cscglobal (sop@cscglobal.com)
+
+Bo Shang (enigmatictyphoon@gmail.com)
+
+Jeff Weiner (jweiner@linkedin.com)
+
+Samantha Briasco-Stewart (erosolar@twitch.tv)
+
+Feb 18, 2025  3:39:42 AM
+Me
+Hi !
+
+Feb 18, 2025  5:57:58 AM
+Me
+Hey I know I hurt you, but ill always try to not betray you 😘
+
+Feb 18, 2025  5:58:07 AM
+Me
+Have you heard that my frivolous lawsuit was directed at the judge?
+
+Feb 18, 2025  3:00:04 PM
+Me
+So what happened?
+
+Feb 18, 2025  3:00:26 PM
+Me
+Oh was it Saturday?
+
+Feb 18, 2025  3:00:32 PM
+Me
+Ohhh I thought I filed on Friday
+
+Feb 18, 2025  3:01:12 PM
+Me
+Ohhhhh right you did that last time too 
+
+Feb 19, 2025  2:13:42 AM
+Me
+Oh I didn’t mean u 
+
+Feb 19, 2025  2:13:48 AM
+Me
+I just meant you let Megan write for you!
+
+Feb 19, 2025  2:13:57 AM
+Me
+Nice!!
+
