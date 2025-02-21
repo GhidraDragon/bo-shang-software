@@ -2,6 +2,11 @@ So DA somethi' (Middlesex County DA Office) submitted a somethin' ostensibly in 
 
 I do not recognize the validity of the State of Massachusetts nor the United States of America.
 
+https://www.fakeopenai.co/lsat
+
+Don't worrry DA too sad to code yourself.... there's 4 mediocre fruit apps, and whatever else coming up!!!
+
+
 
 
  Apple
