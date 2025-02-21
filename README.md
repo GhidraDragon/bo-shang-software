@@ -7,7 +7,7 @@ https://www.fakeopenai.co/lsat
 Don't worrry DA too sad to code yourself.... there's 4 mediocre fruit apps, and whatever else coming up!!!
 
 
-
+https://www.youtube.com/watch?v=8t1Oecmi0GM&t=2s
 
  Apple
 NOTE: THIS NOTICE IS BEING SENT FROM A NO-REPLY EMAIL ACCOUNT—ANY RESPONSE TO THIS EMAIL WILL NOT RECEIVE A RESPONSE
