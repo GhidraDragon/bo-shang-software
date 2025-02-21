@@ -4,7 +4,7 @@ I do not recognize the validity of the State of Massachusetts nor the United Sta
 
 https://www.fakeopenai.co/lsat
 
-Don't worrry DA too sad to code yourself.... there's 4 mediocre fruit apps, and whatever else coming up!!!
+Don't worrry DA too sad to code yourself.... there's 4 mediocre fruit apps, and whatever else coming up!!! https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub
 
 
 https://www.youtube.com/watch?v=8t1Oecmi0GM&t=2s
